@@ -6,24 +6,34 @@ from pprint import pprint
 
 filename = sys.argv[1]
 fileout = sys.argv[2]
-target = open(fileout, 'w')
+target = open(fileout, 'wb')
+progress = open('progress.txt', 'wb')
 target.truncate()
 c = pycurl.Curl()
-
+errorMessage = 'errorMessage'
 def getUserInfo(userId):
   i = 1
-  while i <=3:
+  while i <=1:
     link = 'https://iii3mdppm7.execute-api.us-east-1.amazonaws.com/prod/UserPortfolioEndpoint/'+userId
     c.setopt(pycurl.URL, link)
     buf = cStringIO.StringIO()
     c.setopt(c.WRITEFUNCTION, buf.write)
     c.perform()
     resp = buf.getvalue()
-    if resp[2:14] != 'errorMessage':
-      return resp
-    i += 1
-  return 'error'
-
+    resp = json.loads(resp)
+    if errorMessage in resp:
+      i += 1
+    else:
+      del resp['projects']
+      del resp['bio']
+      resp['skill'] = []
+      if resp['specializations'] is not None:
+        spe = resp['specializations']
+        for obj in spe:
+          resp['skill'].append(obj['name'])
+        del resp['specializations']
+      return resp 
+  return resp
 
 with open(filename) as data_file:    
     data = json.load(data_file)
@@ -33,18 +43,28 @@ for proj in data:
  if members is not None:
   for user in members:
    users[user] = 1
-data = None
+data = []
 target.write('[')
 size = len(users)
 print size
 i = 1
+err_count = 0
+progress.write('\n Total user count:'+str(size))
 for key in users:
   resp = getUserInfo(key)
-  if resp != 'error':
-    if(i < size):
-      resp += ','
-    target.write(resp)
+  if errorMessage in resp:
+    err_count += 1
+    continue
+  else:
+    if(i != 1):
+     target.write(',')
+    target.write(json.dumps(resp))
   i = i + 1
+  if i % 300 == 0:
+    progress.write(str(i) + ',\n')
+  progress.flush()
 target.write(']')
+progress.write('\n Total error count:'+str(err_count))
 print 'Done....'
-target.close
+target.close()
+progress.close()
