@@ -1,277 +1,495 @@
-Toronto, Ontario, Canada
-Buffalo, New York, United States
-India
-Nashville, Tennessee, United States
-West Lafayette, Indiana, United States
 New York, New York, United States
-Singapore
-Waterloo, Ontario, Canada
-Nairobi, Nairobi, Kenya
-Surat, Gujarat, India
-West Bloomfield Township, Michigan, United States
-Puerto Rico
-Boston, Massachusetts, United States
-London, Ontario, Canada
-Montreal, Quebec, Canada
-Niamey, Niamey, Niger
-Ames, Iowa, United States
-Bradford, England, United Kingdom
-Memphis, Tennessee, United States
-Cincinnati, Ohio, United States
-Los Angeles, California, United States
-Orlando, Florida, United States
-New York, New York, United States
-New York, New York, United States
-Boston, Massachusetts, United States
-Vancouver, British Columbia, Canada
-Vancouver, British Columbia, Canada
-Pittsburgh, Pennsylvania, United States
-Singapore
+California, United States
+Dallas, Texas, United States
 Toronto, Ontario, Canada
-Nashville, Tennessee, United States
-Surat, Gujarat, India
-Taiwan
-Albany, New York, United States
-Hamilton, Ontario, Canada
-Columbia, Maryland, United States
-Sydney, New South Wales, Australia
-San Francisco, California, United States
-Culver City, California, United States
-Boston, Massachusetts, United States
-Fort Myers, FL, US
-Edinburg, Texas, United States
-Orlando, FL, US
-Richmond, British Columbia, Canada
-Rochester, New York, United States
-Calgary, Alberta, Canada
-Virginia, United States
-Graz, Styria, Austria
-San Francisco, California, United States
-Bangalore, Karnataka, India
-Ames, Iowa, United States
-Boston, Massachusetts, United States
-Waterloo, Ontario, Canada
-Louisville, Kentucky, United States
-Bengaluru, KA, IN
-Bangalore, Karnataka, India
-McAllen, Texas, United States
-San Francisco, California, United States
-Los Angeles, California, United States
-Austin, Texas, United States
-Bengaluru, KA, IN
-San Francisco, California, United States
-San Francisco, California, United States
-Montreal, Quebec, Canada
-Burnaby, British Columbia, Canada
-East Lansing, Michigan, United States
-Porto, Porto District, Portugal
+Amherst, Massachusetts, United States
+Providence, Rhode Island, United States
 Toronto, Ontario, Canada
-Auburn, California, United States
-Nairobi, Nairobi, Kenya
-Bradford, England, United Kingdom
+Springfield, Massachusetts, United States
+Washington, District of Columbia, United States
+Amherst, MA, US
+Brampton, Ontario, Canada
+Princeton, New Jersey, United States
+Boston, Massachusetts, United States
 Philadelphia, Pennsylvania, United States
-Porto, Porto District, Portugal
+Baltimore, Maryland, United States
 San Francisco, California, United States
-Helsinki, Uusimaa, Finland
+New Haven, Connecticut, United States
+West Orange, New Jersey, United States
 Hamilton, Ontario, Canada
+New York, New York, United States
 Montreal, Quebec, Canada
-Hamilton, Ontario, Canada
-Toronto, Ontario, Canada
+Mississauga, Ontario, Canada
 Boston, Massachusetts, United States
-Bremen, Bremen, Germany
-Richmond, VA, US
+Rochester, New York, United States
 Toronto, Ontario, Canada
-Herndon, VA, US
+New Haven, Connecticut, United States
+Toronto Division, Ontario, Canada
+Montreal, Quebec, Canada
+Harrisburg, Pennsylvania, United States
+Toronto, Ontario, Canada
+Pittsburgh, Pennsylvania, United States
+Blacksburg, Virginia, United States
+Boston, Massachusetts, United States
+Old Bridge Township, New Jersey, United States
+Montreal, Quebec, Canada
+Salisbury, MD, US
+Toronto, Ontario, Canada
+New York, New York, United States
+New York, New York, United States
+Amherst, Massachusetts, United States
+Houston, Texas, United States
+New York, New York, United States
+Waterloo, Ontario, Canada
+College Park, MD, US
 Montreal, Quebec, Canada
 Cambridge, Massachusetts, United States
-Denver, Colorado, United States
-Montreal, Quebec, Canada
-San Diego, California, United States
-New York, New York, United States
-Bucharest, Romania
-Tbilisi, Tbilisi, Georgia
-Waterloo, Ontario, Canada
-Los Angeles, California, United States
-San Francisco, California, United States
-Rochester, New York, United States
-Ewing Township, New Jersey, United States
-Saint Petersburg, FL, US
-Vancouver, British Columbia, Canada
-Vancouver, British Columbia, Canada
-Cincinnati, Ohio, United States
-San Antonio, Texas, United States
-Cedar Rapids, IA, US
-Rochester, New York, United States
-Jaipur, Rajasthan, India
-Pune, Maharashtra, India
-Kolkata, West Bengal, India
-Trenton, New Jersey, United States
-Nashville, Tennessee, United States
-Princeton, New Jersey, United States
-Louisville, Kentucky, United States
-San Francisco, California, United States
-Waltham, Massachusetts, United States
-Vancouver, British Columbia, Canada
-York, Pennsylvania, United States
-Oakland, California, United States
+Washington, District of Columbia, United States
 Urbana, Illinois, United States
-New York, New York, United States
-Kitchener, Ontario, Canada
-Singapore
-Regina, Saskatchewan, Canada
-Sunnyvale, California, United States
+Pittsburgh, Pennsylvania, United States
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Hamilton, Ontario, Canada
+Philadelphia, Pennsylvania, United States
+Hamilton, Ontario, Canada
+Montreal, Quebec, Canada
+Seattle, Washington, United States
+Toronto, Ontario, Canada
+Blacksburg, Virginia, United States
+Troy, NY, US
+Troy, New York, United States
+Boston, Massachusetts, United States
+Aurora, Ontario, Canada
+New Haven, Connecticut, United States
+Hamilton, Ontario, Canada
+Atlanta, Georgia, United States
+Blacksburg, Virginia, United States
+Northfield, Minnesota, United States
+Toronto, Ontario, Canada
+New Haven, Connecticut, United States
+New York, New York, United States
+Boston, Massachusetts, United States
+Rockville, Maryland, United States
+Medford, Massachusetts, United States
+London, Ontario, Canada
+Ithaca, New York, United States
+Virginia, United States
+Los Angeles, California, United States
+Pleasanton, California, United States
+Philadelphia, PA, US
+Markham, Ontario, Canada
+Waterloo Regional Municipality, ON, CA
+New York, New York, United States
+Cambridge, Massachusetts, United States
+Evanston, Illinois, United States
+Providence, Rhode Island, United States
 Princeton, New Jersey, United States
+Boston, Massachusetts, United States
 New York, New York, United States
-San Mateo, California, United States
-Bucharest, Romania
 New York, New York, United States
+Laurel, Maryland, United States
+New Haven, Connecticut, United States
+Boston, Massachusetts, United States
+Philadelphia, Pennsylvania, United States
+Toronto, Ontario, Canada
+Montreal, Quebec, Canada
+Troy, New York, United States
+Somerville, Massachusetts, United States
+Montreal, Quebec, Canada
+Ann Arbor, Michigan, United States
+New Haven, Connecticut, United States
+Cambridge, Massachusetts, United States
+Cambridge, Massachusetts, United States
+Oakville, Ontario, Canada
+Hamilton, Ontario, Canada
+Dallas, TX, US
+Herndon, Virginia, United States
+Waterloo, Ontario, Canada
+New York, New York, United States
+South Hadley, Massachusetts, United States
+Santa Clara, California, United States
+Vienna, Virginia, United States
+Montreal, Quebec, Canada
+New Haven, Connecticut, United States
+Boston, Massachusetts, United States
+Blacksburg, Virginia, United States
+McLean, Virginia, United States
+Toronto, Ontario, Canada
+New Haven, Connecticut, United States
+Cambridge, Massachusetts, United States
+Orangeburg, South Carolina, United States
+Montreal, Quebec, Canada
+New Haven, Connecticut, United States
+Cambridge, Massachusetts, United States
+Osceola, IN, US
+Princeton, New Jersey, United States
+Salinas, California, United States
+Washington, District of Columbia, United States
+Stony Brook, New York, United States
+Toronto, Ontario, Canada
+Cincinnati, Ohio, United States
+Montreal, Quebec, Canada
+New Haven, Connecticut, United States
+Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+London, Ontario, Canada
+Ottawa, Ontario, Canada
+Dallas, Texas, United States
+Stanford, California, United States
+Montreal, Quebec, Canada
+Toronto, Ontario, Canada
+Ann Arbor, Michigan, United States
+Salinas, California, United States
+New York, New York, United States
+Pittsburgh, Pennsylvania, United States
+Northfield, Minnesota, United States
+Cleveland, Ohio, United States
+Hamilton, Ontario, Canada
+Hamilton, Ontario, Canada
+Pittsburgh, Pennsylvania, United States
+New York, New York, United States
+Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+Troy, New York, United States
+Norman, Oklahoma, United States
+Troy, New York, United States
+Chicago, Illinois, United States
+Mississauga, ON, CA
+Boca Raton, Florida, United States
+Gonzales, CA, US
+Montreal, Quebec, Canada
+Boston, Massachusetts, United States
+Montreal, Quebec, Canada
+New Haven, Connecticut, United States
+Washington, District of Columbia, United States
+Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
+Ann Arbor, Michigan, United States
+Los Angeles, California, United States
+College Park, Maryland, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Philadelphia, Pennsylvania, United States
+New York, New York, United States
+Toronto, Ontario, Canada
+Cambridge, Massachusetts, United States
+Toronto, Ontario, Canada
+Hamilton, Ontario, Canada
+Binghamton, New York, United States
+Toronto, Ontario, Canada
+New York, New York, United States
+Waterloo, Ontario, Canada
+Montreal, Quebec, Canada
+Toronto, Ontario, Canada
+Hamilton, Ontario, Canada
+Toronto, Ontario, Canada
+South Hadley, Massachusetts, United States
+New Haven, Connecticut, United States
+New Haven, Connecticut, United States
+Montreal, Quebec, Canada
+Berkeley, California, United States
+Waterloo, Ontario, Canada
+Boston, Massachusetts, United States
+Waterloo, Ontario, Canada
+Hanover, New Hampshire, United States
+Toronto, Ontario, Canada
+Ardmore, Pennsylvania, United States
+College Park, Maryland, United States
+Troy, New York, United States
+Urbana, Illinois, United States
+Berkeley, California, United States
+Wellesley, MA, US
+Hamilton, Ontario, Canada
+Waterloo, Ontario, Canada
+Ann Arbor, Michigan, United States
+Montreal, Quebec, Canada
+Cambridge, Massachusetts, United States
+Ann Arbor, Michigan, United States
+Montreal, Quebec, Canada
+Montreal, Quebec, Canada
+Pittsburgh, Pennsylvania, United States
+Totowa, NJ, US
+Cambridge, Massachusetts, United States
+Hamilton, Ontario, Canada
+New Haven, Connecticut, United States
+Washington, District of Columbia, United States
+Amherst, Massachusetts, United States
+Hamilton, Ontario, Canada
+Hamilton, Ontario, Canada
+Amherst, Massachusetts, United States
+East Lansing, Michigan, United States
+Waterloo, Ontario, Canada
+Nashville, Tennessee, United States
+Waterloo, Ontario, Canada
+College Park, Maryland, United States
+Cambridge, Massachusetts, United States
+Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+Montreal, Quebec, Canada
+Providence, Rhode Island, United States
+Evanston, Illinois, United States
+Palo Alto, California, United States
+Vancouver, British Columbia, Canada
+Monterey, California, United States
+Washington, District of Columbia, United States
+Rochester, New York, United States
+New Haven, Connecticut, United States
+Waterloo, Ontario, Canada
+Fountain Valley, California, United States
+Toronto, ON, CA
+Toronto, Ontario, Canada
+Austin, Texas, United States
+New York, New York, United States
+Ann Arbor, Michigan, United States
+Boston, Massachusetts, United States
+Ann Arbor, Michigan, United States
+Ithaca, New York, United States
+Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+Chicago, Illinois, United States
+Urbana, Illinois, United States
+College Park, Maryland, United States
+Boston, Massachusetts, United States
+Boston, Massachusetts, United States
+Ann Arbor, Michigan, United States
+Oak Park, Illinois, United States
+Williamsburg, Virginia, United States
+Hamilton, Ontario, Canada
+Ithaca, New York, United States
+Huntington, West Virginia, United States
+McLean, Virginia, United States
+Los Angeles, California, United States
+New Haven, Connecticut, United States
+New York, New York, United States
+Rochester, New York, United States
+London, Ontario, Canada
+Pittsburgh, Pennsylvania, United States
+Boston, Massachusetts, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Atlanta, Georgia, United States
+Ann Arbor, Michigan, United States
+Hamilton, Ontario, Canada
+Ann Arbor, Michigan, United States
+New Haven, Connecticut, United States
+Toronto, Ontario, Canada
+Boston, Massachusetts, United States
+Milford, Connecticut, United States
+New York, New York, United States
+Tempe, Arizona, United States
+Montreal, Quebec, Canada
+New Haven, Connecticut, United States
+Needham, Massachusetts, United States
+New York, New York, United States
+Toronto, Ontario, Canada
+Troy, New York, United States
+Seattle, Washington, United States
+Texas, United States
+Detroit, Michigan, United States
+Cleveland, Ohio, United States
+Waterloo, Ontario, Canada
+Vaughan, Ontario, Canada
+New York, New York, United States
+Youngstown, Ohio, United States
+Vancouver, British Columbia, Canada
+Montreal, Quebec, Canada
+Chicago, Illinois, United States
+Waterloo, Ontario, Canada
+Closter, New Jersey, United States
+Toronto, Ontario, Canada
+College Park, Maryland, United States
+New Haven, Connecticut, United States
+Terre Haute, Indiana, United States
+Berkeley, California, United States
+Columbus, Ohio, United States
+Atlanta, Georgia, United States
+Cambridge, Massachusetts, United States
+Montreal, Quebec, Canada
+Berkeley, California, United States
+Edison, New Jersey, United States
+Toronto, Ontario, Canada
+Connecticut, United States
+San Francisco, California, United States
+South Hadley, Massachusetts, United States
+Waterloo, Ontario, Canada
+New York, New York, United States
+San Ramon, California, United States
+Albany, New York, United States
+Montreal, Quebec, Canada
+Hamilton, Ontario, Canada
+New Haven, Connecticut, United States
+Amherst, Massachusetts, United States
+Montreal, Quebec, Canada
+Montreal, Quebec, Canada
+Boston, Massachusetts, United States
+Hamilton, Ontario, Canada
+Hackensack, New Jersey, United States
+Toronto, Ontario, Canada
+Montreal, Quebec, Canada
+Boston, Massachusetts, United States
+Montreal, Quebec, Canada
+Hamilton, Ontario, Canada
+Montreal, Quebec, Canada
+Providence, Rhode Island, United States
+Boston, Massachusetts, United States
+New York, New York, United States
+Boston, Massachusetts, United States
+Palo Alto, California, United States
+Saratoga, California, United States
+Pleasanton, California, United States
+Montreal, Quebec, Canada
+New Haven, Connecticut, United States
+Waterloo, Ontario, Canada
+Atlanta, Georgia, United States
+Richardson, Texas, United States
+Urbana, Illinois, United States
+Ann Arbor, Michigan, United States
+New York, New York, United States
+Waterloo, Ontario, Canada
+Richmond Hill, Ontario, Canada
+Burlington, Ontario, Canada
+Toronto, Ontario, Canada
+Pittsburgh, Pennsylvania, United States
+New Haven, Connecticut, United States
+New Haven, Connecticut, United States
+Ithaca, New York, United States
+South Hadley, Massachusetts, United States
+Chapel Hill, North Carolina, United States
+Cambridge, Massachusetts, United States
+Toronto, Ontario, Canada
+Providence, Rhode Island, United States
+Montreal, Quebec, Canada
+Philadelphia, Pennsylvania, United States
+Providence, Rhode Island, United States
+Montreal, Quebec, Canada
+Hamilton, Ontario, Canada
+Toronto, Ontario, Canada
+Austin, Texas, United States
+Waterloo, Ontario, Canada
+Providence, Rhode Island, United States
+Chicago, Illinois, United States
+Waterloo, Ontario, Canada
+Cambridge, Massachusetts, United States
+Stanford, California, United States
+Hamilton, Ontario, Canada
+Richmond Hill, Ontario, Canada
+Markham, Ontario, Canada
+Cambridge, Massachusetts, United States
+Bowling Green, Kentucky, United States
+Santa Cruz, California, United States
+New Jersey, United States
+Providence, Rhode Island, United States
+Troy, New York, United States
+Hamilton, Ontario, Canada
+Providence, Rhode Island, United States
+East Lansing, Michigan, United States
+New Haven, Connecticut, United States
+Cambridge, Massachusetts, United States
+Philadelphia, Pennsylvania, United States
+Waterloo, Ontario, Canada
+Philadelphia, Pennsylvania, United States
+New Haven, Connecticut, United States
+New York, New York, United States
+Markham, Ontario, Canada
+Baltimore, Maryland, United States
+Providence, Rhode Island, United States
+Waterloo, Ontario, Canada
+Boston, Massachusetts, United States
+Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+Santa Monica, California, United States
+Montreal, Quebec, Canada
+Providence, Rhode Island, United States
+Montreal, Quebec, Canada
+Chicago, Illinois, United States
+Buffalo, New York, United States
+Ann Arbor, Michigan, United States
+Tampa, Florida, United States
+New Haven, Connecticut, United States
+New York, New York, United States
+Mississippi State University, MS, US
+Vancouver, British Columbia, Canada
+Ithaca, New York, United States
+Amherst, Massachusetts, United States
+Hamilton, Ontario, Canada
 Fremont, California, United States
 Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
-Guelph, Ontario, Canada
-Guadalajara, JAL, MX
-San Francisco, California, United States
-Bucharest, Romania
-Lisbon, Lisbon District, Portugal
-Atlanta, Georgia, United States
-Vancouver, British Columbia, Canada
-Woodbridge, England, GB
-Provo, Utah, United States
-Vancouver, British Columbia, Canada
-State College, Pennsylvania, United States
-Walnut Creek, California, United States
-Vancouver, British Columbia, Canada
-Jal., MX
-Edinburg, Texas, United States
-Pittsburgh, Pennsylvania, United States
-Princeton, New Jersey, United States
-Cupertino, California, United States
-San Francisco, California, United States
-Blacksburg, Virginia, United States
-Philadelphia, Pennsylvania, United States
-Waterloo, Ontario, Canada
-San Jose, California, United States
-Guadalajara, JAL, MX
-Edinburg, Texas, United States
-New York, New York, United States
-Alesund, Møre og Romsdal, NO
-Vancouver, British Columbia, Canada
-Cupertino, California, United States
-Waterloo, Ontario, Canada
-Gainesville, Florida, United States
-Dublin, California, United States
-Wellington, Wellington, NZ
-San Diego, California, United States
-Waterloo, Ontario, Canada
-Toronto, Ontario, Canada
-Vancouver, British Columbia, Canada
-Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
-Warsaw, Masovian Voivodeship, Poland
-Saratoga, California, United States
-Jaipur, Rajasthan, India
-Waltham, Massachusetts, United States
-Saylorsburg, PA, US
-Nairobi, Nairobi, Kenya
-France
-DeLand, Florida, United States
-Vancouver, British Columbia, Canada
-San Francisco, California, United States
-Bangalore, Karnataka, India
-New York, New York, United States
-New York, New York, United States
-Pittsburgh, Pennsylvania, United States
-Rochester, Michigan, United States
-Guadalajara, JAL, MX
-Paris, Île-de-France, France
-Kyiv, Kyiv city, UA
-State College, Pennsylvania, United States
-San Francisco, California, United States
-Ames, Iowa, United States
-New York, New York, United States
-San Francisco, California, United States
-London, Ontario, Canada
 Providence, Rhode Island, United States
-Bethlehem, Pennsylvania, United States
+Cambridge, Massachusetts, United States
+New Haven, Connecticut, United States
+Princeton, New Jersey, United States
+New Haven, Connecticut, United States
+Miami, Florida, United States
 San Francisco, California, United States
-Toronto, Ontario, Canada
+United States
+Canada
+Copenhagen, Capital Region of Denmark, Denmark
 Montreal, Quebec, Canada
-Albany, New York, United States
-Bemidji, Minnesota, United States
-Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
-Ames, Iowa, United States
-Whitmore Lake, Michigan, United States
-Waterloo, ON, CA
-San Diego, California, United States
-Los Angeles, California, United States
-Woodbridge Township, New Jersey, United States
-Kyiv, Kyiv city, UA
-Elmira, NY, US
-Beverly Hills, California, United States
-Adelaide, South Australia, Australia
-Mayagüez, Puerto Rico
-Bangalore, Karnataka, India
-Philadelphia, Pennsylvania, United States
-Nashville, Tennessee, United States
-Blacksburg, Virginia, United States
-Phoenix, Arizona, United States
-Texas, United States
-Birmingham, England, United Kingdom
-Berlin, Berlin, Germany
-Los Angeles, California, United States
-San Francisco, California, United States
-Los Angeles, California, United States
-Lexington, Kentucky, United States
-Pittsburgh, Pennsylvania, United States
-Boston, Massachusetts, United States
-Surat, Gujarat, India
-Ames, IA, US
-Singapore
-Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-Pittsburgh, Pennsylvania, United States
-Washington, District of Columbia, United States
-Montreal, Quebec, Canada
-Philadelphia, Pennsylvania, United States
-Rochester, New York, United States
-Latham, NY, US
-San Jose, California, United States
-India
-Bellevue, Washington, United States
-CA, US
-Long Beach, California, United States
-Bucharest, Romania
-Troy, New York, United States
-Warsaw, Masovian Voivodeship, Poland
-Kremenchuk, Poltavs'ka oblast, UA
-Ames, Iowa, United States
-Santa Cruz, California, United States
+New Haven, Connecticut, United States
 Hamilton, Ontario, Canada
-San Juan, Texas, United States
-Helsinki, Uusimaa, Finland
-Boston, Massachusetts, United States
-Philadelphia, Pennsylvania, United States
+Vancouver, British Columbia, Canada
+Chicago, Illinois, United States
+Pittsburgh, Pennsylvania, United States
+Chicago, Illinois, United States
+New Haven, Connecticut, United States
+Hamilton, Ontario, Canada
 New York, New York, United States
-Vancouver, British Columbia, Canada
 Montreal, Quebec, Canada
-Amherst, Massachusetts, United States
-Adelaide, South Australia, Australia
+Pittsburgh, Pennsylvania, United States
+New York, New York, United States
+Seattle, Washington, United States
+Toronto, Ontario, Canada
+Boston, Massachusetts, United States
 Hamilton, Ontario, Canada
-Bangalore, Karnataka, India
-Bloomfield Hills, Michigan, United States
-Salamanca, Gto., MX
-Philadelphia, Pennsylvania, United States
-S.L.P., MX
-Scottsdale, AZ, US
-Madison, Wisconsin, United States
-West Lafayette, IN, US
-Edinburgh, Scotland, GB
-Centreville, Virginia, United States
-San Francisco, California, United States
-Nashville, Tennessee, United States
+West Haven, Connecticut, United States
 Washington, District of Columbia, United States
-Vancouver, British Columbia, Canada
-Pune, Maharashtra, India
-Sandhurst, VIC, AU
+Chapel Hill, North Carolina, United States
+Hamilton, Ontario, Canada
+Markham, Ontario, Canada
+New Haven, Connecticut, United States
+Toronto, Ontario, Canada
+Boston, Massachusetts, United States
+Wellesley, MA, US
+Troy, New York, United States
+New York, New York, United States
+New York, New York, United States
+New York, New York, United States
+Chicago, Illinois, United States
+Ithaca, New York, United States
+Austin, Texas, United States
+Huntington, West Virginia, United States
+Hamilton, Ontario, Canada
+Rochester, New York, United States
+Ann Arbor, Michigan, United States
+New York, New York, United States
+Illinois, United States
+Hamilton, Ontario, Canada
+Toronto, Ontario, Canada
+New Brunswick, New Jersey, United States
+Stony Brook, New York, United States
+Toronto, ON, CA
+Rochester, New York, United States
+Toronto, Ontario, Canada
+Austin, Texas, United States
+Barrie, Ontario, Canada
+Markham, Ontario, Canada
+Boston, Massachusetts, United States
+Waterloo, Ontario, Canada
+Montreal, Quebec, Canada
+Hartford, Connecticut, United States
+Washington, District of Columbia, United States
+Pittsburgh, Pennsylvania, United States
+Waterloo, Ontario, Canada
+Providence, Rhode Island, United States
+Cambridge, Massachusetts, United States
+Blacksburg, Virginia, United States
+Waterloo, Ontario, Canada
+West Lafayette, Indiana, United States
+Troy, New York, United States
+Blacksburg, Virginia, United States
+Atlanta, Georgia, United States
+Ithaca, New York, United States
+Toronto, Ontario, Canada

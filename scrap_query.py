@@ -10,11 +10,10 @@ target.truncate()
 total = int(sys.argv[2])
 pagesize = 6
 page = total/pagesize
-
+print query
 if(total % pagesize > 0):
  page += 1
 i = 1
-query = sys.argv[1]
 if query == 'full':
   query = ''
 c = pycurl.Curl()

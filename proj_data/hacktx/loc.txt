@@ -1,57 +1,56 @@
-Toronto, Ontario, Canada
-Bremen, Bremen, Germany
-Toronto, Ontario, Canada
-Bucharest, Romania
-Waterloo, Ontario, Canada
-Cupertino, California, United States
-New York, New York, United States
-Nairobi, Nairobi, Kenya
-Surat, Gujarat, India
-Birmingham, England, United Kingdom
-Alesund, Møre og Romsdal, NO
-Surat, Gujarat, India
-Los Angeles, California, United States
-San Francisco, California, United States
-Nairobi, Nairobi, Kenya
-Bangalore, Karnataka, India
-Toronto, Ontario, Canada
-Toronto, Ontario, Canada
-Surat, Gujarat, India
-Cedar Rapids, IA, US
-Waterloo, Ontario, Canada
-Hamilton, Ontario, Canada
-Latham, NY, US
-Kolkata, West Bengal, India
-Trenton, New Jersey, United States
-Troy, New York, United States
-Sydney, New South Wales, Australia
-Nairobi, Nairobi, Kenya
-Guadalajara, JAL, MX
-Princeton, New Jersey, United States
-New York, New York, United States
-Oakland, California, United States
-Urbana, Illinois, United States
-Santa Cruz, California, United States
-Hamilton, Ontario, Canada
-Princeton, New Jersey, United States
-San Mateo, California, United States
-New York, New York, United States
-Helsinki, Uusimaa, Finland
-San Francisco, California, United States
-Fremont, California, United States
+College Station, Texas, United States
+Austin, Texas, United States
+Chicago, Illinois, United States
+Allen, Texas, United States
+Austin, Texas, United States
+Austin, TX, US
+Austin, Texas, United States
+Dallas, Texas, United States
+Austin, Texas, United States
+Norman, Oklahoma, United States
+Berkeley, California, United States
+Austin, Texas, United States
+Austin, Texas, United States
+Edinburg, TX, US
+Houston, Texas, United States
+Austin, Texas, United States
+Austin, Texas, United States
+Texas, United States
+Austin, Texas, United States
+Austin, Texas, United States
+Houston, Texas, United States
+Austin, TX, US
+Austin, Texas, United States
+Austin, Texas, United States
+Dallas, Texas, United States
+Austin, Texas, United States
+Houston, Texas, United States
+Austin, Texas, United States
+College Station, Texas, United States
+Austin, Texas, United States
 New York, New York, United States
 Austin, Texas, United States
-Bucharest, Romania
-Bucharest, Romania
-San Jose, California, United States
-Toronto, Ontario, Canada
-West Lafayette, IN, US
-Auburn, California, United States
-Ewing Township, New Jersey, United States
-Helsinki, Uusimaa, Finland
-Bucharest, Romania
-Hamilton, Ontario, Canada
-Toronto, Ontario, Canada
-Beverly Hills, California, United States
-Princeton, New Jersey, United States
-Pune, Maharashtra, India
+Richardson, Texas, United States
+Houston, Texas, United States
+Edinburg, Texas, United States
+Austin, Texas, United States
+Austin, Texas, United States
+Austin, Texas, United States
+Houston, Texas, United States
+Austin, Texas, United States
+Houston, Texas, United States
+Houston, Texas, United States
+Austin, Texas, United States
+College Station, Texas, United States
+College Station, Texas, United States
+Austin, Texas, United States
+Dallas, Texas, United States
+Austin, Texas, United States
+Austin, Texas, United States
+Berkeley, California, United States
+Austin, Texas, United States
+San Francisco, California, United States
+Austin, Texas, United States
+Austin, Texas, United States
+Texas, United States
+College Station, Texas, United States
