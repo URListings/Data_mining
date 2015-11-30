@@ -2,8 +2,8 @@ import pycurl
 import cStringIO
 import sys
 
-filename = sys.argv[3]
-query = ""
+filename = sys.argv[1]
+query = sys.argv[3]
 target = open(filename, 'w')
 target.truncate()
 
