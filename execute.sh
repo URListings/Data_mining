@@ -30,6 +30,9 @@ python filter_proj_fields.py proj/hacknorth.json class_name,name,tagline,slug,ph
 #Yale hack filter
 python filter_proj_fields.py proj/yhack.json class_name,name,tagline,slug,photo,has_video,like_count,comment_count proj_data/yhack/yhack.json 1
 
+#cornell
+python filter_proj_fields.py proj/cornell.json class_name,name,tagline,slug,photo,has_video,like_count,comment_count proj_data/cornell/cornell.json 1
+
 #Projects file filter
 python filter_proj_fields.py proj/proj.json class_name,tagline,slug,photo,has_video proj_data/proj.json 1
 
@@ -55,3 +58,4 @@ python filter_user_data.py proj_data/hacktx/hacktx.json proj_data/user_data.json
 python filter_user_data.py proj_data/hacknorth/hacknorth.json proj_data/user_data.jsondict.json proj_data/hacknorth/loc.txt
 python filter_user_data.py proj_data/yhack/yhack.json proj_data/user_data.jsondict.json proj_data/yhack/loc.txt
 python filter_user_data.py proj_data/hackru/hackru.json proj_data/user_data.jsondict.json proj_data/hackru/loc.txt
+python filter_user_data.py proj_data/cornell/cornell.json proj_data/user_data.jsondict.json proj_data/cornell/loc.txt
