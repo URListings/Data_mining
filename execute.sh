@@ -44,6 +44,9 @@ python filter_tags.py proj_data/proj.json proj_data/tags.csv 1
 #Get project tags with true false. The last parameter determines the the minimum count of a tag to be extracted
 python filter_tags.py proj_data/proj.json proj_data/tags_true.csv 2 200
 
+#Get project tags with members weightage count
+python filter_tags.py proj_data/proj.json proj_data/tags_true_cumu.csv 3 200 proj_data/user_data.jsondict.json
+
 #Filter the user data noise
 python filter_proj_fields.py proj/user_data.json avatar_url proj_data/user_data.json 2
 
