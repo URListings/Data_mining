@@ -72,8 +72,7 @@ def tags_with_true():
  print 'Done....'
 
 def tags_with_userGroup():
- winner = 'user_wins_comp'
- other = ['members', 'hack_count','proj_count','avg_exp']
+ other = ['members', 'hack_count','proj_count','avg_exp','user_wins_comp']
  min_freq_count = int(sys.argv[4])
  user_file = sys.argv[5]
  with open(filename) as data_file:    
@@ -99,7 +98,6 @@ def tags_with_userGroup():
    if count > min_freq_count:
     tag_header.append(key)
  tag_header.sort()
- tag_header.append(winner)
  tagdata.append(tag_header)
  i = 0
  tagged_proj = 0
@@ -120,15 +118,13 @@ def tags_with_userGroup():
     if s in tag_dic:
       row.append('True')
       insert = 1
-    elif s == winner:
-      if proj['winner'] == True and insert == 1:
-        i += 1
-      row.append(str(proj['winner'])) 
     else:
       row.append('?')
   if insert == 1:
    members = proj['members']
    members_count = 1 if members is None else len(members)
+   if members_count >=4:
+	members_count = 4
    hack_count = 1  
    proj_count = 1
    avg_exp = 1
@@ -137,11 +133,16 @@ def tags_with_userGroup():
         if m in userDic:
           hack_count += int(userDic[m]['hackathons_count'])
           proj_count += int(userDic[m]['projects_count'])
+   hack_count = hack_count if hack_count <=10 else 10  
+   proj_count = proj_count if proj_count <=10 else 10
    avg_exp = max(hack_count, proj_count)/members_count
    row.append(members_count)
    row.append(hack_count)
    row.append(proj_count)
    row.append(avg_exp)
+   if proj['winner'] == True:
+     i += 1
+   row.append(str(proj['winner']))
    tagged_proj_included += 1
    tagdata.append(row)
  print 'Project with tags:' + str(tagged_proj)
