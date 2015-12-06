@@ -25,7 +25,7 @@ def filter_location():
      user_map[m] = 1
  for key in user_map:
    loc = users[key]['location']
-   if loc is not None and loc != "" and (", US" in loc or "United States" in loc):
+   if loc is not None and loc != "":
      locations += loc
      locations += '\n'
  return locations
