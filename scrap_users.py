@@ -51,8 +51,13 @@ i = 1
 err_count = 0
 progress.write('\n Total user count:'+str(size))
 for key in users:
-  resp = getUserInfo(key)
-  if errorMessage in resp:
+  try:
+    resp = getUserInfo(key.strip())
+  except Exception:
+    progress.write('\nError for the user:' + key)
+    excep = True
+    
+  if screenName not in resp or excep == True:
     err_count += 1
     continue
   else:

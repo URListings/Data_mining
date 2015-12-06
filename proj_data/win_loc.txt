@@ -1,11 +1,12 @@
+Palo Alto, California, United States
 San Antonio, Texas, United States
 New York, New York, United States
 Mountain View, California, United States
 New York, New York, United States
 Milpitas, California, United States
 East Lansing, Michigan, United States
+New York, New York, United States
 Potomac, Maryland, United States
-Pleasanton, California, United States
 Riverside, California, United States
 Kent, Ohio, United States
 Durham, North Carolina, United States
@@ -23,6 +24,7 @@ San Francisco, California, United States
 Berkeley, California, United States
 Cambridge, Massachusetts, United States
 Irvine, California, United States
+Atlanta, Georgia, United States
 San Francisco, California, United States
 Tampa, Florida, United States
 Reno, Nevada, United States
@@ -32,6 +34,7 @@ Austin, Texas, United States
 Santa Clara, California, United States
 Charlottesville, Virginia, United States
 New Jersey, United States
+Los Angeles, California, United States
 Newark, Delaware, United States
 New York, New York, United States
 San Jose, California, United States
@@ -41,6 +44,7 @@ New York, New York, United States
 San Diego, California, United States
 Austin, Texas, United States
 East Brunswick, New Jersey, United States
+San Francisco, California, United States
 Terre Haute, Indiana, United States
 New York, New York, United States
 Princeton, New Jersey, United States
@@ -50,7 +54,9 @@ Cambridge, Massachusetts, United States
 New York, New York, United States
 Princeton, New Jersey, United States
 San Francisco, California, United States
+West Lafayette, Indiana, United States
 Washington, District of Columbia, United States
+Santa Monica, California, United States
 Los Angeles, California, United States
 Irvine, California, United States
 Riverside, California, United States
@@ -63,14 +69,13 @@ Pittsburgh, Pennsylvania, United States
 Los Angeles, California, United States
 Bethlehem, Pennsylvania, United States
 Piscataway Township, New Jersey, United States
+New York, New York, United States
 Hanover, New Hampshire, United States
 Cleveland, Ohio, United States
-Sayreville, New Jersey, United States
 Austintown, OH, US
 New York, New York, United States
 San Francisco, California, United States
 United States
-Pittsburgh, Pennsylvania, United States
 Baltimore, Maryland, United States
 Somerville, Massachusetts, United States
 New York, New York, United States
@@ -87,13 +92,14 @@ Ann Arbor, Michigan, United States
 Champaign, Illinois, United States
 San Francisco, California, United States
 New York, New York, United States
+Rochester, New York, United States
 Reno, Nevada, United States
 Boston, Massachusetts, United States
 Rochester, New York, United States
 Ann Arbor, Michigan, United States
 Boston, Massachusetts, United States
 San Francisco, California, United States
-Kent, Ohio, United States
+Santa Clara, California, United States
 San Diego, California, United States
 New York, New York, United States
 Boulder, Colorado, United States
@@ -120,7 +126,7 @@ Austin, Texas, United States
 Los Angeles, California, United States
 Rochester, New York, United States
 Philadelphia, Pennsylvania, United States
-Johns Creek, Georgia, United States
+San Francisco, California, United States
 Cedar Rapids, Iowa, United States
 Philadelphia, Pennsylvania, United States
 Pittsburgh, Pennsylvania, United States
@@ -138,10 +144,10 @@ Ann Arbor, Michigan, United States
 Rocklin, California, United States
 New York, New York, United States
 Mountain View, California, United States
+Dublin, California, United States
 Riverside, California, United States
 East Lansing, Michigan, United States
 Irvine, California, United States
-Plainsboro Township, New Jersey, United States
 Philadelphia, Pennsylvania, United States
 Los Angeles, California, United States
 Pomona, California, United States
@@ -168,15 +174,18 @@ Ann Arbor, Michigan, United States
 Las Vegas, Nevada, United States
 Henderson, Nevada, United States
 Kirkland, Washington, United States
+Austin, Texas, United States
+San Francisco, California, United States
 CA, US
 Philadelphia, Pennsylvania, United States
-Vestal, NY, US
+New York, New York, United States
 Diamond Bar, California, United States
 Philadelphia, Pennsylvania, United States
 Palo Alto, California, United States
 Boston, Massachusetts, United States
 Atlanta, Georgia, United States
 San Francisco, California, United States
+Cambridge, Massachusetts, United States
 Tenafly, New Jersey, United States
 New York, New York, United States
 San Francisco, California, United States
@@ -187,6 +196,7 @@ Boulder, Colorado, United States
 Baltimore, Maryland, United States
 Ohio, United States
 Seattle, Washington, United States
+Dumont, New Jersey, United States
 Davis, California, United States
 Philadelphia, Pennsylvania, United States
 New York, New York, United States
@@ -196,25 +206,24 @@ Charlottesville, Virginia, United States
 Pittsburgh, Pennsylvania, United States
 Philadelphia, Pennsylvania, United States
 Pittsburgh, Pennsylvania, United States
-Dearborn Heights, Michigan, United States
 Lafayette, Indiana, United States
 Philadelphia, Pennsylvania, United States
-Kent, Ohio, United States
 San Francisco, California, United States
 New York, New York, United States
 San Francisco, California, United States
-Phoenix, Arizona, United States
 Philadelphia, Pennsylvania, United States
 Lowell, Massachusetts, United States
 Edison, New Jersey, United States
 Seattle, Washington, United States
 Cambridge, Massachusetts, United States
 Saint Louis, MO, US
+Harrisonburg, Virginia, United States
 New York, New York, United States
 Los Angeles, California, United States
 Berkeley, California, United States
 College Park, Maryland, United States
 Cambridge, Massachusetts, United States
+Ames, IA, US
 New Jersey, United States
 New York, New York, United States
 Princeton, New Jersey, United States
@@ -232,7 +241,7 @@ Ann Arbor, Michigan, United States
 Bonney Lake, Washington, United States
 San Francisco, California, United States
 Baltimore, Maryland, United States
-Washington, District of Columbia, United States
+Setauket- East Setauket, New York, United States
 Philadelphia, Pennsylvania, United States
 Ann Arbor, Michigan, United States
 San Francisco, California, United States
@@ -242,8 +251,8 @@ Austin, Texas, United States
 Roseville, California, United States
 San Francisco, California, United States
 Pittsburgh, Pennsylvania, United States
+Pomona, California, United States
 Colorado Springs, Colorado, United States
-San Francisco, California, United States
 San Francisco, California, United States
 New York, New York, United States
 Boston, Massachusetts, United States
@@ -257,6 +266,7 @@ Redwood City, California, United States
 Pittsburgh, Pennsylvania, United States
 New York, New York, United States
 Chicago, Illinois, United States
+West Lafayette, Indiana, United States
 United States
 San Francisco, California, United States
 Boston, Massachusetts, United States
@@ -272,6 +282,7 @@ Atlanta, Georgia, United States
 Des Moines, Iowa, United States
 Los Angeles, California, United States
 New York, New York, United States
+Dallas, Texas, United States
 Providence, Rhode Island, United States
 Cambridge, Massachusetts, United States
 New Haven, Connecticut, United States
@@ -295,9 +306,10 @@ Indianapolis, Indiana, United States
 Los Angeles, California, United States
 Boston, Massachusetts, United States
 Baltimore, Maryland, United States
+San Francisco, California, United States
 Houston, Texas, United States
 Honolulu, Hawaii, United States
-New York, New York, United States
+Austin, Texas, United States
 Fairfax, VA, US
 New York, New York, United States
 New York, New York, United States
@@ -336,7 +348,7 @@ Santa Barbara, California, United States
 Pittsburgh, Pennsylvania, United States
 Philadelphia, Pennsylvania, United States
 Los Angeles, California, United States
-New York, New York, United States
+Los Altos, California, United States
 Los Angeles, California, United States
 New York, New York, United States
 Tallahassee, Florida, United States
@@ -347,6 +359,7 @@ San Jose, California, United States
 Chicago, Illinois, United States
 New York, New York, United States
 San Francisco, California, United States
+Philadelphia, Pennsylvania, United States
 New York, New York, United States
 Fremont, California, United States
 Dallas, Texas, United States
@@ -363,15 +376,17 @@ Oakland, California, United States
 Chicago, Illinois, United States
 Long Beach, New York, United States
 Honolulu, Hawaii, United States
+Urbana, Illinois, United States
 Burlingame, California, United States
 Boston, Massachusetts, United States
-Palo Alto, California, United States
 Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
 Irvine, California, United States
 West Lafayette, Indiana, United States
+Rochester, New York, United States
 Atherton, California, United States
 Seattle, Washington, United States
+Texas, United States
 Downingtown, PA, US
 California, United States
 Baltimore, Maryland, United States
@@ -380,11 +395,12 @@ Champaign, Illinois, United States
 Oakland, California, United States
 Houston, TX, US
 Washington, District of Columbia, United States
+San Francisco, California, United States
 Boston, Massachusetts, United States
 New York, New York, United States
 San Francisco, California, United States
 Providence, Rhode Island, United States
-Seattle, Washington, United States
+Rochester, Michigan, United States
 San Diego, California, United States
 Gainesville, Florida, United States
 East Amherst, New York, United States
@@ -422,6 +438,7 @@ Houston, Texas, United States
 Providence, Rhode Island, United States
 Pittsburgh, Pennsylvania, United States
 Philadelphia, Pennsylvania, United States
+Sacramento, California, United States
 Atlanta, Georgia, United States
 Irvine, California, United States
 Blacksburg, Virginia, United States
@@ -439,8 +456,8 @@ Summit, New Jersey, United States
 Cambridge, Massachusetts, United States
 Cerritos, California, United States
 Terre Haute, Indiana, United States
+Sayreville, New Jersey, United States
 Pomona, California, United States
-Philadelphia, Pennsylvania, United States
 CA, US
 Temple, Texas, United States
 San Francisco, California, United States
@@ -462,7 +479,7 @@ New York, New York, United States
 West Lafayette, Indiana, United States
 Austin, Texas, United States
 West Lafayette, Indiana, United States
-San Francisco, California, United States
+New York, New York, United States
 Los Angeles, California, United States
 New York, New York, United States
 Providence, Rhode Island, United States
@@ -472,7 +489,6 @@ West Hempstead, New York, United States
 San Jose, California, United States
 Ithaca, New York, United States
 Champaign, Illinois, United States
-San Diego, California, United States
 Charlottesville, Virginia, United States
 Orlando, Florida, United States
 Rochester, New York, United States
@@ -489,6 +505,7 @@ Philadelphia, Pennsylvania, United States
 Los Angeles, California, United States
 Philadelphia, Pennsylvania, United States
 College Park, Maryland, United States
+Pittsburgh, Pennsylvania, United States
 Philadelphia, Pennsylvania, United States
 St. Louis, Missouri, United States
 Boone, North Carolina, United States
@@ -507,10 +524,11 @@ New York, New York, United States
 Pittsburgh, Pennsylvania, United States
 Boston, Massachusetts, United States
 Atlanta, Georgia, United States
-Pittsburgh, Pennsylvania, United States
+Pasadena, California, United States
 Boston, Massachusetts, United States
 San Francisco, California, United States
 Oakland, California, United States
+San Jose, California, United States
 Oakton, Virginia, United States
 Santa Barbara, California, United States
 Upper Saddle River, NJ, US
@@ -527,7 +545,9 @@ Dallas, Texas, United States
 Laguna Niguel, California, United States
 Cupertino, California, United States
 San Francisco, California, United States
-Los Angeles, CA, US
+San Francisco, California, United States
+Santa Barbara, California, United States
+Rochester, New York, United States
 San Jose, California, United States
 New York, New York, United States
 Philadelphia, Pennsylvania, United States
@@ -543,18 +563,18 @@ College Park, Maryland, United States
 Syracuse, New York, United States
 West Lafayette, Indiana, United States
 New York, New York, United States
+New York, New York, United States
 Boston, Massachusetts, United States
-Atlanta, Georgia, United States
+Washington, District of Columbia, United States
 College Park, Maryland, United States
 Seattle, Washington, United States
-Corona, California, United States
+Irvine, California, United States
 Urbana, Illinois, United States
 New York, New York, United States
 Tallahassee, Florida, United States
 New York, New York, United States
-Orange, California, United States
 Irvine, California, United States
-Los Altos, California, United States
+Atlanta, Georgia, United States
 San Francisco, California, United States
 San Jose, California, United States
 Nashville, Tennessee, United States
@@ -572,8 +592,7 @@ West Lafayette, Indiana, United States
 Santa Monica, California, United States
 Redondo Beach, California, United States
 San Francisco, California, United States
-Austin, Texas, United States
-Boston, Massachusetts, United States
+Claremont, California, United States
 Charlottesville, Virginia, United States
 Los Angeles, California, United States
 New York, New York, United States
@@ -587,9 +606,8 @@ New Brunswick, New Jersey, United States
 West Lafayette, Indiana, United States
 San Luis Obispo, California, United States
 Riverside, California, United States
-Pittsburgh, Pennsylvania, United States
+Rochester, New York, United States
 Richmond, Virginia, United States
-Pomona, California, United States
 Palo Alto, California, United States
 San Francisco, California, United States
 Houston, Texas, United States
@@ -597,10 +615,10 @@ West Lafayette, Indiana, United States
 New Haven, Connecticut, United States
 Seattle, Washington, United States
 San Francisco, California, United States
-New Jersey, United States
 Buffalo Grove, IL, US
 New Haven, Connecticut, United States
 New York, New York, United States
+Bowling Green, Ohio, United States
 San Clemente, California, United States
 New York, New York, United States
 Atlanta, Georgia, United States
@@ -610,6 +628,7 @@ Berkeley, California, United States
 Cleveland, Ohio, United States
 Michigan, United States
 New York, New York, United States
+San Francisco, California, United States
 Muncie, Indiana, United States
 Cambridge, Massachusetts, United States
 College Park, Maryland, United States
@@ -621,6 +640,7 @@ Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Santa Barbara, California, United States
 Mountain View, California, United States
+Pittsburgh, Pennsylvania, United States
 Baltimore, MD, US
 San Francisco, California, United States
 St. Louis, Missouri, United States
@@ -640,12 +660,15 @@ Atlanta, Georgia, United States
 New York, New York, United States
 Rochester, New York, United States
 Philadelphia, Pennsylvania, United States
+Dearborn Heights, Michigan, United States
 Philadelphia, Pennsylvania, United States
+Kent, Ohio, United States
 Santa Monica, California, United States
 Cleveland, Ohio, United States
 Los Angeles, California, United States
 Ithaca, New York, United States
 West Lafayette, Indiana, United States
+Boston, Massachusetts, United States
 Chicago, Illinois, United States
 New York, New York, United States
 Philadelphia, Pennsylvania, United States
@@ -657,7 +680,7 @@ Mountain View, California, United States
 College Park, Maryland, United States
 Pittsburgh, Pennsylvania, United States
 New York, New York, United States
-Austin, Texas, United States
+New York, New York, United States
 Philadelphia, Pennsylvania, United States
 Walnut Creek, California, United States
 Philadelphia, Pennsylvania, United States
@@ -676,6 +699,7 @@ Burlingame, California, United States
 Los Altos, California, United States
 Blacksburg, Virginia, United States
 Los Angeles, California, United States
+Los Angeles, California, United States
 New York, New York, United States
 West Lafayette, Indiana, United States
 San Jose, California, United States
@@ -692,7 +716,7 @@ Philadelphia, Pennsylvania, United States
 Columbia, Maryland, United States
 New York, New York, United States
 New York, New York, United States
-New York, New York, United States
+Bethesda, Maryland, United States
 Riverside, California, United States
 Chapel Hill, North Carolina, United States
 Washington, District of Columbia, United States
@@ -705,7 +729,6 @@ Urbana, Illinois, United States
 New York, New York, United States
 Philadelphia, Pennsylvania, United States
 Pittsburgh, Pennsylvania, United States
-San Francisco, California, United States
 Cambridge, Massachusetts, United States
 San Jose, California, United States
 San Jose, California, United States
@@ -716,77 +739,87 @@ Cambridge, Massachusetts, United States
 Virginia, United States
 Los Angeles, California, United States
 Denver, Colorado, United States
+New York, New York, United States
 Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
 Philadelphia, Pennsylvania, United States
 Washington, District of Columbia, United States
 New York, New York, United States
+San Francisco, California, United States
 New York, New York, United States
 Los Angeles, California, United States
 Baltimore, Maryland, United States
 Boston, Massachusetts, United States
-New York, New York, United States
+Pomona, California, United States
 College Park, Maryland, United States
-Princeton, New Jersey, United States
-Lexington, Kentucky, United States
 Irvine, California, United States
 Urbana, Illinois, United States
 Riverside, California, United States
 West Chester, Pennsylvania, United States
-San Francisco, California, United States
 West Lafayette, Indiana, United States
 San Francisco, California, United States
 Pittsburgh, Pennsylvania, United States
+San Francisco, California, United States
 New York, New York, United States
 West Lafayette, Indiana, United States
 Isla Vista, CA, US
 Cincinnati, Ohio, United States
 Riverside, California, United States
-Irvine, California, United States
+New York, New York, United States
 New York, New York, United States
 San Francisco, California, United States
 Cedar Rapids, Iowa, United States
 Houston, Texas, United States
+Chicago, Illinois, United States
+Lexington, Kentucky, United States
 Washington, District of Columbia, United States
 Dallas, Texas, United States
+San Francisco, California, United States
 Boston, Massachusetts, United States
 Edison, New Jersey, United States
 Boston, Massachusetts, United States
-College Park, Maryland, United States
+Atlanta, Georgia, United States
 Cleveland, Ohio, United States
 Urbana, Illinois, United States
 New York, New York, United States
 New York, New York, United States
 San Luis Obispo, California, United States
+San Jose, California, United States
 Blacksburg, Virginia, United States
 New York, New York, United States
 New York, New York, United States
+Aiken, South Carolina, United States
 Huntsville, Alabama, United States
 Houston, Texas, United States
 Ann Arbor, Michigan, United States
 New York, New York, United States
 Oakland, California, United States
 New York, New York, United States
+San Francisco, California, United States
 Atlanta, Georgia, United States
 San Francisco, California, United States
 Austin, Texas, United States
+Johns Creek, Georgia, United States
 Washington, District of Columbia, United States
 New Brunswick, New Jersey, United States
+Boston, Massachusetts, United States
 Boston, Massachusetts, United States
 New York, New York, United States
 New York, New York, United States
 Providence, Rhode Island, United States
 New York, New York, United States
+Mountain View, CA, US
+New York, New York, United States
 Baltimore, Maryland, United States
 San Diego, California, United States
 San Francisco, California, United States
 Philadelphia, Pennsylvania, United States
-East Lansing, Michigan, United States
 Santa Barbara, CA, US
 Ann Arbor, Michigan, United States
 Riverside, California, United States
 Blacksburg, Virginia, United States
 Seattle, Washington, United States
+Houston, Texas, United States
 New York, New York, United States
 Los Angeles, California, United States
 Santa Clara, California, United States
@@ -806,7 +839,7 @@ Cambridge, Massachusetts, United States
 Merced, CA, US
 Chicago, IL, US
 Cambridge, Massachusetts, United States
-Madison, Wisconsin, United States
+Binghamton, New York, United States
 Dallas, Texas, United States
 San Jose, California, United States
 Cambridge, Massachusetts, United States
@@ -814,27 +847,32 @@ San Jose, California, United States
 Houston, Texas, United States
 Durham, North Carolina, United States
 San Francisco, California, United States
-Ames, IA, US
 Stanford, California, United States
 Atlanta, Georgia, United States
 Gainesville, Florida, United States
+Cambridge, Massachusetts, United States
 Boston, Massachusetts, United States
-Ellicott City, Maryland, United States
+Reston, Virginia, United States
 Pittsburgh, Pennsylvania, United States
 New York, New York, United States
 Charlotte, North Carolina, United States
 Chicago, Illinois, United States
 Fairfax, Virginia, United States
 Michigan, United States
+New York, New York, United States
 Berkeley, California, United States
+Irvine, California, United States
 Ithaca, New York, United States
+New York, New York, United States
 New York, New York, United States
 College Park, Maryland, United States
 Charlottesville, Virginia, United States
 Seattle, Washington, United States
+Union City, California, United States
 Stanford, California, United States
 Los Angeles, California, United States
 San Francisco, California, United States
+Washington, United States
 Irvine, California, United States
 San Jose, California, United States
 Claremont, California, United States
@@ -845,103 +883,152 @@ Binghamton, New York, United States
 Los Angeles, California, United States
 Indiana, United States
 New York, New York, United States
+San Francisco, California, United States
 California, United States
-Atlanta, Georgia, United States
 San Carlos, California, United States
 New York, New York, United States
 San Francisco, California, United States
 Salt Lake City, Utah, United States
 Providence, Rhode Island, United States
 Chicago, Illinois, United States
+Ann Arbor, Michigan, United States
 Philadelphia, Pennsylvania, United States
 Ashburn, Virginia, United States
+Los Angeles, California, United States
 Princeton, New Jersey, United States
+Lubbock, TX, US
+San Jose, California, United States
+Austin, Texas, United States
 Kent, Ohio, United States
+San Francisco, California, United States
 Urbana, Illinois, United States
 New York, New York, United States
 Seattle, Washington, United States
 New York, New York, United States
+Philadelphia, Pennsylvania, United States
 Seattle, Washington, United States
 Portland, Oregon, United States
+Queens, NY, US
 Mantua Township, NJ, US
+Stanford, California, United States
 Binghamton, New York, United States
 New York, New York, United States
-Orlando, Florida, United States
 Madison, Wisconsin, United States
 Diamond Bar, California, United States
+Boston, Massachusetts, United States
 San Jose, California, United States
-San Jose, California, United States
+New York, New York, United States
+Buena Park, California, United States
 San Francisco, California, United States
 Youngstown, Ohio, United States
+Cambridge, Massachusetts, United States
+San Antonio, Texas, United States
 Berkeley, California, United States
 Hollywood, Florida, United States
-Mountain View, California, United States
+Champaign, Illinois, United States
+New Haven, Connecticut, United States
 Baton Rouge, Louisiana, United States
 Katy, Texas, United States
 New York, New York, United States
+San Francisco, California, United States
 Newark, Delaware, United States
 Seattle, Washington, United States
+Arlington, Texas, United States
 New York, New York, United States
 New York, New York, United States
-Champaign, Illinois, United States
+Dallas, Texas, United States
 Atlanta, Georgia, United States
+Santa Monica, California, United States
 Newark, Delaware, United States
 San Francisco, California, United States
+Andover, Massachusetts, United States
 Boston, Massachusetts, United States
-Boston, Massachusetts, United States
-Los Angeles, California, United States
 New York, New York, United States
-Atlanta, Georgia, United States
 Boston, Massachusetts, United States
-Holbrook, New York, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Palo Alto, California, United States
+College Park, Maryland, United States
+Urbana, Illinois, United States
+Los Angeles, California, United States
+New Jersey, United States
+San Jose, California, United States
 Pittsburgh, Pennsylvania, United States
 Princeton, New Jersey, United States
 Urbana, Illinois, United States
 Pittsburgh, Pennsylvania, United States
 San Jose, California, United States
+New York, New York, United States
 San Mateo, California, United States
 Edison, New Jersey, United States
+New York, New York, United States
 New Haven, Connecticut, United States
 Upper Saddle River, NJ, US
 New York, New York, United States
 Tallahassee, Florida, United States
+Atlanta, Georgia, United States
 San Francisco, California, United States
+Colorado, United States
+Atlanta, Georgia, United States
+East Lansing, Michigan, United States
 Lincoln, Nebraska, United States
+West Lafayette, Indiana, United States
 Boston, Massachusetts, United States
+Indianapolis, Indiana, United States
+West Lafayette, Indiana, United States
 West Lafayette, Indiana, United States
 San Diego, California, United States
 Kent, Ohio, United States
+Durham, North Carolina, United States
 New York, New York, United States
+Boston, Massachusetts, United States
 St. Louis, Missouri, United States
 San Francisco, California, United States
 Atlanta, Georgia, United States
 Palo Alto, California, United States
+San Mateo, CA, US
 Los Angeles, California, United States
 Ithaca, NY, US
+Providence, Rhode Island, United States
+New York, New York, United States
+Austin, Texas, United States
 Boca Raton, Florida, United States
+Seattle, Washington, United States
 San Jose, California, United States
 Austin, Texas, United States
+Los Angeles, California, United States
 New York, New York, United States
 Santa Clara, California, United States
 Austin, Texas, United States
+Roswell, Georgia, United States
+Washington, District of Columbia, United States
 San Francisco, California, United States
+Columbus, Ohio, United States
 Downingtown, PA, US
+Columbus, Ohio, United States
 San Jose, California, United States
 Atlanta, Georgia, United States
 Philadelphia, Pennsylvania, United States
+Seattle, Washington, United States
+San Luis Obispo, California, United States
 Kailua-Kona, Hawaii, United States
 New Jersey, United States
 Washington, District of Columbia, United States
 Austin, Texas, United States
 San Francisco, California, United States
+Durham, North Carolina, United States
 Miami, Florida, United States
-North Carolina, United States
+Suwanee, Georgia, United States
 Salt Lake City, Utah, United States
+Sacramento, California, United States
 Vancouver, Washington, United States
 San Francisco, California, United States
 Washington, District of Columbia, United States
 Baltimore, Maryland, United States
+New York, New York, United States
 Ames, Iowa, United States
+San Mateo, California, United States
+Syosset, New York, United States
 San Francisco, California, United States
 New York, New York, United States
 Mountain View, California, United States
@@ -950,28 +1037,33 @@ Exton, Pennsylvania, United States
 Marietta, Georgia, United States
 Urbana, Illinois, United States
 Boston, Massachusetts, United States
+New York, New York, United States
 Ann Arbor, Michigan, United States
 Seattle, Washington, United States
+San Francisco, California, United States
 New Haven, Connecticut, United States
-New York, New York, United States
+Vestal, NY, US
 New York, New York, United States
 Ann Arbor, Michigan, United States
 San Francisco, California, United States
 Charlottesville, Virginia, United States
 Washington, District of Columbia, United States
 Los Angeles, California, United States
+Houston, Texas, United States
 Atlanta, Georgia, United States
+New Jersey, United States
 Issaquah, WA, US
 Sacramento, California, United States
 San Francisco, California, United States
+San Diego, California, United States
 Long Beach, California, United States
 New York, New York, United States
 New York, New York, United States
-Cleveland, Ohio, United States
+New York, New York, United States
 New York, New York, United States
 Seattle, Washington, United States
-Providence, Rhode Island, United States
 Mountain View, California, United States
+Waltham, Massachusetts, United States
 Berkeley, California, United States
 New York, New York, United States
 Providence, Rhode Island, United States
@@ -980,6 +1072,7 @@ San Francisco, California, United States
 San Francisco, California, United States
 New York, New York, United States
 New York, New York, United States
+San Francisco, California, United States
 Los Angeles, California, United States
 Cambridge, Massachusetts, United States
 San Mateo, California, United States
@@ -989,39 +1082,49 @@ Austin, Texas, United States
 Champaign, Illinois, United States
 Boston, Massachusetts, United States
 San Francisco, California, United States
+San Francisco, California, United States
 Durham, North Carolina, United States
+Ann Arbor, Michigan, United States
 Stanford, California, United States
 Santa Clara, California, United States
-Los Angeles, California, United States
+Cambridge, Massachusetts, United States
 Questa, NM, US
 New York, New York, United States
 Binghamton, New York, United States
 Franklin Township, New Jersey, United States
-Ann Arbor, Michigan, United States
+Philadelphia, Pennsylvania, United States
 Amherst, Massachusetts, United States
-Los Angeles, California, United States
+New York, New York, United States
+Kent, Ohio, United States
 Princeton, NJ, US
 Philadelphia, Pennsylvania, United States
-Los Angeles, California, United States
+Cupertino, California, United States
+San Francisco, California, United States
 Berkeley, California, United States
+Littleton, Colorado, United States
 Old Bridge Township, New Jersey, United States
+East Lansing, Michigan, United States
 Ithaca, New York, United States
 Los Angeles, California, United States
+Philadelphia, Pennsylvania, United States
 Baltimore, Maryland, United States
 College Station, Texas, United States
 Los Angeles, California, United States
 Cupertino, California, United States
 San Francisco, California, United States
-Berkeley, California, United States
 Stanford, California, United States
 Philadelphia, Pennsylvania, United States
 Atlanta, Georgia, United States
 San Jose, California, United States
+Santa Barbara, California, United States
 New York, New York, United States
+Cupertino, California, United States
 Blacksburg, Virginia, United States
 Cleveland, Ohio, United States
 Setauket- East Setauket, New York, United States
+Durham, North Carolina, United States
 Philadelphia, Pennsylvania, United States
+Dallas, Texas, United States
 Boston, Massachusetts, United States
 Philadelphia, Pennsylvania, United States
 East Brunswick, New Jersey, United States
@@ -1029,26 +1132,34 @@ Santa Barbara, California, United States
 Atlanta, Georgia, United States
 Hackensack, New Jersey, United States
 Nashville, Tennessee, United States
+Richmond, Virginia, United States
 Fairfax, Virginia, United States
 Philadelphia, Pennsylvania, United States
 New York, New York, United States
 Woodland Hills, CA, US
+New York, New York, United States
+Cambridge, Massachusetts, United States
 Denver, Colorado, United States
 New York, New York, United States
 Champaign, Illinois, United States
+Reno, Nevada, United States
+San Jose, California, United States
 Arlington, Virginia, United States
 Boston, Massachusetts, United States
 Princeton, New Jersey, United States
 Ann Arbor, Michigan, United States
 Oswego, Illinois, United States
+Princeton, New Jersey, United States
 Lexington, Massachusetts, United States
 New York, New York, United States
 New York, New York, United States
 San Francisco, California, United States
-New York, New York, United States
+Champaign, Illinois, United States
 Mountain View, California, United States
+New York, New York, United States
 Sayreville, New Jersey, United States
-Upton, MA, US
+Santa Clara, California, United States
+New York, New York, United States
 East Lansing, Michigan, United States
 Philadelphia, Pennsylvania, United States
 New Brunswick, New Jersey, United States
@@ -1056,32 +1167,47 @@ Berkeley, California, United States
 Detroit, Michigan, United States
 Denver, Colorado, United States
 Fanwood, New Jersey, United States
+Rochester, New York, United States
+San Francisco, California, United States
 Boston, Massachusetts, United States
 Boston, Massachusetts, United States
 Binghamton, NY, US
+Austin, Texas, United States
 Cupertino, California, United States
 West Lafayette, Indiana, United States
 Houston, Texas, United States
-Orlando, Florida, United States
+Berkeley, California, United States
+Ashburn, Virginia, United States
+Boston, Massachusetts, United States
 Cambridge, Massachusetts, United States
+Cincinnati, Ohio, United States
+New York, New York, United States
 College Park, Maryland, United States
 Santa Clara, California, United States
 Santa Barbara, California, United States
 New York, New York, United States
 Seattle, Washington, United States
+New York, New York, United States
 Ewing Township, New Jersey, United States
 Palo Alto, California, United States
 Philadelphia, Pennsylvania, United States
 Boston, Massachusetts, United States
 Pittsburgh, Pennsylvania, United States
 Baltimore, Maryland, United States
+New York, New York, United States
+Boston, Massachusetts, United States
 Cambridge, Massachusetts, United States
+New York, New York, United States
 Boston, Massachusetts, United States
 Riverside, California, United States
-Aiken, South Carolina, United States
+Philadelphia, Pennsylvania, United States
 Ithaca, New York, United States
 Mountain View, California, United States
+New York, New York, United States
+San Francisco, California, United States
 Philadelphia, Pennsylvania, United States
+Lafayette, Indiana, United States
+New York, New York, United States
 Philadelphia, Pennsylvania, United States
 California, United States
 La Habra, California, United States
@@ -1096,25 +1222,32 @@ Macomb, MI, US
 Boston, Massachusetts, United States
 West Lafayette, Indiana, United States
 Long Beach, California, United States
+Philadelphia, Pennsylvania, United States
+Los Angeles, California, United States
 West Lafayette, Indiana, United States
+West Lafayette, Indiana, United States
+Ithaca, New York, United States
 Seattle, Washington, United States
+Oakland, California, United States
 Houston, Texas, United States
 College Station, Texas, United States
 San Francisco, California, United States
 Philadelphia, Pennsylvania, United States
 Orlando, Florida, United States
 Mountain View, California, United States
+San Francisco, California, United States
 Louisville, Kentucky, United States
 San Francisco, California, United States
 Rochester, New York, United States
 Riverside, California, United States
-New York, New York, United States
 San Francisco, California, United States
 New Jersey, United States
 Mountain View, California, United States
 Dallas, Texas, United States
 Boston, Massachusetts, United States
+Rochester, New York, United States
 Boston, Massachusetts, United States
+Miami, Florida, United States
 San Francisco, California, United States
 Troy, New York, United States
 Mountain View, California, United States
@@ -1123,64 +1256,85 @@ Terre Haute, Indiana, United States
 New York, New York, United States
 San Francisco, California, United States
 Champaign, Illinois, United States
-Cambridge, Massachusetts, United States
-New York, New York, United States
 College Park, Maryland, United States
+Mountain View, California, United States
 New Haven, Connecticut, United States
-Dumont, New Jersey, United States
+San Diego, California, United States
+Campbell, California, United States
 San Francisco, California, United States
-Setauket- East Setauket, New York, United States
+Washington, District of Columbia, United States
 Texas, United States
-Binghamton, New York, United States
+Madison, Wisconsin, United States
 Pomona, California, United States
-West Lafayette, Indiana, United States
+Binghamton, New York, United States
 Claremont, California, United States
+Boston, Massachusetts, United States
 Berkeley, California, United States
 San Francisco, California, United States
+Atlanta, Georgia, United States
 Boston, Massachusetts, United States
 Boston, Massachusetts, United States
 Medford, Massachusetts, United States
-Los Angeles, CA, US
-College Park, Maryland, United States
+San Francisco, CA, US
+Cincinnati, Ohio, United States
+Terre Haute, IN, US
 Dallas, Texas, United States
 New York, New York, United States
 Hermosa Beach, California, United States
+Arlington, Virginia, United States
+Claremont, California, United States
 Mountain View, California, United States
 Terre Haute, Indiana, United States
 Baltimore, Maryland, United States
 Philadelphia, Pennsylvania, United States
 Rochester, New York, United States
 Baltimore, Maryland, United States
+Pasadena, California, United States
+San Jose, CA, US
+Providence, Rhode Island, United States
+Williamsburg, Virginia, United States
+Mountain View, California, United States
 Edison, New Jersey, United States
+Los Altos, California, United States
 Pittsburgh, Pennsylvania, United States
 Boston, MA, US
 Pasadena, California, United States
 Boston, Massachusetts, United States
 Santa Clara, California, United States
+Portage, Indiana, United States
 Fairfax, VA, US
 Mountain View, California, United States
 New York, New York, United States
 Hackensack, New Jersey, United States
+Berkeley, California, United States
 Boston, Massachusetts, United States
 Atlanta, Georgia, United States
+Charlottesville, Virginia, United States
+Huntington Beach, California, United States
 Seattle, Washington, United States
 Sunnyvale, California, United States
 Normal, Illinois, United States
 Terre Haute, Indiana, United States
+Boston, Massachusetts, United States
 Santa Barbara, California, United States
 San Francisco, California, United States
 Troy, New York, United States
+Phoenix, Arizona, United States
 Monterey Park, California, United States
 New York, New York, United States
-Rochester, New York, United States
+New York, New York, United States
 Baltimore, Maryland, United States
-Washington, District of Columbia, United States
+Atlanta, Georgia, United States
+Somerville, New Jersey, United States
 Charlottesville, Virginia, United States
+Chino Hills, California, United States
 Oswego, Illinois, United States
+New Haven, Connecticut, United States
 New Brunswick, New Jersey, United States
 Cambridge, Massachusetts, United States
 Buffalo Grove, IL, US
 Cambridge, Massachusetts, United States
+Urbana, Illinois, United States
 Pasadena, California, United States
 Rockville, Maryland, United States
 New York, New York, United States
@@ -1189,15 +1343,22 @@ Berkeley, California, United States
 Pittsburgh, Pennsylvania, United States
 West Lafayette, Indiana, United States
 Los Angeles, California, United States
+New York, New York, United States
+Richmond, Virginia, United States
 Goleta, California, United States
 Berkeley, California, United States
 Houston, Texas, United States
+Madison, Wisconsin, United States
 New Haven, Connecticut, United States
+New York, New York, United States
+New York, New York, United States
 Washington, District of Columbia, United States
-Pomona, California, United States
+Seattle, Washington, United States
+Wellesley, Massachusetts, United States
+New York, New York, United States
 Ithaca, New York, United States
 Worcester, Massachusetts, United States
-San Francisco, California, United States
+Redwood City, California, United States
 Chicago, Illinois, United States
 Durham, North Carolina, United States
 Phoenix, Arizona, United States
@@ -1207,16 +1368,18 @@ Belchertown, MA, US
 Millburn, New Jersey, United States
 Cambridge, Massachusetts, United States
 San Francisco, California, United States
-New York, New York, United States
-Reston, Virginia, United States
+Ellicott City, Maryland, United States
+Rochester, New York, United States
 Fremont, California, United States
 Boston, Massachusetts, United States
 Portland, Oregon, United States
+Pittsburgh, Pennsylvania, United States
 Rochester, New York, United States
-Cambridge, Massachusetts, United States
 San Francisco, California, United States
 Boston, Massachusetts, United States
+West Lafayette, Indiana, United States
 Binghamton, New York, United States
+San Jose, California, United States
 Long Beach, California, United States
 Boston, Massachusetts, United States
 San Francisco, California, United States
@@ -1225,7 +1388,10 @@ Mountain View, California, United States
 New York, New York, United States
 Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
+Middletown, Connecticut, United States
+San Mateo, California, United States
 New York, New York, United States
+Stanford, California, United States
 Lincoln, Massachusetts, United States
 San Francisco, California, United States
 Rochester, New York, United States
@@ -1237,74 +1403,96 @@ San Ramon, California, United States
 Atlanta, Georgia, United States
 Berkeley, California, United States
 Palo Alto, California, United States
-Houston, Texas, United States
 Santa Clara, California, United States
 Princeton, New Jersey, United States
+Los Angeles, California, United States
+Biddeford, Maine, United States
+Buffalo, New York, United States
+New York, New York, United States
+New York, New York, United States
+Irvine, California, United States
 New York, New York, United States
 Louisville, Kentucky, United States
-New York, New York, United States
 Philadelphia, PA, US
-Dallas, Texas, United States
 San Francisco, California, United States
 Pittsburgh, Pennsylvania, United States
 Princeton, New Jersey, United States
+San Francisco, California, United States
 Baltimore, Maryland, United States
+Denver, Colorado, United States
 Philadelphia, Pennsylvania, United States
 Claremont, California, United States
 New York, New York, United States
 Athens, Georgia, United States
 Boston, Massachusetts, United States
 Houston, Texas, United States
+Pomona, California, United States
 Houston, Texas, United States
 Los Angeles, California, United States
 Kent, Ohio, United States
+New York, New York, United States
 Boston, Massachusetts, United States
+Philadelphia, Pennsylvania, United States
+New York, New York, United States
 Louisville, Kentucky, United States
 Houston, Texas, United States
 Knoxville, Tennessee, United States
 Ann Arbor, Michigan, United States
 Austin, Texas, United States
 College Station, Texas, United States
+New York, New York, United States
 Los Angeles, California, United States
 Seattle, Washington, United States
 San Antonio, Texas, United States
 St. Louis, Missouri, United States
 Massachusetts, United States
-Somerville, New Jersey, United States
 Foster City, California, United States
 Berkeley, California, United States
 Hanover, New Hampshire, United States
 Santa Barbara, California, United States
 Gainesville, Florida, United States
 Philadelphia, Pennsylvania, United States
+Camas, WA, US
+Urbana, Illinois, United States
 Tallahassee, Florida, United States
 Terre Haute, Indiana, United States
 Los Altos, California, United States
+Cambridge, MA, US
+Pittsburgh, Pennsylvania, United States
 Orem, Utah, United States
 Dallas, Texas, United States
+San Francisco, California, United States
 Pleasant Hill, California, United States
 New York, New York, United States
-Washington, District of Columbia, United States
+Baton Rouge, Louisiana, United States
+Durham, North Carolina, United States
 Bentonville, AR, US
+Pittsburgh, Pennsylvania, United States
 Providence, Rhode Island, United States
+New York, New York, United States
 Cambridge, Massachusetts, United States
 Chicago, Illinois, United States
+Houston, Texas, United States
 San Francisco, California, United States
 New York, New York, United States
 Los Angeles, California, United States
+California, United States
 Mountain View, California, United States
 Binghamton, New York, United States
+New York, New York, United States
 Virginia, United States
 Durham, North Carolina, United States
 Los Angeles, California, United States
 Baltimore, Maryland, United States
 Texas, United States
+Cincinnati, Ohio, United States
 Newark, NJ, US
+Washington, District of Columbia, United States
 Philadelphia, Pennsylvania, United States
 Princeton, New Jersey, United States
 Riverside, California, United States
 New York, New York, United States
-Orange, California, United States
+New York, New York, United States
 Connecticut, United States
 New York, New York, United States
 New York, New York, United States
@@ -1312,17 +1500,21 @@ Ames, Iowa, United States
 Bronx County, NY, US
 Cincinnati, Ohio, United States
 San Francisco, California, United States
+Chicago, Illinois, United States
 San Francisco, California, United States
 Ithaca, New York, United States
+Los Angeles, California, United States
 New York, New York, United States
 Fairfax, Virginia, United States
 Sunnyvale, California, United States
 Waterbury, Connecticut, United States
 New York, New York, United States
+Glendale, California, United States
+Orlando, Florida, United States
 San Francisco, California, United States
-Jersey City, New Jersey, United States
 New York, New York, United States
 Princeton, New Jersey, United States
+Mountain View, California, United States
 Fremont, California, United States
 Los Angeles, California, United States
 College Station, Texas, United States
@@ -1334,34 +1526,47 @@ Berkeley, California, United States
 New York, New York, United States
 Ames, Iowa, United States
 Des Moines, Iowa, United States
+Mountain View, California, United States
 Ann Arbor, Michigan, United States
 Santa Clara, California, United States
 Charleston, South Carolina, United States
+Austin, Texas, United States
 West Lafayette, Indiana, United States
 Los Angeles, California, United States
+San Francisco, California, United States
 Bowling Green, Kentucky, United States
-Bellingham, Washington, United States
+Seattle, Washington, United States
 Stanford, CA, US
 Reno, Nevada, United States
-Chicago, Illinois, United States
+Austin, Texas, United States
+Mountain View, California, United States
 Chicago, Illinois, United States
 Charlotte, North Carolina, United States
+Rochester, New York, United States
 New Haven, Connecticut, United States
 Ann Arbor, Michigan, United States
-New York, New York, United States
+Wellesley, Massachusetts, United States
 New York, New York, United States
 Washington, District of Columbia, United States
 Boston, Massachusetts, United States
+San Luis Obispo, California, United States
+Berkeley, California, United States
+Foster City, California, United States
 New York, New York, United States
 San Francisco, California, United States
+San Francisco, California, United States
+Pittsburgh, Pennsylvania, United States
 Pleasanton, California, United States
 McLean, Virginia, United States
-Philadelphia, Pennsylvania, United States
-San Jose, California, United States
+San Antonio, Texas, United States
 Los Angeles, California, United States
+Princeton, New Jersey, United States
+Los Angeles, California, United States
+Providence, Rhode Island, United States
 Dallas, Texas, United States
 Madison, Wisconsin, United States
 Baltimore, Maryland, United States
+New York, New York, United States
 Mountain View, California, United States
 West Lafayette, Indiana, United States
 Cambridge, Massachusetts, United States
@@ -1374,13 +1579,15 @@ New York, New York, United States
 New York, New York, United States
 Washington, District of Columbia, United States
 Philadelphia, Pennsylvania, United States
+San Francisco, California, United States
 Pleasanton, California, United States
 Falls Church, Virginia, United States
 Houston, Texas, United States
 New York, New York, United States
 Washington, District of Columbia, United States
-Nashville, Tennessee, United States
+Los Angeles, California, United States
 San Francisco, California, United States
+Paramus, New Jersey, United States
 Champaign, Illinois, United States
 St. Louis, Missouri, United States
 San Francisco, California, United States
@@ -1392,13 +1599,16 @@ Temecula, California, United States
 Rochester, New York, United States
 Irvine, California, United States
 Philadelphia, Pennsylvania, United States
+College Station, Texas, United States
 Atlanta, Georgia, United States
 Rochester, New York, United States
 San Francisco, CA, US
 Chicago, Illinois, United States
+West Lafayette, Indiana, United States
 Philadelphia, Pennsylvania, United States
+San Francisco, California, United States
 San Jose, California, United States
-Costa Mesa, California, United States
+Boston, Massachusetts, United States
 New York, New York, United States
 Minneapolis, Minnesota, United States
 Blacksburg, Virginia, United States
@@ -1411,9 +1621,14 @@ Needham, Massachusetts, United States
 Santa Barbara, California, United States
 New York, New York, United States
 Ithaca, New York, United States
+Ann Arbor, Michigan, United States
 Seattle, Washington, United States
+Manassas, Virginia, United States
 United States
+San Francisco, California, United States
+Princeton, New Jersey, United States
 Palo Alto, California, United States
+New York, New York, United States
 Pittsburgh, Pennsylvania, United States
 Providence, Rhode Island, United States
 Spring, Texas, United States
@@ -1423,18 +1638,24 @@ College Park, Maryland, United States
 Irvine, California, United States
 United States
 Columbus, Ohio, United States
-Atlanta, Georgia, United States
+Lovelock, NV, US
 North Ridgeville, Ohio, United States
 San Jose, California, United States
 Pomona, CA, US
+Atlanta, Georgia, United States
 Naperville, Illinois, United States
+Terre Haute, Indiana, United States
 New York, New York, United States
+Chicago, Illinois, United States
+Seattle, Washington, United States
 St. Louis, Missouri, United States
 San Jose, California, United States
 New Brunswick, New Jersey, United States
 College Park, Maryland, United States
 New York, New York, United States
 New York, New York, United States
+Santa Barbara, California, United States
+Farmingdale, NY, US
 St. Louis, Missouri, United States
 Princeton, New Jersey, United States
 New Brunswick, New Jersey, United States
@@ -1446,21 +1667,28 @@ New York, New York, United States
 Santa Clara, California, United States
 Chicago, Illinois, United States
 San Francisco, California, United States
+Baltimore, Maryland, United States
 San Francisco, California, United States
+New York, New York, United States
+Austin, Texas, United States
+Newport Beach, California, United States
 San Mateo, California, United States
 Sterling, Virginia, United States
 New York, New York, United States
+San Francisco, California, United States
 New York, New York, United States
+Durham, North Carolina, United States
 Kansas City, Missouri, United States
-Pasadena, California, United States
 Ann Arbor, Michigan, United States
 Atlanta, Georgia, United States
-New Providence, New Jersey, United States
-McDonald, Pennsylvania, United States
+Los Angeles, California, United States
+Houston, Texas, United States
+Dallas, Texas, United States
 Philadelphia, Pennsylvania, United States
-Ashburn, Virginia, United States
+Saratoga, California, United States
 Exton, Pennsylvania, United States
 Denver, Colorado, United States
+Merced, California, United States
 Los Angeles, California, United States
 Ann Arbor, Michigan, United States
 New York, New York, United States
@@ -1468,7 +1696,7 @@ Cambridge, Massachusetts, United States
 Atlanta, Georgia, United States
 Kent, Ohio, United States
 College Park, Maryland, United States
-New York, New York, United States
+CA, US
 Blacksburg, Virginia, United States
 New Haven, CT, US
 New York, New York, United States
@@ -1477,25 +1705,36 @@ New York, New York, United States
 State College, Pennsylvania, United States
 Pittsburgh, Pennsylvania, United States
 New York, New York, United States
-New York, New York, United States
+San Francisco, California, United States
+San Francisco, California, United States
+Philadelphia, Pennsylvania, United States
 Milpitas, California, United States
 Pittsburgh, Pennsylvania, United States
+Pittsburgh, Pennsylvania, United States
+Ashburn, Virginia, United States
 San Fernando, California, United States
 Ann Arbor, Michigan, United States
 Los Angeles, California, United States
+New York, New York, United States
 New York, New York, United States
 New York, New York, United States
 Seattle, Washington, United States
 Atlanta, Georgia, United States
 Boston, Massachusetts, United States
 Washington, District of Columbia, United States
+Irvine, California, United States
 Baltimore, Maryland, United States
 Fairfax, Virginia, United States
+Los Angeles, CA, US
+New York, New York, United States
 Rochester, New York, United States
 Chicago, Illinois, United States
-New York, New York, United States
+Medford, Massachusetts, United States
+Jersey City, New Jersey, United States
 Philadelphia, Pennsylvania, United States
+Redwood City, California, United States
 San Francisco, California, United States
+New York, New York, United States
 Ann Arbor, Michigan, United States
 New York, New York, United States
 Fullerton, California, United States
@@ -1505,6 +1744,7 @@ West Lafayette, Indiana, United States
 Houston, Texas, United States
 College Station, Texas, United States
 Los Angeles, California, United States
+Boulder, Colorado, United States
 San Francisco, California, United States
 Santa Cruz, California, United States
 Elizabeth, New Jersey, United States
@@ -1512,26 +1752,35 @@ Pittsburgh, Pennsylvania, United States
 Berkeley, California, United States
 San Francisco, California, United States
 Pomona, California, United States
-San Francisco, California, United States
+Bryan, Texas, United States
 New York, New York, United States
 Baltimore, Maryland, United States
 Blacksburg, VA, US
 Philadelphia, Pennsylvania, United States
+San Francisco, California, United States
 Boston, Massachusetts, United States
 Washington, DC, US
 Pittsburgh, Pennsylvania, United States
 Detroit, Michigan, United States
+Germantown, Maryland, United States
+Mountain View, California, United States
 San Francisco, California, United States
 New York, New York, United States
 Baltimore, Maryland, United States
+New York, New York, United States
 Ann Arbor, Michigan, United States
 Kent, Ohio, United States
 Philadelphia, Pennsylvania, United States
+New York, New York, United States
+Seattle, Washington, United States
 Los Angeles, California, United States
+Miami, Florida, United States
 Pasadena, California, United States
+College Park, Maryland, United States
 Indianapolis, Indiana, United States
 Houston, Texas, United States
 San Luis Obispo, California, United States
+New York, New York, United States
 Terre Haute, Indiana, United States
 Downingtown, PA, US
 Philadelphia, PA, US
@@ -1540,33 +1789,41 @@ Cincinnati, Ohio, United States
 Boise, Idaho, United States
 Philadelphia, Pennsylvania, United States
 Madison Heights, Michigan, United States
-Santa Cruz, California, United States
+Los Angeles, California, United States
 Stanford, California, United States
 San Francisco, California, United States
 Palo Alto, California, United States
+Atlanta, Georgia, United States
 Minneapolis, Minnesota, United States
 Pittsburgh, Pennsylvania, United States
-Wyalusing, Pennsylvania, United States
+Los Angeles, California, United States
 New York, New York, United States
 Baltimore, Maryland, United States
 Champaign, Illinois, United States
 San Francisco, California, United States
+San Jose, California, United States
 Bloomfield Hills, Michigan, United States
 San Diego, California, United States
 Denton, Texas, United States
 New York, New York, United States
 West Lafayette, IN, US
-Santa Monica, California, United States
+New York, New York, United States
 Cambridge, Massachusetts, United States
 Houston, Texas, United States
 Boulder, Colorado, United States
 Evanston, Illinois, United States
 Dallas, Texas, United States
+Boston, Massachusetts, United States
+San Francisco, CA, US
+New York, New York, United States
 San Francisco, California, United States
-Honolulu, Hawaii, United States
+Charlottesville, Virginia, United States
 Troy, Michigan, United States
 Chicago, Illinois, United States
+New Orleans, Louisiana, United States
 Dallas, Texas, United States
+Riverside, California, United States
+Pittsburgh, Pennsylvania, United States
 San Jose, California, United States
 Blacksburg, Virginia, United States
 Woodbridge Township, New Jersey, United States
@@ -1578,6 +1835,7 @@ San Francisco, California, United States
 San Francisco, California, United States
 Boston, Massachusetts, United States
 Philadelphia, Pennsylvania, United States
+Greenbrier, AR, US
 Tallahassee, Florida, United States
 San Jose, California, United States
 Los Angeles, California, United States
@@ -1586,12 +1844,16 @@ Denver, Colorado, United States
 Boston, Massachusetts, United States
 Goleta, California, United States
 Pasadena, California, United States
+New York, New York, United States
 College Park, Maryland, United States
 Pittsburgh, Pennsylvania, United States
+Buffalo, New York, United States
+Champaign, Illinois, United States
 Boulder County, CO, US
 San Jose, California, United States
-Ithaca, New York, United States
+Santa Clara, California, United States
 West Lafayette, Indiana, United States
+New York, New York, United States
 Atlanta, Georgia, United States
 San Francisco, California, United States
 Woodstock, Georgia, United States
@@ -1599,40 +1861,58 @@ Shippensburg, Pennsylvania, United States
 San Diego, CA, US
 San Francisco, California, United States
 Cambridge, Massachusetts, United States
+Baltimore, Maryland, United States
 Providence, Rhode Island, United States
+Boulder, Colorado, United States
 Santa Cruz, California, United States
 Atlanta, Georgia, United States
 Maryland, United States
+South Brunswick Township, NJ, US
 Baltimore, Maryland, United States
-Dallas, Texas, United States
+Marlboro Township, New Jersey, United States
+Hollywood, Florida, United States
 Boston, Massachusetts, United States
 Irvine, California, United States
 Austin, Texas, United States
 West Lafayette, Indiana, United States
 Philadelphia, Pennsylvania, United States
 West Lafayette, Indiana, United States
+Houston, Texas, United States
 Reno, Nevada, United States
+Pomona, California, United States
+California, United States
 Durham, North Carolina, United States
 Philadelphia, Pennsylvania, United States
 Atlanta, Georgia, United States
 Youngstown, Ohio, United States
 Champaign, Illinois, United States
+Philadelphia, Pennsylvania, United States
 Santa Clara, California, United States
 Santa Monica, California, United States
 New York, New York, United States
 Irvine, California, United States
+San Luis Obispo, California, United States
+Pittsburgh, Pennsylvania, United States
+San Diego, California, United States
+San Francisco, California, United States
 Chicago, Illinois, United States
 Pittsburgh, Pennsylvania, United States
 New York, New York, United States
 Chicago, Illinois, United States
+Durham, North Carolina, United States
+Champaign, Illinois, United States
 New York, New York, United States
 Minneapolis, Minnesota, United States
 Durham, North Carolina, United States
-Los Angeles, California, United States
+Pittsburgh, Pennsylvania, United States
+Fremont, California, United States
 College Park, Maryland, United States
+New York, New York, United States
+Eugene, Oregon, United States
 Boston, Massachusetts, United States
 Bay City, Michigan, United States
 Honolulu, Hawaii, United States
+Bellingham, Washington, United States
 Ithaca, New York, United States
 Los Angeles, California, United States
 New York, New York, United States
@@ -1640,22 +1920,26 @@ Ann Arbor, Michigan, United States
 Mountain View, California, United States
 Washington, District of Columbia, United States
 San Diego, California, United States
-Pittsburgh, Pennsylvania, United States
+Princeton, New Jersey, United States
 Nashville, Tennessee, United States
 San Francisco, California, United States
 Berkeley, California, United States
+Princeton, New Jersey, United States
 Stanford, California, United States
 West Lafayette, Indiana, United States
 Pleasanton, California, United States
+Boston, Massachusetts, United States
 Austin, Texas, United States
 Berkeley, California, United States
 Sunnyvale, California, United States
 Seattle, Washington, United States
+Chicago, Illinois, United States
 Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
 San Francisco, California, United States
 McLean, Virginia, United States
 Charlottesville, Virginia, United States
+New York, New York, United States
 Gilbert, Arizona, United States
 Los Angeles, California, United States
 San Francisco, California, United States
@@ -1664,50 +1948,74 @@ New York, New York, United States
 San Diego, California, United States
 San Francisco, California, United States
 New York, New York, United States
+New York, New York, United States
+San Francisco, California, United States
 Los Angeles, California, United States
 Pittsburgh, Pennsylvania, United States
 Amherst, Massachusetts, United States
 West Nyack, NY, US
+Newark, New Jersey, United States
+Los Angeles, California, United States
+San Francisco, California, United States
 Dallas, Texas, United States
+Santa Clarita, CA, US
+New York, New York, United States
 Nashville, Tennessee, United States
 Mountain View, California, United States
+Baltimore, Maryland, United States
 College Station, Texas, United States
 College Park, MD, US
 Rockville, Maryland, United States
 Urbana, Illinois, United States
+Princeton, New Jersey, United States
 Dallas, Texas, United States
+Orlando, Florida, United States
 San Diego, CA, US
+Pasadena, California, United States
 New York, New York, United States
 New Haven, Connecticut, United States
 San Francisco, California, United States
 Palo Alto, California, United States
 South Bend, IN, US
+Durham, North Carolina, United States
 New York, New York, United States
 Columbiana, OH, US
 San Francisco, California, United States
 San Rafael, California, United States
+Seattle, Washington, United States
 Houston, Texas, United States
+New York, New York, United States
 Philadelphia, Pennsylvania, United States
 Mountain View, California, United States
 San Francisco, California, United States
+New York, New York, United States
+Mountain View, California, United States
 Seattle, Washington, United States
-Wellesley, Massachusetts, United States
+Dallas, Texas, United States
 Milpitas, California, United States
 Seattle, Washington, United States
 Chicopee, Massachusetts, United States
 Malden, Massachusetts, United States
 New York, New York, United States
-United States
 San Francisco, California, United States
+Sunnyvale, California, United States
+United States
+Seattle, Washington, United States
 Pasadena, California, United States
+Dallas, Texas, United States
 San Diego, California, United States
+New Jersey, United States
+New York, New York, United States
 Irvine, California, United States
 San Francisco, California, United States
 Cupertino, California, United States
+Blacksburg, Virginia, United States
 Los Angeles, California, United States
 Danville, California, United States
+Cupertino, California, United States
 Oakland, California, United States
 New York, New York, United States
+Santa Barbara, California, United States
 Houston, Texas, United States
 Naperville, Illinois, United States
 New York, New York, United States
@@ -1716,57 +2024,74 @@ New Haven, Connecticut, United States
 Mountain View, California, United States
 Reno, Nevada, United States
 Evanston, Illinois, United States
+California, United States
 Fairfax, Virginia, United States
+San Francisco, California, United States
 Seattle, Washington, United States
 Claremont, California, United States
 New York, New York, United States
 West Haven, Connecticut, United States
 Boston, Massachusetts, United States
+Ann Arbor, Michigan, United States
 San Francisco, California, United States
 Pittsburgh, Pennsylvania, United States
+New Jersey, United States
 Rindge, NH, US
 Seattle, Washington, United States
-Cincinnati, Ohio, United States
+Los Angeles, California, United States
+Hoboken, New Jersey, United States
+College Park, Maryland, United States
 Miami, Florida, United States
 Los Angeles, California, United States
+Cambridge, Massachusetts, United States
+Boston, Massachusetts, United States
 Boston, Massachusetts, United States
 Seattle, Washington, United States
 College Park, Maryland, United States
 Philadelphia, Pennsylvania, United States
+Boston, Massachusetts, United States
 Seattle, Washington, United States
+New York, New York, United States
 San Jose, California, United States
 San Francisco, California, United States
 Baltimore, Maryland, United States
 New York, New York, United States
+Dallas, Texas, United States
+Oakland, California, United States
 Blacksburg, Virginia, United States
 North Brunswick Township, NJ, US
 Boston, Massachusetts, United States
-Kent, Ohio, United States
+New York, New York, United States
 Herndon, Virginia, United States
 Cleveland, Ohio, United States
 San Jose, California, United States
-Los Angeles, California, United States
+Philadelphia, Pennsylvania, United States
+San Jose, California, United States
 Cambridge, Massachusetts, United States
 New York, New York, United States
+Ann Arbor, Michigan, United States
 Binghamton, New York, United States
+Rochester, NY, US
 Troy, New York, United States
 Woodstock, Connecticut, United States
 Cambridge, Massachusetts, United States
 Atlanta, Georgia, United States
 College Station, Texas, United States
 Providence, Rhode Island, United States
+Terre Haute, Indiana, United States
+Urbana, IL, US
 Philadelphia, Pennsylvania, United States
 Terre Haute, Indiana, United States
 Orange County, CA, US
 Ithaca, New York, United States
 Union, New Jersey, United States
 Atlanta, Georgia, United States
-Chicago, Illinois, United States
-Urbana, Illinois, United States
+San Jose, California, United States
 Seattle, Washington, United States
 Los Angeles, California, United States
-Chicago, Illinois, United States
+Champaign, Illinois, United States
 New York, New York, United States
+San Francisco, California, United States
 Seattle, Washington, United States
 New York, New York, United States
 Chicago, Illinois, United States
@@ -1781,8 +2106,11 @@ New York, New York, United States
 Providence, Rhode Island, United States
 Houston, Texas, United States
 Atlanta, Georgia, United States
+Tallahassee, Florida, United States
+Palo Alto, California, United States
 Terre Haute, Indiana, United States
 Irving, Texas, United States
+San Francisco, California, United States
 Troy, New York, United States
 Chapel Hill, North Carolina, United States
 Hiram, OH, US
@@ -1790,16 +2118,23 @@ Santa Clara, California, United States
 Champaign, Illinois, United States
 New York, New York, United States
 New York, New York, United States
+New York, New York, United States
+New York, New York, United States
 Ann Arbor, Michigan, United States
+Charlotte, North Carolina, United States
+Baltimore, Maryland, United States
 Princeton, New Jersey, United States
 Berkeley, California, United States
 New York, New York, United States
 San Francisco, California, United States
 Pittsburgh, Pennsylvania, United States
+Troy, New York, United States
 Los Angeles, California, United States
 New York, New York, United States
+Newark, New Jersey, United States
+Charlottesville, Virginia, United States
 Boston, Massachusetts, United States
-Lake Forest, California, United States
+San Francisco, California, United States
 Hartford, Connecticut, United States
 Urbana, Illinois, United States
 Baltimore, MD, US
@@ -1807,36 +2142,49 @@ College Park, Maryland, United States
 Pittsburgh, Pennsylvania, United States
 Atlanta, Georgia, United States
 Fremont, California, United States
+Wellesley, Massachusetts, United States
 New York, New York, United States
 Los Angeles, California, United States
+Anaheim, California, United States
 Los Angeles, California, United States
 Marlboro Township, New Jersey, United States
+Sunnyvale, California, United States
+Wyckoff, New Jersey, United States
 Seattle, Washington, United States
 Nashville, Tennessee, United States
 San Diego, California, United States
+Cupertino, California, United States
 Pittsburgh, Pennsylvania, United States
 Boston, Massachusetts, United States
+Ithaca, New York, United States
 Iowa City, Iowa, United States
 New York, New York, United States
 Honolulu, Hawaii, United States
+Houston, Texas, United States
 San Francisco, California, United States
 Gilbert, Arizona, United States
-Princeton, New Jersey, United States
+Cleveland, Ohio, United States
+New York, New York, United States
 Columbus, Ohio, United States
+New York, New York, United States
 Philadelphia, Pennsylvania, United States
-Texas, United States
 Urbana, Illinois, United States
 Philadelphia, Pennsylvania, United States
 San Francisco, California, United States
 College Park, Maryland, United States
 Philadelphia, Pennsylvania, United States
+New York, New York, United States
 Annapolis, Maryland, United States
 Fremont, California, United States
 Medford, Massachusetts, United States
+Los Angeles, California, United States
 Baltimore, Maryland, United States
+Pomona, California, United States
 Boise, Idaho, United States
-New York, New York, United States
+Kent, Ohio, United States
 Longmont, Colorado, United States
+Baltimore, Maryland, United States
+San Francisco, California, United States
 New York, New York, United States
 Cleveland, Ohio, United States
 New York, New York, United States
@@ -1846,33 +2194,48 @@ Orange, California, United States
 College Park, Maryland, United States
 Mount Pleasant, South Carolina, United States
 Danville, California, United States
+New York, New York, United States
 Redwood City, California, United States
 Baltimore, MD, US
+New York, New York, United States
 Bedford, New York, United States
+Saratoga, California, United States
 New York, New York, United States
 Ann Arbor, Michigan, United States
+United States
 Detroit, Michigan, United States
 Philadelphia, Pennsylvania, United States
 Berkeley, California, United States
+Arlington, Texas, United States
 New York, New York, United States
 Baltimore, Maryland, United States
+New Haven, Connecticut, United States
 Saratoga, California, United States
 Urbana, Illinois, United States
+Ann Arbor, Michigan, United States
+Ann Arbor, Michigan, United States
 New York, New York, United States
 Marshfield, MO, US
 New York, New York, United States
 Santa Clara, California, United States
-Fremont, California, United States
+Claremont, California, United States
 San Jose, California, United States
 California, United States
 Troy, New York, United States
 Boston, Massachusetts, United States
-Los Angeles, California, United States
+Nashville, Tennessee, United States
+Maryland, United States
 Irvine, California, United States
+Claremont, California, United States
+Houghton, Michigan, United States
 Seattle, Washington, United States
+Troy, Michigan, United States
+Los Angeles, California, United States
+California, United States
 Providence, Rhode Island, United States
 Richmond, Virginia, United States
 Los Angeles, California, United States
+Centreville, Virginia, United States
 West Lafayette, Indiana, United States
 San Francisco, California, United States
 San Jose, California, United States
@@ -1882,38 +2245,55 @@ Cambridge, Massachusetts, United States
 West Lafayette, Indiana, United States
 Boston, Massachusetts, United States
 Ann Arbor, Michigan, United States
+West Lafayette, Indiana, United States
 Philadelphia, Pennsylvania, United States
+Redwood City, California, United States
 Providence, Rhode Island, United States
 New York, New York, United States
 Wellesley, Massachusetts, United States
 Beaver Falls, PA, US
+Medford, Massachusetts, United States
 Berkeley, California, United States
+Los Angeles, California, United States
 Oakland, California, United States
+Ann Arbor, Michigan, United States
 West Lafayette, Indiana, United States
 Eugene, Oregon, United States
 Cambridge, Massachusetts, United States
+Cliffside Park, NJ, US
 Washington, DC, US
 Durham, North Carolina, United States
 Los Angeles, California, United States
+San Diego, California, United States
 Irvine, California, United States
 Berkeley, California, United States
 Los Angeles, California, United States
+Fremont, California, United States
+San Francisco, California, United States
 San Francisco, California, United States
 Ann Arbor, Michigan, United States
 New York, New York, United States
-College Park, Maryland, United States
-New Holstein, WI, US
 New York, New York, United States
-Rochester, Michigan, United States
+Boston, Massachusetts, United States
+Kirkland, Washington, United States
+College Park, Maryland, United States
+New York, New York, United States
+New York, New York, United States
+San Mateo, California, United States
+New Holstein, WI, US
+Seattle, Washington, United States
 Boston, Massachusetts, United States
 Austin, Texas, United States
+St. Louis, Missouri, United States
 Chicago, Illinois, United States
 Berkeley, California, United States
 Utah, United States
 San Francisco, California, United States
+Wallingford, Connecticut, United States
 Piscataway Township, NJ, US
 Upper Darby, Pennsylvania, United States
 San Francisco, California, United States
+Massachusetts, United States
 Brookline, Massachusetts, United States
 San Jose, California, United States
 San Francisco, California, United States
@@ -1922,31 +2302,51 @@ Washington, District of Columbia, United States
 Walnut, California, United States
 San Francisco, California, United States
 New York, New York, United States
+Houston, Texas, United States
 Tempe, Arizona, United States
-Champaign, Illinois, United States
+Mountain View, California, United States
+Arcadia, California, United States
+San Francisco, California, United States
 San Francisco, California, United States
 New York, New York, United States
 California, United States
 Philadelphia, Pennsylvania, United States
 Merced, California, United States
 Santa Barbara, California, United States
+Pittsburgh, Pennsylvania, United States
+San Francisco, California, United States
 Seattle, Washington, United States
 Salt Lake City, Utah, United States
+Washington, District of Columbia, United States
+New York, New York, United States
 Boston, Massachusetts, United States
+Cambridge, Massachusetts, United States
 San Francisco, California, United States
 Los Angeles, California, United States
+West Lafayette, Indiana, United States
+Atlanta, Georgia, United States
 Ann Arbor, Michigan, United States
 San Francisco, California, United States
+Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
 Baltimore, Maryland, United States
 Buffalo, New York, United States
 Sacramento, California, United States
 Cambridge, Massachusetts, United States
-College Park, Maryland, United States
+Mason City, Iowa, United States
 New York, New York, United States
 San Francisco, California, United States
+Ohio, United States
+Stanford, California, United States
+Blacksburg, Virginia, United States
+Richardson, Texas, United States
 San Francisco, California, United States
+Seattle, Washington, United States
+Amherst, Massachusetts, United States
+San Francisco, California, United States
+San Jose, California, United States
 Philadelphia, Pennsylvania, United States
+Evanston, Illinois, United States
 New York, New York, United States
 Washington, District of Columbia, United States
 New York, New York, United States
@@ -1955,11 +2355,12 @@ Richmond, Virginia, United States
 San Luis Obispo, California, United States
 Gainesville, Florida, United States
 Providence, Rhode Island, United States
-Cambridge, MA, US
-West Lafayette, Indiana, United States
+Rancho Cucamonga, California, United States
 Marlboro Township, New Jersey, United States
+New York, New York, United States
 Baltimore, Maryland, United States
 Ann Arbor, Michigan, United States
+Los Angeles, California, United States
 Seattle, Washington, United States
 Champaign, Illinois, United States
 Santa Clara, California, United States
@@ -1967,30 +2368,39 @@ Charlotte, North Carolina, United States
 Chicago, Illinois, United States
 Boston, Massachusetts, United States
 San Francisco, California, United States
+Atlanta, Georgia, United States
 Los Angeles, California, United States
 College Park, Maryland, United States
 New York, New York, United States
 Cambridge, Massachusetts, United States
+Santa Clara, California, United States
+New York, New York, United States
 Ann Arbor, Michigan, United States
 College Station, Texas, United States
 San Francisco, California, United States
-Boston, Massachusetts, United States
+Atlanta, Georgia, United States
+San Diego, California, United States
 California, United States
+San Luis Obispo, California, United States
 Santa Barbara, California, United States
 Chicago, Illinois, United States
 West Lafayette, Indiana, United States
-Champaign, Illinois, United States
+Kent, Ohio, United States
 Albertson, New York, United States
 Allentown, Pennsylvania, United States
+Tallahassee, Florida, United States
 San Jose, CA, US
 Stanford, California, United States
 Berkeley, California, United States
 Portland, Oregon, United States
+Boston, Massachusetts, United States
 Durham, North Carolina, United States
 Atlanta, Georgia, United States
 San Francisco, California, United States
-Santa Barbara, California, United States
+Houston, Texas, United States
+Boston, Massachusetts, United States
 Cambridge, Massachusetts, United States
+Champaign, Illinois, United States
 Cedar Rapids, IA, US
 Washington, District of Columbia, United States
 New York, New York, United States
@@ -1998,44 +2408,52 @@ San Francisco, California, United States
 San Francisco, CA, US
 Mansfield, Massachusetts, United States
 San Francisco, California, United States
+Columbus, Ohio, United States
+Pittsburgh, Pennsylvania, United States
 Lexington, Massachusetts, United States
 College Park, Maryland, United States
 New York, New York, United States
 Arlington, Virginia, United States
-Philadelphia, Pennsylvania, United States
+Atlanta, Georgia, United States
 Washington, District of Columbia, United States
-New York, New York, United States
+Sunnyvale, California, United States
 San Jose, California, United States
 Houston, Texas, United States
+Saint Louis, MO, US
 Stanford, California, United States
-Boston, Massachusetts, United States
 Sunnyvale, California, United States
 Cambridge, Massachusetts, United States
+Pasadena, California, United States
 Santa Barbara, California, United States
 Cupertino, California, United States
 San Francisco, California, United States
 San Ramon, California, United States
-San Antonio, Texas, United States
 West Lafayette, Indiana, United States
 Atlanta, Georgia, United States
 Palo Alto, California, United States
 New York, New York, United States
 Seattle, Washington, United States
+Boston, Massachusetts, United States
 New Brunswick, New Jersey, United States
+Hartford, Connecticut, United States
 Pomona, California, United States
 New York, New York, United States
 Philadelphia, Pennsylvania, United States
 Baltimore, Maryland, United States
+Huntsville, Alabama, United States
 West Lafayette, Indiana, United States
 Princeton, New Jersey, United States
 Philadelphia, Pennsylvania, United States
+New York, New York, United States
+West Lafayette, Indiana, United States
 Philadelphia, Pennsylvania, United States
 Blacksburg, Virginia, United States
 Boston, Massachusetts, United States
-Boston, Massachusetts, United States
-Ann Arbor, Michigan, United States
+Cooper City, Florida, United States
+Santa Barbara, California, United States
 New York, New York, United States
 New York, New York, United States
+Providence, Rhode Island, United States
 Austin, Texas, United States
 Baltimore, Maryland, United States
 Philadelphia, Pennsylvania, United States
@@ -2051,21 +2469,30 @@ Los Angeles, California, United States
 College Park, Maryland, United States
 Philadelphia, Pennsylvania, United States
 Sunnyvale, California, United States
+Los Angeles, California, United States
+Troy, New York, United States
 West Lafayette, Indiana, United States
 Boston, Massachusetts, United States
 College Park, Maryland, United States
 Charlottesville, Virginia, United States
+Irvine, California, United States
+Pleasanton, California, United States
 New York, New York, United States
 Berkeley, California, United States
 St. Louis, Missouri, United States
 Tenafly, New Jersey, United States
 Mountain View, California, United States
+Columbus, Ohio, United States
 Goleta, California, United States
 Dublin, California, United States
-West Lafayette, Indiana, United States
+Santa Cruz, California, United States
+Pomona, California, United States
+Golden, Colorado, United States
 Pittsburgh, Pennsylvania, United States
 Blacksburg, Virginia, United States
 Berkeley, California, United States
+Fremont, California, United States
+San Francisco, California, United States
 Hanover, New Hampshire, United States
 Pomona, California, United States
 Kent, Ohio, United States
@@ -2075,9 +2502,12 @@ Urbana, Illinois, United States
 Providence, Rhode Island, United States
 Urbana, Illinois, United States
 San Francisco, California, United States
+Columbus, Ohio, United States
 Cambridge, Massachusetts, United States
+Plainsboro Township, New Jersey, United States
 New York, New York, United States
-New York, New York, United States
+North Carolina, United States
+Princeton, New Jersey, United States
 Mountain View, California, United States
 Los Angeles, California, United States
 New York, New York, United States
@@ -2097,56 +2527,75 @@ Ann Arbor, Michigan, United States
 Bellevue, Washington, United States
 Santa Clara, California, United States
 New York, New York, United States
+San Francisco, California, United States
 Los Angeles, California, United States
 Baltimore, Maryland, United States
 Houston, Texas, United States
-Boston, Massachusetts, United States
 Claremont, California, United States
 Princeton, New Jersey, United States
 Ann Arbor, Michigan, United States
+San Diego, California, United States
 West Lafayette, Indiana, United States
+Seattle, Washington, United States
+Boston, Massachusetts, United States
+Columbus, Ohio, United States
 Ann Arbor, Michigan, United States
 Philadelphia, Pennsylvania, United States
 Wellesley, Massachusetts, United States
+New York, New York, United States
+Ramona, California, United States
 Atlanta, Georgia, United States
 Troy, New York, United States
 Dallas, Texas, United States
-Rochester, New York, United States
+Cranford, New Jersey, United States
 Ann Arbor, Michigan, United States
 West Lafayette, Indiana, United States
 Pasadena, California, United States
 Los Angeles, California, United States
 San Jose, California, United States
+California, United States
+San Jose, California, United States
 San Francisco, California, United States
+Santa Fe Springs, CA, US
 Irvine, California, United States
+Blacksburg, Virginia, United States
+Los Angeles, California, United States
 New York, New York, United States
 San Francisco, California, United States
 Philadelphia, Pennsylvania, United States
 New York, New York, United States
 Richardson, Texas, United States
 Los Angeles, California, United States
+Atlanta, Georgia, United States
 New York, New York, United States
 Decatur, Georgia, United States
 San Francisco, California, United States
 Los Angeles, California, United States
+Dallas, Texas, United States
+Atlanta, Georgia, United States
 Alaska, United States
 New York, New York, United States
+Louisville, Kentucky, United States
 Atlanta, Georgia, United States
 Princeton, New Jersey, United States
 Palo Alto, California, United States
 Honolulu, Hawaii, United States
+San Gabriel, California, United States
+New York, New York, United States
 Baltimore, Maryland, United States
 Newark, Delaware, United States
 Summit, NJ, US
 Mountain View, California, United States
 Philadelphia, Pennsylvania, United States
 Kaneohe, Hawaii, United States
+New York, New York, United States
 Providence, Rhode Island, United States
 Katy, Texas, United States
 Urbana, Illinois, United States
 Salt Lake City, Utah, United States
 New York, New York, United States
 Philadelphia, Pennsylvania, United States
+Centreville, Virginia, United States
 Washington, District of Columbia, United States
 Urbana, Illinois, United States
 Newark, Delaware, United States
@@ -2156,56 +2605,68 @@ Marlboro Township, New Jersey, United States
 Pittsburgh, Pennsylvania, United States
 Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
-San Francisco, California, United States
 Sausalito, California, United States
 Lexington, Massachusetts, United States
+Cleveland, Ohio, United States
+Cupertino, California, United States
+Blacksburg, Virginia, United States
 Hackensack, New Jersey, United States
+New York, New York, United States
 Boston, Massachusetts, United States
 Palo Alto, California, United States
 Princeton, New Jersey, United States
+Philadelphia, Pennsylvania, United States
 Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
 West Lafayette, Indiana, United States
 Davis, California, United States
 Glassboro, New Jersey, United States
 Hanover, New Hampshire, United States
-Terre Haute, Indiana, United States
 California, United States
 Princeton, New Jersey, United States
 Joliet, Illinois, United States
 Louisville, Kentucky, United States
 Atlanta, Georgia, United States
+Cedar Hills, Utah, United States
 Santa Clara, California, United States
+Irvine, California, United States
+Rochester, New York, United States
 Austin, Texas, United States
-Orlando, Florida, United States
+Atlanta, Georgia, United States
 Springfield, Massachusetts, United States
 Washington, District of Columbia, United States
 Cambridge, Massachusetts, United States
-San Francisco, California, United States
+Chicago, Illinois, United States
 Boston, Massachusetts, United States
 College Park, Maryland, United States
+Holbrook, New York, United States
 Boston, Massachusetts, United States
 Princeton, New Jersey, United States
 Philadelphia, Pennsylvania, United States
 Glen Ridge, New Jersey, United States
+Boston, Massachusetts, United States
 San Francisco, California, United States
 Ferndale, Michigan, United States
-Durham, North Carolina, United States
 Boston, Massachusetts, United States
+Philadelphia, Pennsylvania, United States
 Houston, Texas, United States
 Cincinnati, Ohio, United States
 California, United States
+New York, New York, United States
 Amherst, MA, US
 New York, New York, United States
 Cambridge, Massachusetts, United States
 Dublin, California, United States
+Cranford, New Jersey, United States
 New York, New York, United States
-New York, New York, United States
+Boston, Massachusetts, United States
 Providence, Rhode Island, United States
 Houston, Texas, United States
 Oakland, California, United States
-Cambridge, Massachusetts, United States
+Los Angeles, California, United States
+Houston, TX, US
 Durham, North Carolina, United States
+Champaign, Illinois, United States
 New York, New York, United States
 Rochester, New York, United States
 Minneapolis, Minnesota, United States
@@ -2217,69 +2678,91 @@ Durham, North Carolina, United States
 Boston, Massachusetts, United States
 Rochester, New York, United States
 Washington, District of Columbia, United States
+Stanford, California, United States
 Cincinnati, Ohio, United States
 San Jose, California, United States
 Princeton, New Jersey, United States
+Pittsburgh, Pennsylvania, United States
 Sacramento, California, United States
 New Market, MD, US
 New York, New York, United States
 San Mateo, California, United States
+New York, New York, United States
 Ann Arbor, Michigan, United States
+East Lansing, Michigan, United States
 Claremont, California, United States
 Palo Alto, California, United States
 San Francisco, California, United States
-San Francisco, CA, US
+Cincinnati, Ohio, United States
+San Francisco, California, United States
 Stanford, California, United States
 New York, New York, United States
 Ann Arbor, Michigan, United States
 Austin, Texas, United States
 Kailua-Kona, Hawaii, United States
 Charlottesville, Virginia, United States
+West Lafayette, Indiana, United States
 Ann Arbor, Michigan, United States
 Kent, Ohio, United States
+Irvine, California, United States
 New Orleans, Louisiana, United States
 Cambridge, Massachusetts, United States
 New York, New York, United States
 San Francisco, California, United States
 Washington, District of Columbia, United States
 Ames, Iowa, United States
+Philadelphia, Pennsylvania, United States
 New York, New York, United States
 Fairfax, Virginia, United States
-Los Angeles, California, United States
-West Lafayette, Indiana, United States
+Philadelphia, Pennsylvania, United States
 New York, New York, United States
+West Lafayette, Indiana, United States
 Seattle, Washington, United States
 Ithaca, New York, United States
 Atlanta, Georgia, United States
 Santa Clara, California, United States
+Seattle, Washington, United States
+Hackensack, New Jersey, United States
 Providence, Rhode Island, United States
 Los Angeles, California, United States
+Seattle, Washington, United States
 Ames, Iowa, United States
 Athens, Georgia, United States
 Irvine, California, United States
+Los Angeles, California, United States
 New York, New York, United States
 Stanford, California, United States
 Cleveland, Ohio, United States
 Seattle, Washington, United States
+San Francisco, California, United States
 La Cañada Flintridge, California, United States
+Amherst, Massachusetts, United States
 San Francisco, California, United States
 Troy, New York, United States
 Sterling Heights, Michigan, United States
 Philadelphia, Pennsylvania, United States
 San Francisco, California, United States
-Paramus, New Jersey, United States
+East Lansing, Michigan, United States
+Santa Clara, California, United States
+Cleveland, Ohio, United States
 San Francisco, California, United States
 Rockville, Maryland, United States
 Gaithersburg, Maryland, United States
+Boston, Massachusetts, United States
+New York, New York, United States
+Silver Spring, Maryland, United States
 Ann Arbor, Michigan, United States
+Champaign, Illinois, United States
+New York, New York, United States
 Cambridge, Massachusetts, United States
-Houston, Texas, United States
+McDonald, Pennsylvania, United States
 Oroville, California, United States
 Seattle, Washington, United States
 Wellesley, Massachusetts, United States
 New York, New York, United States
 Santa Barbara, California, United States
 San Francisco, California, United States
+Providence, Rhode Island, United States
 New York, New York, United States
 Philadelphia, Pennsylvania, United States
 Los Angeles, California, United States
@@ -2291,10 +2774,10 @@ Chicago, Illinois, United States
 Atlanta, Georgia, United States
 Santa Barbara, California, United States
 Baton Rouge, Louisiana, United States
-Arizona, United States
 Boston, Massachusetts, United States
+Arizona, United States
 Chicago, Illinois, United States
-New York, New York, United States
+San Francisco, California, United States
 Merced, California, United States
 New York, New York, United States
 New York, New York, United States
@@ -2302,6 +2785,7 @@ Bear, Delaware, United States
 West Lafayette, Indiana, United States
 Fremont, California, United States
 Oakland, CA, US
+New York, New York, United States
 Ann Arbor, Michigan, United States
 New York, New York, United States
 Los Angeles, California, United States
@@ -2311,10 +2795,12 @@ East Lansing, Michigan, United States
 San Francisco, California, United States
 San Francisco, California, United States
 New York, New York, United States
+Palo Alto, California, United States
 New York, New York, United States
 Cambridge, Massachusetts, United States
 West Lafayette, IN, US
 Champaign, Illinois, United States
+East Lansing, Michigan, United States
 College Park, Maryland, United States
 Ashland, Oregon, United States
 Austin, Texas, United States
@@ -2325,20 +2811,26 @@ Amherst, Massachusetts, United States
 Palo Alto, California, United States
 Providence, Rhode Island, United States
 Cedar Rapids, Iowa, United States
+Chicago, Illinois, United States
 Blacksburg, Virginia, United States
 Atlanta, Georgia, United States
 Philadelphia, Pennsylvania, United States
 Chapel Hill, NC, US
 Cupertino, California, United States
+Bellevue, Washington, United States
 Atlanta, Georgia, United States
 Cambridge, Massachusetts, United States
 Louisville, Kentucky, United States
 Houston, Texas, United States
+South Pasadena, California, United States
+Pasadena, California, United States
 Seattle, Washington, United States
 Omaha, Nebraska, United States
 Denver, Colorado, United States
 Rochester, New York, United States
 Center City, Minnesota, United States
+New York, New York, United States
+Hayward, California, United States
 New York, New York, United States
 New York, New York, United States
 New York, New York, United States
@@ -2349,33 +2841,44 @@ Somerville, Massachusetts, United States
 College Park, Maryland, United States
 Boston, Massachusetts, United States
 San Francisco, California, United States
+New Providence, New Jersey, United States
+Maryland, United States
 Los Angeles, California, United States
 San Francisco, California, United States
 Ithaca, New York, United States
 Charlottesville, Virginia, United States
 San Francisco, California, United States
+Carterville, IL, US
 New York, New York, United States
 Los Angeles, California, United States
 Houston, Texas, United States
 Los Angeles, California, United States
+Santa Clara, California, United States
 San Francisco, California, United States
 San Francisco, California, United States
 New York, New York, United States
 Washington, District of Columbia, United States
+San Jose, California, United States
 Boston, Massachusetts, United States
 San Francisco, California, United States
+Delaware, United States
 Richardson, Texas, United States
+New York, New York, United States
 College Park, Maryland, United States
 Mountain View, California, United States
 San Francisco, California, United States
 Cambridge, Massachusetts, United States
 Pittsburgh, Pennsylvania, United States
+Oakland, California, United States
 Tempe, Arizona, United States
 Terre Haute, Indiana, United States
 Austin, Texas, United States
+Riverside, California, United States
 New York, New York, United States
+Claremont, California, United States
 West Lafayette, Indiana, United States
 Baltimore, Maryland, United States
+Philadelphia, Pennsylvania, United States
 Berkeley, California, United States
 Washington, District of Columbia, United States
 Santa Monica, California, United States
@@ -2383,17 +2886,24 @@ San Francisco, California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
 Sunnyvale, California, United States
+Seattle, Washington, United States
 Hermosa Beach, California, United States
+Boston, Massachusetts, United States
 Urbana, Illinois, United States
+Glassboro, New Jersey, United States
 Washington, District of Columbia, United States
+Berkeley, California, United States
+San Diego, California, United States
 West Lafayette, Indiana, United States
 West Lafayette, Indiana, United States
 New York, New York, United States
 Houston, Texas, United States
 Princeton, New Jersey, United States
+Santa Clara, California, United States
 Providence, Rhode Island, United States
 Durham, North Carolina, United States
-Rochester, New York, United States
+College Park, Maryland, United States
+Berkeley, California, United States
 Durham, North Carolina, United States
 Gainesville, Florida, United States
 Fort Collins, Colorado, United States
@@ -2401,6 +2911,7 @@ Providence, Rhode Island, United States
 Charlotte, North Carolina, United States
 Urbana, Illinois, United States
 Rochester, New York, United States
+West Lafayette, Indiana, United States
 Cupertino, California, United States
 Tucson, Arizona, United States
 Chapel Hill, North Carolina, United States
@@ -2408,19 +2919,22 @@ San Diego, California, United States
 Baltimore, Maryland, United States
 Houston, Texas, United States
 Richardson, Texas, United States
-San Francisco, California, United States
 Somerville, Massachusetts, United States
-Maryland, United States
 New York, New York, United States
 New York, New York, United States
+New York, New York, United States
+Chula Vista, CA, US
 New York, New York, United States
 Cincinnati, Ohio, United States
 Pittsburgh, Pennsylvania, United States
 San Francisco, CA, US
 Fremont, California, United States
-Philadelphia, Pennsylvania, United States
+Ann Arbor, Michigan, United States
 New York, New York, United States
+Orlando, Florida, United States
+Costa Mesa, California, United States
 Washington, West Virginia, United States
+Berkeley, California, United States
 Tallahassee, Florida, United States
 Seattle, Washington, United States
 New York, New York, United States
@@ -2429,12 +2943,12 @@ New York, New York, United States
 West Lafayette, Indiana, United States
 Redwood City, California, United States
 Chicago, Illinois, United States
+Kent, Ohio, United States
 Cleveland, Ohio, United States
 Rochester, New York, United States
 Los Angeles, California, United States
 Baltimore, Maryland, United States
 Louisville, Kentucky, United States
-Santa Clara, California, United States
 Newark, Delaware, United States
 Pasadena, California, United States
 Santa Cruz, California, United States
@@ -2450,21 +2964,34 @@ Cambridge, Massachusetts, United States
 Seattle, Washington, United States
 Los Angeles, California, United States
 New York, New York, United States
-College Park, Maryland, United States
 New York, New York, United States
+College Park, Maryland, United States
+Los Angeles, California, United States
+New York, New York, United States
+Blacksburg, Virginia, United States
 San Mateo, California, United States
+Miramar Beach, FL, US
+Philadelphia, Pennsylvania, United States
+Stanford, California, United States
 Ann Arbor, Michigan, United States
 Tallahassee, Florida, United States
+New York, New York, United States
+San Francisco, California, United States
+Berkeley, California, United States
 Madison, Wisconsin, United States
+Edison, New Jersey, United States
+Houston, Texas, United States
 Thousand Oaks, California, United States
+Houston, Texas, United States
 Charlottesville, Virginia, United States
 Fairfax, Virginia, United States
 New York, New York, United States
-New York, New York, United States
 Fremont, California, United States
 West Lafayette, Indiana, United States
+Ann Arbor, Michigan, United States
 San Francisco, California, United States
 New York, New York, United States
+Medford, Massachusetts, United States
 San Francisco, California, United States
 New York, New York, United States
 United States
@@ -2478,11 +3005,14 @@ New York, New York, United States
 New York, New York, United States
 Pomona, California, United States
 Evanston, Illinois, United States
-Cupertino, California, United States
+West Lafayette, Indiana, United States
+Windermere, FL, US
+Boston, Massachusetts, United States
 Providence, Rhode Island, United States
 Oakland, California, United States
 Princeton, New Jersey, United States
 Blacksburg, Virginia, United States
+New York, New York, United States
 College Park, Maryland, United States
 San Luis Obispo, California, United States
 Walnut Creek, California, United States
@@ -2491,16 +3021,23 @@ San Francisco, California, United States
 St. Louis, Missouri, United States
 New York, New York, United States
 West Lafayette, Indiana, United States
+Ithaca, New York, United States
 Santa Cruz, California, United States
 Pittsburgh, Pennsylvania, United States
+Dallas, Texas, United States
+Urbana, Illinois, United States
 Irvine, California, United States
 Boston, Massachusetts, United States
 New York, New York, United States
+Houston, Texas, United States
 Kansas City, Missouri, United States
-Washington, District of Columbia, United States
+Troy, New York, United States
 Philadelphia, Pennsylvania, United States
-Oakland, California, United States
+San Francisco, California, United States
 Los Angeles, California, United States
+New York, New York, United States
+New Jersey, United States
+College Station, Texas, United States
 Cupertino, California, United States
 San Diego, California, United States
 Honolulu, Hawaii, United States
@@ -2511,7 +3048,8 @@ Baltimore, Maryland, United States
 San Francisco, California, United States
 San Jose, California, United States
 New York, New York, United States
-Colorado Springs, Colorado, United States
+Boston, Massachusetts, United States
+Binghamton, New York, United States
 Mountain View, California, United States
 New York, New York, United States
 Los Angeles, California, United States
@@ -2519,9 +3057,13 @@ California, United States
 San Jose, California, United States
 New York, New York, United States
 Houston, Texas, United States
+Columbus, Ohio, United States
 Philadelphia, Pennsylvania, United States
 St. Louis, Missouri, United States
 Simi Valley, California, United States
+Urbana, Illinois, United States
+Claremont, California, United States
+Houston, Texas, United States
 Boston, Massachusetts, United States
 Berkeley Heights, New Jersey, United States
 Los Angeles, California, United States
@@ -2532,37 +3074,46 @@ Chicago, Illinois, United States
 Pittsburgh, Pennsylvania, United States
 Mountain View, California, United States
 San Francisco, California, United States
+Philadelphia, Pennsylvania, United States
 Dallas, Texas, United States
 New Jersey, United States
 Mountain View, California, United States
+Chapel Hill, North Carolina, United States
 San Francisco, California, United States
 Ithaca, New York, United States
+San Francisco, California, United States
 New York, New York, United States
-Rochester, New York, United States
 New York, New York, United States
+New York, New York, United States
+San Francisco, California, United States
+Seattle, Washington, United States
 Binghamton, New York, United States
 Edgewood, MD, US
+New York, New York, United States
+Atlanta, Georgia, United States
+Stanford, California, United States
 San Francisco, California, United States
 Atlanta, Georgia, United States
 San Francisco, California, United States
-Dublin, California, United States
 Atlanta, Georgia, United States
 East Lansing, Michigan, United States
 New York, New York, United States
 Fanwood, New Jersey, United States
+Berkeley, California, United States
 Stony Brook, New York, United States
 New York, New York, United States
 Reston, Virginia, United States
+Durham, North Carolina, United States
 Ann Arbor, Michigan, United States
 Schaumburg, Illinois, United States
 Washington, District of Columbia, United States
 Atlanta, Georgia, United States
+Armonk, NY, US
 San Francisco, California, United States
 New York, New York, United States
 Ithaca, New York, United States
 Alhambra, CA, US
 Seattle, Washington, United States
-Pomona, California, United States
 Germantown, Maryland, United States
 Providence, Rhode Island, United States
 Columbus, Ohio, United States
@@ -2572,20 +3123,26 @@ Chicago, Illinois, United States
 Berkeley, California, United States
 Philadelphia, Pennsylvania, United States
 California, United States
+Baltimore, Maryland, United States
 New York, New York, United States
 Atlanta, Georgia, United States
 St. Louis, Missouri, United States
+San Jose, California, United States
 Santa Cruz, California, United States
 Bergen County, NJ, US
 Newark, Delaware, United States
 New York, New York, United States
+Baltimore, Maryland, United States
 Buffalo, New York, United States
+San Francisco, California, United States
 Sunnyvale, California, United States
 Ann Arbor, Michigan, United States
 Ames, Iowa, United States
 Blacksburg, Virginia, United States
+Dallas, Texas, United States
 Evanston, Illinois, United States
 Boston, Massachusetts, United States
+New York, New York, United States
 Santa Monica, California, United States
 Champaign, Illinois, United States
 Saratoga, California, United States
@@ -2596,30 +3153,36 @@ Los Angeles, California, United States
 Boston, Massachusetts, United States
 Danville, Pennsylvania, United States
 Palo Alto, California, United States
-Boulder, Colorado, United States
-Pasadena, California, United States
+Pittsburgh, Pennsylvania, United States
 Fremont, California, United States
+Seattle, Washington, United States
 Ann Arbor, Michigan, United States
+Naperville, Illinois, United States
+San Diego, California, United States
 Syracuse, New York, United States
 Berkeley, California, United States
 Stanford, California, United States
 Orlando, Florida, United States
 Honolulu, Hawaii, United States
 Honolulu, Hawaii, United States
-Santa Clara, California, United States
-Kent, Ohio, United States
-Rochester, New York, United States
+West Lafayette, Indiana, United States
+Champaign, Illinois, United States
+Palo Alto, California, United States
 Ithaca, New York, United States
+Orange, California, United States
 Richmond, Virginia, United States
 San Jose, California, United States
+San Francisco, California, United States
 New York, New York, United States
 Washington, District of Columbia, United States
+Atlanta, Georgia, United States
+Princeton, New Jersey, United States
 North Brunswick, New Jersey, United States
-New York, New York, United States
 United States
 Irvine, California, United States
 Mountain View, California, United States
 Sunnyvale, California, United States
+Austin, Texas, United States
 San Francisco, California, United States
 San Francisco, California, United States
 Boston, Massachusetts, United States
@@ -2629,12 +3192,16 @@ Boston, Massachusetts, United States
 College Station, Texas, United States
 San Jose, California, United States
 New York, New York, United States
+New York, New York, United States
 College Park, Maryland, United States
 Seattle, Washington, United States
-Jersey City, New Jersey, United States
+Ann Arbor, Michigan, United States
+Berkeley, California, United States
 Chattanooga, Tennessee, United States
 Columbus, Ohio, United States
 Troy, New York, United States
+New York, New York, United States
+Ithaca, New York, United States
 New York, New York, United States
 New York, New York, United States
 Needham, Massachusetts, United States
@@ -2643,6 +3210,7 @@ New York, New York, United States
 Rochester, New York, United States
 New York, New York, United States
 Washington, United States
+Chattanooga, Tennessee, United States
 Olympia, Washington, United States
 San Francisco, California, United States
 Atlanta, Georgia, United States
@@ -2650,8 +3218,11 @@ San Francisco, California, United States
 Austin, Texas, United States
 San Francisco, California, United States
 Lowell, Massachusetts, United States
+Pasadena, California, United States
+San Francisco, California, United States
 Washington, District of Columbia, United States
 Ithaca, New York, United States
+Riverside, California, United States
 Cambridge, Massachusetts, United States
 Santa Cruz, California, United States
 Atlanta, Georgia, United States
@@ -2662,6 +3233,9 @@ Diamond Bar, California, United States
 Philadelphia, Pennsylvania, United States
 New York, New York, United States
 Lorton, Virginia, United States
+Champaign, Illinois, United States
+Portland, Oregon, United States
+Rochester, New York, United States
 Boston, Massachusetts, United States
 Pittsburgh, Pennsylvania, United States
 Columbus, Ohio, United States
@@ -2670,11 +3244,14 @@ Tenafly, New Jersey, United States
 Baltimore, Maryland, United States
 San Francisco, California, United States
 Mountain View, California, United States
-Houston, Texas, United States
-San Francisco, California, United States
+Delray Beach, Florida, United States
+Philadelphia, Pennsylvania, United States
+Los Angeles, CA, US
 Durham, North Carolina, United States
 New York, New York, United States
+Austin, Texas, United States
 Boone, North Carolina, United States
+Philadelphia, Pennsylvania, United States
 Philadelphia, Pennsylvania, United States
 Rochester, New York, United States
 Kent, Ohio, United States
@@ -2688,6 +3265,10 @@ Pittsburgh, Pennsylvania, United States
 San Francisco, California, United States
 Ann Arbor, Michigan, United States
 New York, New York, United States
+San Jose, California, United States
+Mountain View, California, United States
+College Park, Maryland, United States
+Ann Arbor, MI, US
 San Francisco, California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
@@ -2700,36 +3281,49 @@ San Francisco, California, United States
 Houston, Texas, United States
 Vienna, Virginia, United States
 Urbana, Illinois, United States
+La Palma, CA, US
+New York, New York, United States
 Northern, Virginia, United States
-Philadelphia, Pennsylvania, United States
+New Haven, Connecticut, United States
 Cleveland, Ohio, United States
 Chicago, Illinois, United States
 Los Angeles, California, United States
 Atlanta, Georgia, United States
 Houston, Texas, United States
 New York, New York, United States
+Fremont, California, United States
 Berkeley, California, United States
-Providence, Rhode Island, United States
+Cupertino, California, United States
 Severn, Maryland, United States
+Los Angeles, California, United States
+Fremont, California, United States
 Sunnyvale, California, United States
 Troy, New York, United States
+Buffalo, New York, United States
+Normal, Illinois, United States
 Philadelphia, Pennsylvania, United States
 Annapolis, Maryland, United States
 Cambridge, Massachusetts, United States
-Pittsburgh, Pennsylvania, United States
+Philadelphia, Pennsylvania, United States
+Kansas City, Missouri, United States
 Louisville, Kentucky, United States
 Cupertino, California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
 Sunnyvale, California, United States
+New York, New York, United States
 Ithaca, New York, United States
 Los Angeles, California, United States
 Mill Valley, California, United States
+Philadelphia, Pennsylvania, United States
+San Francisco, California, United States
 Durham, North Carolina, United States
 San Francisco, California, United States
 West Lafayette, Indiana, United States
 Austin, Texas, United States
 Columbus, Ohio, United States
+San Mateo County, CA, US
+Boston, Massachusetts, United States
 San Francisco, California, United States
 San Francisco, California, United States
 Hillsborough Township, New Jersey, United States
@@ -2738,15 +3332,19 @@ Arlington, Virginia, United States
 San Luis Obispo, California, United States
 St. Louis, Missouri, United States
 Philadelphia, Pennsylvania, United States
+San Francisco, California, United States
 New Brunswick, New Jersey, United States
+Jersey City, New Jersey, United States
 Berkeley, California, United States
 Troy, New York, United States
+Boston, Massachusetts, United States
 College Station, Texas, United States
 Boston, Massachusetts, United States
 Roswell, Georgia, United States
 New Brunswick, NJ, US
 Pacifica, California, United States
-Bellevue, Washington, United States
+Baltimore, Maryland, United States
+Rowland Heights, CA, US
 Austin, Texas, United States
 Berkeley, California, United States
 Palo Alto, California, United States
@@ -2755,56 +3353,81 @@ Los Angeles, California, United States
 Austin, Texas, United States
 Charlottesville, Virginia, United States
 Phoenix, Arizona, United States
+Newark, Delaware, United States
+Princeton, New Jersey, United States
 New York, New York, United States
-Durham, North Carolina, United States
 Lake Oswego, Oregon, United States
-Saratoga, California, United States
+Reno, Nevada, United States
+Urbana, Illinois, United States
 Arlington, VA, US
-Pittsburgh, Pennsylvania, United States
+Upton, MA, US
+Mountain View, California, United States
+Atlanta, Georgia, United States
+New Haven, Connecticut, United States
 New York, New York, United States
+Columbus, Ohio, United States
 Stanford, California, United States
-Saratoga Springs, New York, United States
+Corona, California, United States
 Los Angeles, California, United States
 Williamsburg, Virginia, United States
 Champaign, Illinois, United States
 Ann Arbor, Michigan, United States
+Boston, Massachusetts, United States
 New York, New York, United States
+Greenbelt, Maryland, United States
 Princeton, New Jersey, United States
-Charlottesville, Virginia, United States
+Honolulu, Hawaii, United States
 New York, New York, United States
+Baltimore, Maryland, United States
 New York, New York, United States
 California, United States
 Atlanta, Georgia, United States
-Troy, New York, United States
+Ithaca, New York, United States
+South Bend, Indiana, United States
+Washington, District of Columbia, United States
 Richmond, Virginia, United States
 Providence, Rhode Island, United States
+Rochester, New York, United States
 Cambridge, Massachusetts, United States
 Washington, District of Columbia, United States
-Pomona, California, United States
 Reno, Nevada, United States
+Houston, TX, US
 Ithaca, New York, United States
 Chicago, Illinois, United States
+Orange, California, United States
 West Lafayette, Indiana, United States
 Ann Arbor, Michigan, United States
 Berkeley, California, United States
-Atlanta, Georgia, United States
+Truckee, CA, US
+New York, New York, United States
 Boston, Massachusetts, United States
+Napa, California, United States
 Champaign, Illinois, United States
 Mountain View, California, United States
+Bellevue, Washington, United States
 Athens, Georgia, United States
 Chicago, Illinois, United States
 Atlanta, Georgia, United States
 Denver, Colorado, United States
-New Jersey, United States
 Austin, Texas, United States
+Irvine, California, United States
 Cincinnati, Ohio, United States
-Pittsburgh, Pennsylvania, United States
-Seattle, Washington, United States
-College Station, Texas, United States
-Medford, MA, US
-Dallas, Texas, United States
+California, United States
 San Francisco, California, United States
+Pittsburgh, Pennsylvania, United States
+Honolulu, Hawaii, United States
+Seattle, Washington, United States
+Atlanta, Georgia, United States
+College Park, Maryland, United States
+Medford, MA, US
+Minnesota, United States
+Atlanta, Georgia, United States
+Dallas, Texas, United States
+San Antonio, Texas, United States
+Lanham, MD, US
+Lake Forest, California, United States
 Providence, Rhode Island, United States
+San Francisco, California, United States
 Pasadena, California, United States
 Edison, New Jersey, United States
 Chicago, Illinois, United States
@@ -2814,34 +3437,52 @@ Philadelphia, Pennsylvania, United States
 Champaign, Illinois, United States
 San Diego, California, United States
 Glassboro, New Jersey, United States
+Blacksburg, Virginia, United States
+Mountain View, California, United States
 New York, New York, United States
+Moreno Valley, California, United States
+Chicago, Illinois, United States
 Cambridge, Massachusetts, United States
 Los Angeles, California, United States
-Cleveland, Ohio, United States
+San Francisco, California, United States
+Atlanta, Georgia, United States
+Princeton, New Jersey, United States
 San Antonio, Texas, United States
+Los Angeles, CA, US
 New York, New York, United States
 Melbourne, Florida, United States
+Dallas, Texas, United States
 Norfolk, Virginia, United States
 New York, New York, United States
-San Francisco, California, United States
+Washington, District of Columbia, United States
 Boston, Massachusetts, United States
 Blacksburg, Virginia, United States
+New York, New York, United States
 Los Angeles, California, United States
 Berkeley, California, United States
+West Lafayette, Indiana, United States
 Mountain View, California, United States
 Boston, Massachusetts, United States
-New York, New York, United States
+Brooklyn, New York, United States
+Madison, Wisconsin, United States
+Providence, Rhode Island, United States
 Washington, District of Columbia, United States
+Seattle, Washington, United States
 Mountain View, California, United States
-Rancho Cucamonga, California, United States
+Cambridge, MA, US
 Charlottesville, Virginia, United States
 West Bloomfield Township, Michigan, United States
 Berkeley, California, United States
+Houston, Texas, United States
 Bethpage, New York, United States
 Atlanta, Georgia, United States
 San Diego, California, United States
 Pittsburgh, Pennsylvania, United States
+Orlando, Florida, United States
 West Lafayette, Indiana, United States
+San Francisco, California, United States
+New York, New York, United States
+College Park, Maryland, United States
 Fairfax, Virginia, United States
 San Francisco, California, United States
 Cambridge, Massachusetts, United States
@@ -2851,42 +3492,56 @@ Los Angeles, California, United States
 Los Angeles, California, United States
 Maryland, United States
 Nashville, Tennessee, United States
-Boston, Massachusetts, United States
+New York, New York, United States
 San Francisco, California, United States
 Champaign, Illinois, United States
 Ithaca, New York, United States
+Colorado Springs, Colorado, United States
+Claremont, California, United States
 Urbana, Illinois, United States
 Sunnyvale, California, United States
+New York, New York, United States
+Dallas, Texas, United States
 New York, New York, United States
 Hayward, California, United States
 Saratoga Springs, New York, United States
 Ithaca, New York, United States
 New Haven, Connecticut, United States
+Seattle, Washington, United States
+New York, New York, United States
 Terre Haute, Indiana, United States
+Cleveland, Ohio, United States
 Kent, Ohio, United States
+Cupertino, California, United States
 Willow Spring, North Carolina, United States
 Atlanta, Georgia, United States
+Arlington, Virginia, United States
 San Carlos, California, United States
 Antioch, California, United States
-Berkeley, California, United States
+Austin, Texas, United States
 Ann Arbor, Michigan, United States
 Atlanta, Georgia, United States
 Houston, Texas, United States
 Los Angeles, California, United States
+Oakland, California, United States
 Ann Arbor, Michigan, United States
 Durham, North Carolina, United States
 Milwaukee, Wisconsin, United States
-Claremont, California, United States
+Boston, Massachusetts, United States
 Jenkintown, PA, US
+New York, New York, United States
 Pittsburgh, Pennsylvania, United States
 New York, New York, United States
 College Park, Maryland, United States
+Troy, New York, United States
 Merced, California, United States
 Binghamton, New York, United States
 Durham, North Carolina, United States
 West Lafayette, Indiana, United States
+Boston, Massachusetts, United States
 Richardson, Texas, United States
 Palo Alto, California, United States
+California, United States
 Mountain View, California, United States
 Baltimore, Maryland, United States
 Boston, Massachusetts, United States
@@ -2897,25 +3552,34 @@ Atlanta, Georgia, United States
 Birmingham, Michigan, United States
 Oakland, California, United States
 Edison, New Jersey, United States
+Providence, Rhode Island, United States
 Ithaca, New York, United States
 San Jose, California, United States
-San Jose, California, United States
+West Lafayette, Indiana, United States
 New York, New York, United States
 Baltimore, Maryland, United States
+Cambridge, Massachusetts, United States
 Houston, Texas, United States
 College Park, Maryland, United States
 Denver, Colorado, United States
+New York, New York, United States
+Ann Arbor, Michigan, United States
 Urbana, Illinois, United States
 College Park, Maryland, United States
+College Station, Texas, United States
+Santa Cruz, California, United States
 Iowa City, Iowa, United States
+New York, New York, United States
 New Haven, Connecticut, United States
 Philadelphia, Pennsylvania, United States
 Sunnyvale, California, United States
 Ann Arbor, Michigan, United States
 Seattle, Washington, United States
 San Jose, California, United States
+Providence, Rhode Island, United States
 Boston, Massachusetts, United States
 Durham, North Carolina, United States
+Berea, Ohio, United States
 Herndon, Virginia, United States
 San Jose, California, United States
 Providence, Rhode Island, United States
@@ -2927,81 +3591,111 @@ California, United States
 West Lafayette, Indiana, United States
 Washington, District of Columbia, United States
 Binghamton, New York, United States
+West Lafayette, Indiana, United States
 Terre Haute, Indiana, United States
+Atlanta, Georgia, United States
 Durham, North Carolina, United States
+West Lafayette, Indiana, United States
 Cheshire, Connecticut, United States
+Cleveland, Ohio, United States
 Frederick, Maryland, United States
 New York, New York, United States
+Somerville, Massachusetts, United States
 Charlottesville, Virginia, United States
+Wyalusing, Pennsylvania, United States
 Mountain View, California, United States
 Phoenix, Arizona, United States
 San Francisco, California, United States
-Claremont, California, United States
 San Francisco, California, United States
 New York, New York, United States
 San Francisco, California, United States
 Seattle, Washington, United States
+New York, New York, United States
+Washington, District of Columbia, United States
 San Francisco, California, United States
+Dallas, Texas, United States
+Princeton, New Jersey, United States
 Ann Arbor, Michigan, United States
 Long Beach, California, United States
 Bellevue, Washington, United States
 Beverly Hills, California, United States
 Baltimore, Maryland, United States
+Pomona, California, United States
 New York, New York, United States
-Fremont, California, United States
+Philadelphia, Pennsylvania, United States
+New York, New York, United States
 Cupertino, California, United States
-Kansas City, Missouri, United States
+Cumberland, Rhode Island, United States
 New York, New York, United States
 Tallahassee, Florida, United States
 New York, New York, United States
 Wisconsin, United States
+Berkeley, CA, US
+San Luis Obispo, California, United States
 New York, New York, United States
 Washington, District of Columbia, United States
 New York, New York, United States
-Rowland Heights, CA, US
-Los Angeles, California, United States
+Bellevue, Washington, United States
+Saratoga Springs, New York, United States
+Pittsburgh, Pennsylvania, United States
 New York, New York, United States
 New York, New York, United States
+Irvine, California, United States
+New Brunswick, New Jersey, United States
 New York, New York, United States
 Roswell, Georgia, United States
 Pasadena, California, United States
 Berkeley, California, United States
-New York, New York, United States
+Boone, North Carolina, United States
 Seattle, Washington, United States
 Ann Arbor, Michigan, United States
 Baltimore, Maryland, United States
 New York, New York, United States
+Troy, New York, United States
+Providence, Rhode Island, United States
+Wellesley, Massachusetts, United States
 Ann Arbor, Michigan, United States
 New York, New York, United States
 Cupertino, California, United States
 New York, New York, United States
 New York, New York, United States
 New York, New York, United States
+Mountain View, California, United States
 San Francisco, California, United States
 Cambridge, Massachusetts, United States
 New York, New York, United States
 Boston, Massachusetts, United States
 New York, New York, United States
+Saint Paul, Minnesota, United States
+New York, New York, United States
 New York, New York, United States
 Los Angeles, California, United States
 Blacksburg, Virginia, United States
+Berkeley, California, United States
+Ann Arbor, Michigan, United States
+New York, New York, United States
 Pittsburgh, Pennsylvania, United States
 Atlanta, Georgia, United States
 San Francisco, California, United States
 Cambridge, Massachusetts, United States
 Wellesley, Massachusetts, United States
 Sunnyvale, California, United States
+New Jersey, United States
 San Jose, California, United States
-New York, New York, United States
 Berkeley, California, United States
 Kalispell, Montana, United States
 Edison, New Jersey, United States
 San Jose, California, United States
 New York, New York, United States
+Auburn Hills, Michigan, United States
 Chicago, Illinois, United States
-San Francisco, California, United States
 New York, New York, United States
 San Francisco, California, United States
+Pittsburgh, Pennsylvania, United States
+Los Angeles, California, United States
 New York, New York, United States
+San Antonio, Texas, United States
+Buffalo, New York, United States
+Wellesley, MA, US
 San Francisco, California, United States
 Austin, Texas, United States

@@ -1,5 +1,6 @@
 New York, New York, United States
 California, United States
+Austin, Texas, United States
 Dallas, Texas, United States
 Toronto, Ontario, Canada
 Amherst, Massachusetts, United States
@@ -7,13 +8,17 @@ Providence, Rhode Island, United States
 Toronto, Ontario, Canada
 Springfield, Massachusetts, United States
 Washington, District of Columbia, United States
+Pleasanton, California, United States
 Amherst, MA, US
+New York, New York, United States
+Gainesville, Florida, United States
 Brampton, Ontario, Canada
 Princeton, New Jersey, United States
 Boston, Massachusetts, United States
+West Lafayette, Indiana, United States
 Philadelphia, Pennsylvania, United States
 Baltimore, Maryland, United States
-San Francisco, California, United States
+Amherst, Massachusetts, United States
 New Haven, Connecticut, United States
 West Orange, New Jersey, United States
 Hamilton, Ontario, Canada
@@ -23,8 +28,9 @@ Mississauga, Ontario, Canada
 Boston, Massachusetts, United States
 Rochester, New York, United States
 Toronto, Ontario, Canada
-New Haven, Connecticut, United States
+Salinas, California, United States
 Toronto Division, Ontario, Canada
+Philadelphia, Pennsylvania, United States
 Montreal, Quebec, Canada
 Harrisburg, Pennsylvania, United States
 Toronto, Ontario, Canada
@@ -36,6 +42,8 @@ Montreal, Quebec, Canada
 Salisbury, MD, US
 Toronto, Ontario, Canada
 New York, New York, United States
+Holland, Pennsylvania, United States
+Cambridge, Massachusetts, United States
 New York, New York, United States
 Amherst, Massachusetts, United States
 Houston, Texas, United States
@@ -43,13 +51,17 @@ New York, New York, United States
 Waterloo, Ontario, Canada
 College Park, MD, US
 Montreal, Quebec, Canada
-Cambridge, Massachusetts, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Montreal, Quebec, Canada
 Washington, District of Columbia, United States
+Seattle, Washington, United States
 Urbana, Illinois, United States
 Pittsburgh, Pennsylvania, United States
 Toronto, Ontario, Canada
+Kingston, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+New Haven, Connecticut, United States
 Hamilton, Ontario, Canada
 Philadelphia, Pennsylvania, United States
 Hamilton, Ontario, Canada
@@ -58,47 +70,62 @@ Seattle, Washington, United States
 Toronto, Ontario, Canada
 Blacksburg, Virginia, United States
 Troy, NY, US
+Toronto, Ontario, Canada
 Troy, New York, United States
 Boston, Massachusetts, United States
 Aurora, Ontario, Canada
 New Haven, Connecticut, United States
+Binghamton, New York, United States
+New York, New York, United States
 Hamilton, Ontario, Canada
 Atlanta, Georgia, United States
 Blacksburg, Virginia, United States
 Northfield, Minnesota, United States
 Toronto, Ontario, Canada
+New Jersey, United States
 New Haven, Connecticut, United States
 New York, New York, United States
+Evanston, Illinois, United States
 Boston, Massachusetts, United States
 Rockville, Maryland, United States
 Medford, Massachusetts, United States
 London, Ontario, Canada
+Toronto, Ontario, Canada
 Ithaca, New York, United States
 Virginia, United States
+Ithaca, New York, United States
 Los Angeles, California, United States
 Pleasanton, California, United States
 Philadelphia, PA, US
+Boston, Massachusetts, United States
 Markham, Ontario, Canada
-Waterloo Regional Municipality, ON, CA
+Waterloo, Ontario, Canada
 New York, New York, United States
 Cambridge, Massachusetts, United States
 Evanston, Illinois, United States
+San Francisco, California, United States
+Atlanta, Georgia, United States
 Providence, Rhode Island, United States
+Toronto, Ontario, Canada
+New York, New York, United States
 Princeton, New Jersey, United States
 Boston, Massachusetts, United States
 New York, New York, United States
 New York, New York, United States
 Laurel, Maryland, United States
+Toronto, Ontario, Canada
 New Haven, Connecticut, United States
 Boston, Massachusetts, United States
+New Haven, Connecticut, United States
 Philadelphia, Pennsylvania, United States
+New York, New York, United States
 Toronto, Ontario, Canada
-Montreal, Quebec, Canada
 Troy, New York, United States
 Somerville, Massachusetts, United States
 Montreal, Quebec, Canada
 Ann Arbor, Michigan, United States
 New Haven, Connecticut, United States
+Seattle, Washington, United States
 Cambridge, Massachusetts, United States
 Cambridge, Massachusetts, United States
 Oakville, Ontario, Canada
@@ -106,25 +133,30 @@ Hamilton, Ontario, Canada
 Dallas, TX, US
 Herndon, Virginia, United States
 Waterloo, Ontario, Canada
+Champaign, Illinois, United States
 New York, New York, United States
 South Hadley, Massachusetts, United States
+Montreal, Quebec, Canada
+West Lafayette, Indiana, United States
 Santa Clara, California, United States
-Vienna, Virginia, United States
+Berkeley, California, United States
 Montreal, Quebec, Canada
 New Haven, Connecticut, United States
 Boston, Massachusetts, United States
 Blacksburg, Virginia, United States
 McLean, Virginia, United States
-Toronto, Ontario, Canada
 New Haven, Connecticut, United States
+Toronto, Ontario, Canada
 Cambridge, Massachusetts, United States
 Orangeburg, South Carolina, United States
 Montreal, Quebec, Canada
 New Haven, Connecticut, United States
 Cambridge, Massachusetts, United States
+Waterloo, Ontario, Canada
+Berkeley, California, United States
 Osceola, IN, US
+Cambridge, MA, US
 Princeton, New Jersey, United States
-Salinas, California, United States
 Washington, District of Columbia, United States
 Stony Brook, New York, United States
 Toronto, Ontario, Canada
@@ -132,18 +164,19 @@ Cincinnati, Ohio, United States
 Montreal, Quebec, Canada
 New Haven, Connecticut, United States
 Toronto, Ontario, Canada
-Toronto, Ontario, Canada
 London, Ontario, Canada
 Ottawa, Ontario, Canada
+Norman, Oklahoma, United States
 Dallas, Texas, United States
-Stanford, California, United States
+Tempe, Arizona, United States
+Vienna, Virginia, United States
 Montreal, Quebec, Canada
 Toronto, Ontario, Canada
 Ann Arbor, Michigan, United States
 Salinas, California, United States
 New York, New York, United States
 Pittsburgh, Pennsylvania, United States
-Northfield, Minnesota, United States
+Troy, New York, United States
 Cleveland, Ohio, United States
 Hamilton, Ontario, Canada
 Hamilton, Ontario, Canada
@@ -155,79 +188,100 @@ Troy, New York, United States
 Norman, Oklahoma, United States
 Troy, New York, United States
 Chicago, Illinois, United States
+Providence, Rhode Island, United States
 Mississauga, ON, CA
 Boca Raton, Florida, United States
+Gainesville, Florida, United States
+Hanover, New Hampshire, United States
 Gonzales, CA, US
+Hamilton, Ontario, Canada
 Montreal, Quebec, Canada
 Boston, Massachusetts, United States
 Montreal, Quebec, Canada
 New Haven, Connecticut, United States
 Washington, District of Columbia, United States
+New Haven, Connecticut, United States
+Blacksburg, Virginia, United States
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
-Ann Arbor, Michigan, United States
+Dallas, Texas, United States
 Los Angeles, California, United States
+New Haven, Connecticut, United States
+Troy, New York, United States
+Boston, Massachusetts, United States
+Ann Arbor, Michigan, United States
 College Park, Maryland, United States
+Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
+Troy, New York, United States
 Waterloo, Ontario, Canada
 Philadelphia, Pennsylvania, United States
 New York, New York, United States
 Toronto, Ontario, Canada
 Cambridge, Massachusetts, United States
-Toronto, Ontario, Canada
+Albany, New York, United States
 Hamilton, Ontario, Canada
-Binghamton, New York, United States
 Toronto, Ontario, Canada
 New York, New York, United States
 Waterloo, Ontario, Canada
+Rochester, New York, United States
 Montreal, Quebec, Canada
-Toronto, Ontario, Canada
+Boston, Massachusetts, United States
 Hamilton, Ontario, Canada
 Toronto, Ontario, Canada
 South Hadley, Massachusetts, United States
 New Haven, Connecticut, United States
-New Haven, Connecticut, United States
+New Brunswick, New Jersey, United States
+Waterloo, Ontario, Canada
+Ann Arbor, Michigan, United States
 Montreal, Quebec, Canada
 Berkeley, California, United States
 Waterloo, Ontario, Canada
 Boston, Massachusetts, United States
 Waterloo, Ontario, Canada
-Hanover, New Hampshire, United States
+Cambridge, Massachusetts, United States
 Toronto, Ontario, Canada
+Rochester, New York, United States
 Ardmore, Pennsylvania, United States
 College Park, Maryland, United States
 Troy, New York, United States
 Urbana, Illinois, United States
 Berkeley, California, United States
+Montreal, Quebec, Canada
 Wellesley, MA, US
 Hamilton, Ontario, Canada
 Waterloo, Ontario, Canada
 Ann Arbor, Michigan, United States
+New Haven, Connecticut, United States
 Montreal, Quebec, Canada
 Cambridge, Massachusetts, United States
 Ann Arbor, Michigan, United States
+South Hadley, Massachusetts, United States
 Montreal, Quebec, Canada
 Montreal, Quebec, Canada
 Pittsburgh, Pennsylvania, United States
 Totowa, NJ, US
 Cambridge, Massachusetts, United States
-Hamilton, Ontario, Canada
+Columbus, Ohio, United States
 New Haven, Connecticut, United States
 Washington, District of Columbia, United States
+Toronto, Ontario, Canada
 Amherst, Massachusetts, United States
 Hamilton, Ontario, Canada
 Hamilton, Ontario, Canada
 Amherst, Massachusetts, United States
 East Lansing, Michigan, United States
 Waterloo, Ontario, Canada
+New York, NY, US
 Nashville, Tennessee, United States
-Waterloo, Ontario, Canada
+Mississauga, Ontario, Canada
 College Park, Maryland, United States
 Cambridge, Massachusetts, United States
 Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Montreal, Quebec, Canada
+Toronto, Ontario, Canada
 Providence, Rhode Island, United States
 Evanston, Illinois, United States
 Palo Alto, California, United States
@@ -237,10 +291,13 @@ Washington, District of Columbia, United States
 Rochester, New York, United States
 New Haven, Connecticut, United States
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Fountain Valley, California, United States
 Toronto, ON, CA
+Boston, Massachusetts, United States
 Toronto, Ontario, Canada
-Austin, Texas, United States
+Providence, Rhode Island, United States
+Montreal, Quebec, Canada
 New York, New York, United States
 Ann Arbor, Michigan, United States
 Boston, Massachusetts, United States
@@ -249,8 +306,10 @@ Ithaca, New York, United States
 Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Chicago, Illinois, United States
+Waterloo, Ontario, Canada
 Urbana, Illinois, United States
 College Park, Maryland, United States
+Waterloo, Ontario, Canada
 Boston, Massachusetts, United States
 Boston, Massachusetts, United States
 Ann Arbor, Michigan, United States
@@ -258,8 +317,11 @@ Oak Park, Illinois, United States
 Williamsburg, Virginia, United States
 Hamilton, Ontario, Canada
 Ithaca, New York, United States
+Stanford, California, United States
 Huntington, West Virginia, United States
+New York, New York, United States
 McLean, Virginia, United States
+Urbana, Illinois, United States
 Los Angeles, California, United States
 New Haven, Connecticut, United States
 New York, New York, United States
@@ -268,25 +330,30 @@ London, Ontario, Canada
 Pittsburgh, Pennsylvania, United States
 Boston, Massachusetts, United States
 Waterloo, Ontario, Canada
+Markham, Ontario, Canada
 Waterloo, Ontario, Canada
 Atlanta, Georgia, United States
 Ann Arbor, Michigan, United States
-Hamilton, Ontario, Canada
+Montreal, Quebec, Canada
 Ann Arbor, Michigan, United States
 New Haven, Connecticut, United States
+New York, New York, United States
 Toronto, Ontario, Canada
 Boston, Massachusetts, United States
 Milford, Connecticut, United States
+New Haven, Connecticut, United States
 New York, New York, United States
 Tempe, Arizona, United States
-Montreal, Quebec, Canada
+Los Angeles, California, United States
 New Haven, Connecticut, United States
 Needham, Massachusetts, United States
 New York, New York, United States
-Toronto, Ontario, Canada
+New Haven, Connecticut, United States
+Miami, Florida, United States
 Troy, New York, United States
 Seattle, Washington, United States
 Texas, United States
+Boston, Massachusetts, United States
 Detroit, Michigan, United States
 Cleveland, Ohio, United States
 Waterloo, Ontario, Canada
@@ -296,29 +363,43 @@ Youngstown, Ohio, United States
 Vancouver, British Columbia, Canada
 Montreal, Quebec, Canada
 Chicago, Illinois, United States
-Waterloo, Ontario, Canada
+New York, New York, United States
+Stony Brook, New York, United States
+New York, New York, United States
+Atlanta, Georgia, United States
+Stony Brook, New York, United States
 Closter, New Jersey, United States
+Cambridge, Massachusetts, United States
 Toronto, Ontario, Canada
 College Park, Maryland, United States
 New Haven, Connecticut, United States
+New Haven, Connecticut, United States
 Terre Haute, Indiana, United States
 Berkeley, California, United States
-Columbus, Ohio, United States
-Atlanta, Georgia, United States
+Hamilton, Ontario, Canada
+New York, New York, United States
 Cambridge, Massachusetts, United States
 Montreal, Quebec, Canada
 Berkeley, California, United States
+Rochester, New York, United States
+New Haven, Connecticut, United States
+Toronto, Ontario, Canada
+Troy, New York, United States
 Edison, New Jersey, United States
 Toronto, Ontario, Canada
 Connecticut, United States
 San Francisco, California, United States
 South Hadley, Massachusetts, United States
+Providence, Rhode Island, United States
 Waterloo, Ontario, Canada
+Northfield, Minnesota, United States
 New York, New York, United States
 San Ramon, California, United States
 Albany, New York, United States
+Ann Arbor, Michigan, United States
 Montreal, Quebec, Canada
 Hamilton, Ontario, Canada
+New Haven, Connecticut, United States
 New Haven, Connecticut, United States
 Amherst, Massachusetts, United States
 Montreal, Quebec, Canada
@@ -328,6 +409,7 @@ Hamilton, Ontario, Canada
 Hackensack, New Jersey, United States
 Toronto, Ontario, Canada
 Montreal, Quebec, Canada
+New York, New York, United States
 Boston, Massachusetts, United States
 Montreal, Quebec, Canada
 Hamilton, Ontario, Canada
@@ -341,7 +423,7 @@ Saratoga, California, United States
 Pleasanton, California, United States
 Montreal, Quebec, Canada
 New Haven, Connecticut, United States
-Waterloo, Ontario, Canada
+Hamilton, Ontario, Canada
 Atlanta, Georgia, United States
 Richardson, Texas, United States
 Urbana, Illinois, United States
@@ -354,12 +436,13 @@ Toronto, Ontario, Canada
 Pittsburgh, Pennsylvania, United States
 New Haven, Connecticut, United States
 New Haven, Connecticut, United States
-Ithaca, New York, United States
+New York, New York, United States
 South Hadley, Massachusetts, United States
 Chapel Hill, North Carolina, United States
 Cambridge, Massachusetts, United States
 Toronto, Ontario, Canada
 Providence, Rhode Island, United States
+Mississauga, Ontario, Canada
 Montreal, Quebec, Canada
 Philadelphia, Pennsylvania, United States
 Providence, Rhode Island, United States
@@ -369,21 +452,33 @@ Toronto, Ontario, Canada
 Austin, Texas, United States
 Waterloo, Ontario, Canada
 Providence, Rhode Island, United States
+Pittsburgh, Pennsylvania, United States
+Montreal, Quebec, Canada
+Mississauga, Ontario, Canada
+Pleasanton, California, United States
+Ann Arbor, Michigan, United States
 Chicago, Illinois, United States
 Waterloo, Ontario, Canada
 Cambridge, Massachusetts, United States
 Stanford, California, United States
 Hamilton, Ontario, Canada
+Baltimore, Maryland, United States
 Richmond Hill, Ontario, Canada
 Markham, Ontario, Canada
-Cambridge, Massachusetts, United States
+Montreal, Quebec, Canada
 Bowling Green, Kentucky, United States
 Santa Cruz, California, United States
+Montreal, Quebec, Canada
+Champaign, Illinois, United States
 New Jersey, United States
 Providence, Rhode Island, United States
 Troy, New York, United States
+Amherst, Massachusetts, United States
 Hamilton, Ontario, Canada
+New Haven, Connecticut, United States
+New Haven, Connecticut, United States
 Providence, Rhode Island, United States
+Windsor, Ontario, Canada
 East Lansing, Michigan, United States
 New Haven, Connecticut, United States
 Cambridge, Massachusetts, United States
@@ -396,67 +491,85 @@ Markham, Ontario, Canada
 Baltimore, Maryland, United States
 Providence, Rhode Island, United States
 Waterloo, Ontario, Canada
-Boston, Massachusetts, United States
 Toronto, Ontario, Canada
 Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+Dallas, Texas, United States
 Santa Monica, California, United States
 Montreal, Quebec, Canada
 Providence, Rhode Island, United States
 Montreal, Quebec, Canada
+Ashburn, Virginia, United States
 Chicago, Illinois, United States
+Edison, New Jersey, United States
+Toronto, Ontario, Canada
 Buffalo, New York, United States
 Ann Arbor, Michigan, United States
 Tampa, Florida, United States
 New Haven, Connecticut, United States
 New York, New York, United States
 Mississippi State University, MS, US
+Seattle, Washington, United States
 Vancouver, British Columbia, Canada
+Waterloo, Ontario, Canada
 Ithaca, New York, United States
 Amherst, Massachusetts, United States
 Hamilton, Ontario, Canada
+Hamilton, Ontario, Canada
+Providence, Rhode Island, United States
+Washington, District of Columbia, United States
 Fremont, California, United States
+Washington, District of Columbia, United States
+Toronto, Ontario, Canada
 Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 Providence, Rhode Island, United States
-Cambridge, Massachusetts, United States
+College Park, Maryland, United States
+Boston, Massachusetts, United States
 New Haven, Connecticut, United States
 Princeton, New Jersey, United States
 New Haven, Connecticut, United States
-Miami, Florida, United States
+Hamilton, Ontario, Canada
+Cambridge, Massachusetts, United States
 San Francisco, California, United States
+Waterloo, Ontario, Canada
 United States
 Canada
 Copenhagen, Capital Region of Denmark, Denmark
 Montreal, Quebec, Canada
-New Haven, Connecticut, United States
+Providence, Rhode Island, United States
 Hamilton, Ontario, Canada
 Vancouver, British Columbia, Canada
 Chicago, Illinois, United States
 Pittsburgh, Pennsylvania, United States
 Chicago, Illinois, United States
-New Haven, Connecticut, United States
 Hamilton, Ontario, Canada
 New York, New York, United States
 Montreal, Quebec, Canada
 Pittsburgh, Pennsylvania, United States
 New York, New York, United States
-Seattle, Washington, United States
 Toronto, Ontario, Canada
 Boston, Massachusetts, United States
 Hamilton, Ontario, Canada
 West Haven, Connecticut, United States
 Washington, District of Columbia, United States
+New York, New York, United States
 Chapel Hill, North Carolina, United States
 Hamilton, Ontario, Canada
 Markham, Ontario, Canada
 New Haven, Connecticut, United States
 Toronto, Ontario, Canada
+Chicago, Illinois, United States
+Cambridge, Massachusetts, United States
 Boston, Massachusetts, United States
 Wellesley, MA, US
 Troy, New York, United States
+Toronto, ON, CA
 New York, New York, United States
+London, Ontario, Canada
 New York, New York, United States
-New York, New York, United States
+Waterloo Regional Municipality, ON, CA
+Blacksburg, Virginia, United States
 Chicago, Illinois, United States
 Ithaca, New York, United States
 Austin, Texas, United States
@@ -464,32 +577,33 @@ Huntington, West Virginia, United States
 Hamilton, Ontario, Canada
 Rochester, New York, United States
 Ann Arbor, Michigan, United States
-New York, New York, United States
 Illinois, United States
 Hamilton, Ontario, Canada
+Nashville, Tennessee, United States
 Toronto, Ontario, Canada
 New Brunswick, New Jersey, United States
 Stony Brook, New York, United States
-Toronto, ON, CA
+Pittsburgh, Pennsylvania, United States
 Rochester, New York, United States
 Toronto, Ontario, Canada
+New York, New York, United States
 Austin, Texas, United States
 Barrie, Ontario, Canada
-Markham, Ontario, Canada
+Birmingham, Michigan, United States
 Boston, Massachusetts, United States
 Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
+Ann Arbor, Michigan, United States
 Hartford, Connecticut, United States
-Washington, District of Columbia, United States
 Pittsburgh, Pennsylvania, United States
 Waterloo, Ontario, Canada
 Providence, Rhode Island, United States
 Cambridge, Massachusetts, United States
 Blacksburg, Virginia, United States
 Waterloo, Ontario, Canada
-West Lafayette, Indiana, United States
-Troy, New York, United States
+Waterloo, Ontario, Canada
+Cambridge, Massachusetts, United States
 Blacksburg, Virginia, United States
-Atlanta, Georgia, United States
+Bryn Mawr, Pennsylvania, United States
 Ithaca, New York, United States
 Toronto, Ontario, Canada

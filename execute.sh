@@ -36,6 +36,9 @@ python filter_proj_fields.py proj/cornell.json class_name,name,tagline,slug,phot
 #Projects file filter
 python filter_proj_fields.py proj/proj.json class_name,tagline,slug,photo,has_video proj_data/proj.json 1
 
+#Filter the user data noise
+python filter_proj_fields.py proj/user_data.json avatar_url proj_data/user_data.json 2
+
 ###############Extract data scripts
 
 #Get tags from the projects
@@ -46,9 +49,6 @@ python filter_tags.py proj_data/proj.json proj_data/tags_true.csv 2 200
 
 #Get project tags with members weightage count
 python filter_tags.py proj_data/proj.json proj_data/tags_true_cumu.csv 3 200 proj_data/user_data.jsondict.json
-
-#Filter the user data noise
-python filter_proj_fields.py proj/user_data.json avatar_url proj_data/user_data.json 2
 
 #Extract location data of various hackathons
 python filter_user_data.py proj_data/calhacks/calhacks.json proj_data/user_data.jsondict.json proj_data/calhacks/loc.txt
@@ -62,3 +62,8 @@ python filter_user_data.py proj_data/hacknorth/hacknorth.json proj_data/user_dat
 python filter_user_data.py proj_data/yhack/yhack.json proj_data/user_data.jsondict.json proj_data/yhack/loc.txt
 python filter_user_data.py proj_data/hackru/hackru.json proj_data/user_data.jsondict.json proj_data/hackru/loc.txt
 python filter_user_data.py proj_data/cornell/cornell.json proj_data/user_data.jsondict.json proj_data/cornell/loc.txt
+
+#Winner location
+python filter_user_win_location.py proj_data/mhacks/mhacks.json proj_data/user_data.jsondict.json proj_data/win_mhacks.txt
+python filter_user_win_location.py proj_data/pennapps/pennapps.json proj_data/user_data.jsondict.json proj_data/win_pennapps.txt
+python filter_user_win_location.py proj_data/proj.json proj_data/user_data.jsondict.json proj_data/win_loc.txt

@@ -11,8 +11,10 @@ Atlanta, Georgia, United States
 Atlanta, GA, US
 Terre Haute, Indiana, United States
 Berkeley, California, United States
+Bryn Mawr, Pennsylvania, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Gainesville, Florida, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
@@ -26,6 +28,9 @@ Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Athens, Georgia, United States
+Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Dallas, Texas, United States
 Rio de Janeiro, RJ, BR
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
@@ -38,9 +43,12 @@ Champaign, Illinois, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
-College Park, Maryland, United States
-Riverside, California, United States
+Seattle, Washington, United States
 Atlanta, Georgia, United States
+College Park, Maryland, United States
+Atlanta, Georgia, United States
+Riverside, California, United States
+Portland, Oregon, United States
 Atlanta, Georgia, United States
 Nashville, Tennessee, United States
 Lexington, Kentucky, United States
@@ -52,11 +60,13 @@ Terre Haute, Indiana, United States
 Northfield, Minnesota, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Terre Haute, IN, US
 Gaithersburg, Maryland, United States
 Atlanta, Georgia, United States
 St. Albans, WV, US
 Atlanta, Georgia, United States
-Dearborn Heights, Michigan, United States
+West Lafayette, Indiana, United States
+Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
@@ -66,15 +76,23 @@ Atlanta, Georgia, United States
 Northfield, Minnesota, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Berkeley, California, United States
+Champaign, Illinois, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Pittsburgh, Pennsylvania, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 College Park, Maryland, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Atlanta, Georgia, United States
 Champaign, Illinois, United States
 College Station, Texas, United States
+Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Baltimore, Maryland, United States
 Tallahassee, Florida, United States
@@ -85,8 +103,11 @@ Pittsburgh, Pennsylvania, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
 Portland, Oregon, United States
 Urbana, Illinois, United States
+Charleston, West Virginia, United States
+Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Berkeley, California, United States
@@ -101,10 +122,12 @@ Michigan, United States
 Atlanta, Georgia, United States
 Salisbury, MD, US
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
 College Park, Maryland, United States
 Philadelphia, Pennsylvania, United States
 Atlanta, Georgia, United States
-Atlanta, Georgia, United States
+College Park, Maryland, United States
+Chicago, Illinois, United States
 Cincinnati, Ohio, United States
 Atlanta, Georgia, United States
 College Park, Maryland, United States
@@ -119,35 +142,49 @@ Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Louisville, Kentucky, United States
+Columbus, Ohio, United States
 Columbus, Ohio, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
 College Park, Maryland, United States
+Dearborn Heights, Michigan, United States
 College Park, Maryland, United States
 Atlanta, Georgia, United States
 Atlanta, GA, US
 Atlanta, Georgia, United States
 Athens, Georgia, United States
+Maryland, United States
 Atlanta, Georgia, United States
-Urbana, Illinois, United States
+Atlanta, Georgia, United States
+Auburn, Alabama, United States
 Philadelphia, Pennsylvania, United States
-Atlanta, Georgia, United States
+Tallahassee, Florida, United States
+Boulder, Colorado, United States
 Albuquerque, New Mexico, United States
 San Diego, California, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
 Maryland, United States
+College Station, Texas, United States
 Atlanta, Georgia, United States
 Dallas, Texas, United States
 Los Angeles, California, United States
 College Park, Maryland, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Cincinnati, Ohio, United States
 College Park, Maryland, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Champaign, Illinois, United States
 Tallahassee, Florida, United States
+Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Athens, Georgia, United States
@@ -155,45 +192,61 @@ Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
+Columbus, Ohio, United States
 Tallahassee, Florida, United States
 Tallahassee, Florida, United States
+Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Columbus, Ohio, United States
 Atlanta, Georgia, United States
+Richardson, Texas, United States
 Atlanta, Georgia, United States
-Atlanta, Georgia, United States
+Urbana, Illinois, United States
 College Park, Maryland, United States
 Atlanta, Georgia, United States
 Columbus, Ohio, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Atlanta, Georgia, United States
 Columbus, Ohio, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
-Tallahassee, Florida, United States
 Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Atlanta, Georgia, United States
+Champaign, Illinois, United States
 Stockton, California, United States
+Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Germantown, Maryland, United States
 Atlanta, Georgia, United States
+Pittsburgh, Pennsylvania, United States
+Mumbai Suburban, Maharashtra, India
 Raleigh, North Carolina, United States
 Puerto Rico
 Atlanta, Georgia, United States
 Pittsburgh, Pennsylvania, United States
 East Lansing, Michigan, United States
-Chicago, Illinois, United States
+Columbus, Ohio, United States
 Illinois, United States
 Atlanta, Georgia, United States
-Champaign, Illinois, United States
+Johns Creek, Georgia, United States
 Atlanta, Georgia, United States
 Bowling Green, Kentucky, United States
+Atlanta, Georgia, United States
 Atlanta, Georgia, United States
 Maryland, United States
 Atlanta, Georgia, United States
 Minneapolis, Minnesota, United States
 Atlanta, Georgia, United States
+San Diego, California, United States
 Riverdale, Georgia, United States
 Atlanta, Georgia, United States
+Tallahassee, Florida, United States
+Atlanta, Georgia, United States
+Harrisonburg, Virginia, United States
 Atlanta, Georgia, United States
 Atlanta, Georgia, United States

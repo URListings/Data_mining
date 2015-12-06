@@ -1,207 +1,252 @@
-San Francisco, California, United States
-Riverside, California, United States
 Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-San Francisco, California, United States
-Los Angeles, California, United States
-Santa Clara, California, United States
 Madison, Wisconsin, United States
-San Diego, California, United States
-Berkeley, California, United States
-Encinitas, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Irvine, California, United States
-Los Angeles, California, United States
-Westlake Village, California, United States
-Fullerton, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Garden Grove, California, United States
+San Jose, California, United States
+Rancho Cucamonga, California, United States
 Pasadena, California, United States
-Baltimore, Maryland, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-San Diego, California, United States
-Santa Clara, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Anaheim, California, United States
-San Diego, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Santa Clara, California, United States
-Berkeley, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Riverside, California, United States
-Los Angeles, California, United States
-Dallas, Texas, United States
-Malibu, California, United States
-Los Angeles, California, United States
-Dallas, Texas, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Berkeley, California, United States
-Los Angeles, California, United States
-San Diego, California, United States
-Berkeley, California, United States
-Los Angeles, California, United States
-Berkeley, California, United States
-Berkeley, California, United States
-Richardson, Texas, United States
-Berkeley, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Irvine, California, United States
-Thousand Oaks, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Danville, California, United States
-Riverside, California, United States
-Los Angeles, California, United States
-Kalamazoo, Michigan, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Del Mar, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-San Diego, California, United States
-San Diego, California, United States
-La Puente, California, United States
-Chino Hills, California, United States
-Irvine, California, United States
-Stanford, California, United States
-Los Angeles, California, United States
-Berkeley, California, United States
-Chino Hills, California, United States
-Riverside, California, United States
-San Diego, California, United States
-Mountain View, California, United States
-Covina, California, United States
-Berkeley, California, United States
-Los Angeles, California, United States
 San Diego, California, United States
 Pomona, California, United States
-Los Angeles, CA, US
-Berkeley, California, United States
-Los Angeles, California, United States
-Irvine, California, United States
+Anaheim, California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
-Minneapolis, Minnesota, United States
+Westlake Village, California, United States
 Los Angeles, California, United States
-Stanford, California, United States
-Cupertino, California, United States
-Bakersfield, California, United States
 Los Angeles, California, United States
-Agoura Hills, California, United States
 Riverside, California, United States
+Tucson, Arizona, United States
 Los Angeles, California, United States
 Berkeley, California, United States
 Los Angeles, California, United States
+Los Angeles, California, United States
+Berkeley, California, United States
+Alhambra, CA, US
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+San Diego, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Mountain View, California, United States
+Berkeley, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Berkeley, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Covina, California, United States
+Berkeley, California, United States
+Berkeley, California, United States
 Los Angeles, California, United States
 California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
-Los Angeles, California, United States
 San Diego, California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
 Berkeley, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Orange, California, United States
+San Diego, California, United States
 San Diego, California, United States
 Riverside, California, United States
-San Jose, California, United States
 San Diego, California, United States
+San Diego, California, United States
+Berkeley, California, United States
+Pleasanton, California, United States
+Minneapolis, Minnesota, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Riverside, California, United States
+Los Angeles, California, United States
+San Diego, California, United States
+West Lafayette, Indiana, United States
+Fullerton, California, United States
+Riverside, California, United States
+Tempe, Arizona, United States
+San Francisco, California, United States
+Ontario, California, United States
+Encinitas, California, United States
+Los Angeles, California, United States
 Fullerton, California, United States
 Los Angeles, California, United States
-Rancho Cucamonga, California, United States
-San Diego, California, United States
+Los Angeles, California, United States
+Santa Clara, California, United States
+Los Angeles, CA, US
 Los Angeles, California, United States
 Los Angeles, California, United States
-Alhambra, CA, US
-Burbank, California, United States
-Fremont, California, United States
-Ontario, California, United States
-Tucson, Arizona, United States
+Garden Grove, California, United States
+Los Angeles, California, United States
+Dallas, Texas, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
 Irvine, California, United States
-Pomona, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Diamond Bar, California, United States
-Thousand Oaks, California, United States
-San Diego, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-San Jose, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
 Berkeley, CA, US
 Los Angeles, California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
-Poway, California, United States
+Irvine, California, United States
+Berkeley, California, United States
+Chino Hills, California, United States
+Berkeley, California, United States
+San Diego, California, United States
+Irvine, California, United States
+Los Angeles, California, United States
+Riverside, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Irvine, California, United States
+Los Angeles, California, United States
+Del Mar, California, United States
+Chino Hills, California, United States
+Sunnyvale, California, United States
+Pomona, California, United States
+Los Angeles, CA, US
+Los Angeles, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Los Angeles, CA, US
 Los Angeles, California, United States
 Los Angeles, California, United States
 Los Angeles, California, United States
 Berkeley, California, United States
-Los Angeles, California, United States
-Diamond Bar, California, United States
 San Diego, California, United States
-San Diego, California, United States
-Los Angeles, California, United States
-Cupertino, California, United States
-San Diego, California, United States
-Los Angeles, California, United States
-Los Angeles, California, United States
-Los Angeles, CA, US
-Monterey Park, California, United States
-San Francisco, California, United States
 San Diego, California, United States
 Los Angeles, California, United States
 Salt Lake City, Utah, United States
-Los Angeles, California, United States
-San Diego, California, United States
-Los Angeles, California, United States
-Berkeley, California, United States
-Riverside, California, United States
-Culver City, California, United States
-Los Angeles, California, United States
-San Diego, CA, US
-Los Angeles, California, United States
-Berkeley, California, United States
-Los Angeles, California, United States
-San Diego, California, United States
-Los Angeles, California, United States
+Cupertino, California, United States
 Los Angeles, California, United States
 Los Angeles, CA, US
+San Diego, California, United States
+Los Angeles, California, United States
+Santa Clara, California, United States
+San Diego, California, United States
+San Francisco, California, United States
+Los Angeles, California, United States
+Cupertino, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Malibu, California, United States
+Berkeley, California, United States
+Los Angeles, California, United States
+Novato, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Riverside, California, United States
+Los Angeles, California, United States
+Kalamazoo, Michigan, United States
+San Diego, California, United States
+Baltimore, Maryland, United States
+Stanford, California, United States
+Riverside, California, United States
+Los Angeles, CA, US
+Los Angeles, California, United States
+Stanford, California, United States
+Bakersfield, California, United States
+La Jolla, CA, US
+Santa Clara, California, United States
+San Diego, California, United States
+Fullerton, California, United States
+Los Angeles, California, United States
+Fremont, California, United States
+Irvine, California, United States
+Huntington Beach, California, United States
+Los Angeles, California, United States
+Chino Hills, California, United States
+Thousand Oaks, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+San Diego, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Diamond Bar, California, United States
+Cupertino, California, United States
+Berkeley, California, United States
+Monterey Park, California, United States
+Los Angeles, California, United States
+San Antonio, Texas, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Culver City, California, United States
+San Diego, CA, US
+Los Angeles, California, United States
+Dallas, Texas, United States
+Los Angeles, California, United States
+Fremont, MI, US
+Irvine, California, United States
+Los Angeles, California, United States
+San Francisco, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Austin, Texas, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+San Jose, California, United States
+Los Angeles, California, United States
+Austin, Texas, United States
+Berkeley, California, United States
+Berkeley, California, United States
+Richardson, Texas, United States
+Thousand Oaks, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Danville, California, United States
+San Diego, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+La Puente, California, United States
+San Diego, California, United States
+San Diego, California, United States
+New Delhi, Delhi, India
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Orange, California, United States
+Burbank, California, United States
+Lodi, Lombardy, IT
+Los Angeles, California, United States
+Berkeley, California, United States
+Dallas, Texas, United States
+Diamond Bar, California, United States
+Los Angeles, California, United States
+San Jose, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Berkeley, California, United States
+Los Angeles, California, United States
+San Francisco, California, United States
+Berkeley, California, United States
+Agoura Hills, California, United States
+Los Angeles, California, United States
+Los Angeles, California, United States
+Riverside, California, United States
+Burbank, California, United States
+Los Angeles, California, United States
+Berkeley, California, United States
+Poway, California, United States
+Los Angeles, California, United States
+San Diego, California, United States
+Long Beach, California, United States
 Berkeley, California, United States
 La Jolla, CA, US
-Fremont, MI, US
-Los Angeles, California, United States
-Los Angeles, California, United States
-Long Beach, California, United States
-Los Angeles, California, United States
-Irvine, California, United States
 Berkeley, California, United States
-Los Angeles, California, United States
-Fullerton, California, United States

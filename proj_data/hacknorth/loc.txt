@@ -3,6 +3,7 @@ Ottawa, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, ON, CA
 Toronto, Ontario, Canada
+Toronto, Ontario, Canada
 Toronto Division, Ontario, Canada
 Brampton, Ontario, Canada
 Pittsburgh, Pennsylvania, United States
@@ -12,6 +13,9 @@ Waterloo, Ontario, Canada
 Madison, Wisconsin, United States
 Hamilton, Ontario, Canada
 Mississauga, Ontario, Canada
+Hamilton, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Edinburgh, Scotland, United Kingdom
@@ -24,8 +28,11 @@ Waterloo, Ontario, Canada
 Amherst, Massachusetts, United States
 Boston, Massachusetts, United States
 Waterloo, Ontario, Canada
+Hamilton, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+College Park, Maryland, United States
+London, Ontario, Canada
+West Lafayette, Indiana, United States
 Waterloo, Ontario, Canada
 Brampton, Ontario, Canada
 Ann Arbor, Michigan, United States
@@ -36,8 +43,13 @@ Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Markham, Ontario, Canada
+Waterloo, Ontario, Canada
+Windsor, Ontario, Canada
 Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
+Hamilton, ON, CA
 Pittsburgh, Pennsylvania, United States
 Waterloo, Ontario, Canada
 Los Angeles, California, United States
@@ -54,61 +66,76 @@ Waterloo, Ontario, Canada
 College Park, Maryland, United States
 Waterloo, Ontario, Canada
 Kingston, Ontario, Canada
+Montreal, Quebec, Canada
+Waterloo, Ontario, Canada
+Vancouver, British Columbia, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
-Mississauga, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
-Toronto, Ontario, Canada
+Amherst, MA, US
 Waterloo, Ontario, Canada
 Atlanta, Georgia, United States
 Toronto, Ontario, Canada
 Champaign, Illinois, United States
+Toronto, Ontario, Canada
 Saint Louis, MO, US
 London, Ontario, Canada
 Mississauga, Ontario, Canada
+Waterloo, Ontario, Canada
 Pittsburgh, Pennsylvania, United States
 Montreal, Quebec, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Edmonton, Alberta, Canada
+Urbana, Illinois, United States
+Waterloo, Ontario, Canada
+Kingston, Ontario, Canada
 Provo, Utah, United States
 Toronto, Ontario, Canada
 Shanghai, Shanghai, China
-Waterloo, Ontario, Canada
-Manchester, England, United Kingdom
-Waterloo, Ontario, Canada
+Madison, Wisconsin, United States
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
+New York, New York, United States
+Waterloo, Ontario, Canada
 Mississauga, Ontario, Canada
+Kingston, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Philadelphia, Pennsylvania, United States
 Waterloo, Ontario, Canada
 Saint Andrews, Scotland, GB
 Windsor, Ontario, Canada
+Manassas, Virginia, United States
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Ottawa, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Los Angeles, California, United States
 Markham, Ontario, Canada
+Waterloo, Ontario, Canada
 Mississauga, Ontario, Canada
+Waterloo, Ontario, Canada
 Kingston, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 London, Ontario, Canada
-Winnipeg, Manitoba, Canada
+Chicago, Illinois, United States
 Richmond Hill, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 London, Ontario, Canada
-California, United States
+Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Virginia, United States
 Waterloo, Ontario, Canada
@@ -126,64 +153,91 @@ Waterloo, Ontario, Canada
 London, Ontario, Canada
 Calgary, Alberta, Canada
 Windsor, Ontario, Canada
+Brampton, Ontario, Canada
 West Lafayette, Indiana, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Windsor, Ontario, Canada
+Boulder, Colorado, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Mountain View, California, United States
+Waterloo, Ontario, Canada
+Brampton, Ontario, Canada
+San Francisco, California, United States
 Hamilton, Ontario, Canada
 Kingston, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Windsor, Ontario, Canada
 London, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Seattle, Washington, United States
 Falls Church, Virginia, United States
 New York, New York, United States
 Waterloo, Ontario, Canada
-Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Amherst, Massachusetts, United States
 Toronto, Ontario, Canada
-Brampton, Ontario, Canada
+Toronto, Ontario, Canada
 London, Ontario, Canada
+McLean, Virginia, United States
+Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Gothenburg, Sweden
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Vienna, Virginia, United States
+Waterloo, Ontario, Canada
 Vancouver, British Columbia, Canada
+West Lafayette, Indiana, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 San Francisco, California, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Urbana, Illinois, United States
 Waterloo, Ontario, Canada
 Boston, Massachusetts, United States
 Claremont, California, United States
 London, Ontario, Canada
-Waterloo, Ontario, Canada
+New Haven, Connecticut, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Chicago, Illinois, United States
+Waterloo, Ontario, Canada
 Mississauga, Ontario, Canada
-Louisville, Kentucky, United States
+Vancouver, British Columbia, Canada
+Waterloo, Ontario, Canada
+Breslau, ON, CA
+Waterloo, ON, CA
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+St. Louis, Missouri, United States
 Windsor, Ontario, Canada
+Waterloo, Ontario, Canada
 Markham, Ontario, Canada
 London, Ontario, Canada
 London, Ontario, Canada
 Toronto, Ontario, Canada
-Mississauga, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Boston, Massachusetts, United States
+Waterloo, Ontario, Canada
 Hamilton, Ontario, Canada
 Waterloo, Ontario, Canada
 London, Ontario, Canada
@@ -191,6 +245,9 @@ Ottawa, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
+Waterloo, Ontario, Canada
+Windsor, Ontario, Canada
+Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Rochester, New York, United States
 Waterloo, Ontario, Canada
@@ -204,16 +261,23 @@ Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Edinburgh, Scotland, United Kingdom
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Amherst, Massachusetts, United States
 Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Pittsburgh, Pennsylvania, United States
 Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
+Urbana, IL, US
 Ottawa, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Los Altos, California, United States
 Waterloo, Ontario, Canada
+Gainesville, Florida, United States
+Hamilton, Ontario, Canada
 Waterloo, Ontario, Canada
 Hamilton, Ontario, Canada
 Vancouver, British Columbia, Canada
@@ -221,6 +285,7 @@ Amherst, Massachusetts, United States
 Montreal, Quebec, Canada
 Annapolis, Maryland, United States
 Waterloo, Ontario, Canada
+Cypress, California, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
@@ -229,9 +294,11 @@ London, Ontario, Canada
 Buffalo, New York, United States
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Ottawa, Ontario, Canada
 Urbana, Illinois, United States
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
+Pittsburgh, Pennsylvania, United States
 Hamilton, Ontario, Canada
 Philadelphia, Pennsylvania, United States
 Waterloo, Ontario, Canada
@@ -241,15 +308,18 @@ Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Barcelona, Catalonia, Spain
 Los Angeles, California, United States
+San Francisco, California, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Vaughan, ON, CA
-Toronto, Ontario, Canada
+Philadelphia, Pennsylvania, United States
 Waterloo, Ontario, Canada
 Stanford, California, United States
+Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 Windsor, Ontario, Canada
@@ -258,39 +328,47 @@ Toronto, Ontario, Canada
 Ottawa, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Buffalo, New York, United States
+Kitchener, Ontario, Canada
 Ottawa, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
-New Haven, Connecticut, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 West Lafayette, Indiana, United States
 Cambridge, Massachusetts, United States
 Waterloo, Ontario, Canada
-Toronto, Ontario, Canada
+Fairbanks, AK, US
 Durham, North Carolina, United States
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Philadelphia, Pennsylvania, United States
 Waterloo, Ontario, Canada
-Waterloo, ON, CA
+Windsor, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Atlanta, Georgia, United States
+Toronto, Ontario, Canada
 Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Toronto, Ontario, Canada
 Durham, North Carolina, United States
 Hamilton, Ontario, Canada
+Waterloo, Ontario, Canada
 Mountain View, California, United States
 Boston, Massachusetts, United States
 Waterloo, Ontario, Canada
@@ -298,9 +376,9 @@ Waterloo, Ontario, Canada
 London, Ontario, Canada
 College Park, Maryland, United States
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
-Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Los Angeles, California, United States
 Waterloo, Ontario, Canada
 West Lafayette, Indiana, United States
 Waterloo, Ontario, Canada
@@ -313,17 +391,23 @@ London, Ontario, Canada
 Waterloo, Ontario, Canada
 Kitchener, Ontario, Canada
 Waterloo, Ontario, Canada
+South Hadley, Massachusetts, United States
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Claremont, California, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Vancouver, British Columbia, Canada
 Cambridge, Massachusetts, United States
+Louisville, Kentucky, United States
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Ann Arbor, Michigan, United States
 Toronto, Ontario, Canada
 Mississauga, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Mississauga, Ontario, Canada
 London, Ontario, Canada
@@ -332,6 +416,7 @@ Milan, Lombardy, Italy
 Waterloo, Ontario, Canada
 Hamilton, Ontario, Canada
 Chicago, Illinois, United States
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Windsor, Ontario, Canada
@@ -344,15 +429,17 @@ College Park, Maryland, United States
 Waterloo, Ontario, Canada
 Mississauga, Ontario, Canada
 Brampton, Ontario, Canada
+New York, New York, United States
 College Park, Maryland, United States
+Dallas, Texas, United States
 Windsor, Ontario, Canada
 Waterloo, Ontario, Canada
 Troy, New York, United States
 Boulder, Colorado, United States
 Waterloo, Ontario, Canada
 Barcelona, Catalonia, Spain
-Urbana, Illinois, United States
 Waterloo, Ontario, Canada
+Naperville, Illinois, United States
 Waterloo, Ontario, Canada
 Winnipeg, Manitoba, Canada
 Waterloo, Ontario, Canada
@@ -365,24 +452,30 @@ Amsterdam, North Holland, The Netherlands
 Vancouver, Washington, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Hamilton, Ontario, Canada
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Mississauga, Ontario, Canada
 London, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Boston, Massachusetts, United States
 Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Kingston, Ontario, Canada
 Pickering, Ontario, Canada
+Waterloo, Ontario, Canada
+Montreal, Quebec, Canada
 Vancouver, British Columbia, Canada
 Toronto, Ontario, Canada
-Toronto, Ontario, Canada
+Montreal, Quebec, Canada
+Waterloo, Ontario, Canada
 Markham, Ontario, Canada
 Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Mississauga, Ontario, Canada
+Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
@@ -390,8 +483,15 @@ Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Vancouver, British Columbia, Canada
 Hamilton, Ontario, Canada
+Waterloo, Ontario, Canada
 Kitchener, Ontario, Canada
+Toronto, Ontario, Canada
 London, Ontario, Canada
 Aurora, Ontario, Canada
 Waterloo, Ontario, Canada
@@ -399,13 +499,15 @@ Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Pittsburgh, Pennsylvania, United States
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 New Haven, Connecticut, United States
 Claremont, California, United States
 London, Ontario, Canada
 Waterloo, Ontario, Canada
-McLean, Virginia, United States
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Cambridge, Massachusetts, United States
 Waterloo, Ontario, Canada
@@ -420,12 +522,13 @@ Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Markham, Ontario, Canada
+Waterloo, Ontario, Canada
 San Francisco, California, United States
 Toronto, Ontario, Canada
 Los Angeles, California, United States
 Waterloo, Ontario, Canada
 New York, New York, United States
-Hamilton, Ontario, Canada
+Mississauga, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
@@ -434,19 +537,22 @@ San Francisco, California, United States
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Seattle, Washington, United States
+Detroit, Michigan, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Burke, VA, US
 Mississauga, Ontario, Canada
+Brampton, Ontario, Canada
 San Francisco, California, United States
 Ann Arbor, Michigan, United States
 Milton, Ontario, Canada
+London, Ontario, Canada
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Lexington, Massachusetts, United States
 London, Ontario, Canada
 Toronto, Ontario, Canada
-Detroit, Michigan, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Durham, North Carolina, United States
@@ -457,7 +563,6 @@ Waterloo, Ontario, Canada
 Philadelphia, Pennsylvania, United States
 Toronto, Ontario, Canada
 Montreal, Quebec, Canada
-Madison, Wisconsin, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Berlin, Berlin, Germany
@@ -468,14 +573,17 @@ Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Montreal, Quebec, Canada
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Ottawa, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Barcelona, CT, ES
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Kingston, Ontario, Canada
 Toronto, ON, CA
@@ -484,6 +592,8 @@ San Francisco, California, United States
 Toronto, Ontario, Canada
 Boston, MA, US
 Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
@@ -492,18 +602,20 @@ Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 London, Ontario, Canada
 Kingston, Ontario, Canada
+Canada
 Guelph, Ontario, Canada
 Los Angeles, California, United States
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Amherst, Massachusetts, United States
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Cambridge, Massachusetts, United States
 Winnipeg, Manitoba, Canada
 Toronto, Ontario, Canada
-Kingston, Ontario, Canada
+Binghamton, New York, United States
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Manchester, England, United Kingdom
+New York, New York, United States
 Gothenburg, Sweden
 Waterloo, Ontario, Canada
 Vancouver, British Columbia, Canada
@@ -525,6 +637,7 @@ Toronto, Ontario, Canada
 Markham, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 Windsor, Ontario, Canada
 Waterloo, Ontario, Canada
@@ -533,37 +646,46 @@ Waterloo, Ontario, Canada
 London, Ontario, Canada
 Montreal, Quebec, Canada
 Fairfax, Virginia, United States
-Windsor, Ontario, Canada
+Seoul, South Korea
 Waterloo, Ontario, Canada
 Vancouver, British Columbia, Canada
 Vancouver, British Columbia, Canada
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
-Waterloo, Ontario, Canada
+Hamilton, Ontario, Canada
 Montreal, Quebec, Canada
+Örebro, Örebro County, Sweden
 Palo Alto, California, United States
 Waterloo, Ontario, Canada
 Richmond Hill, Ontario, Canada
 Waterloo, Ontario, Canada
+Los Angeles, California, United States
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Hamilton, Ontario, Canada
-Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Provo, Utah, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Kingston, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Toronto, Ontario, Canada
-Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Hamilton, Ontario, Canada
+Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 London, Ontario, Canada
 Mississauga, Ontario, Canada
+Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 London, Ontario, Canada
+New York, New York, United States
 Waterloo, Ontario, Canada
 New York, New York, United States
 Montreal, Quebec, Canada
@@ -573,14 +695,17 @@ Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Chicago, Illinois, United States
 Ottawa, Ontario, Canada
-Waterloo, Ontario, Canada
+Oakville, Ontario, Canada
 Los Angeles, California, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Orlando, Florida, United States
+Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 South Hadley, Massachusetts, United States
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Davis, California, United States
@@ -588,15 +713,19 @@ Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Hamilton, Ontario, Canada
-Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
-Toronto, Ontario, Canada
-Toronto, Ontario, Canada
-Breslau, ON, CA
+London, Ontario, Canada
 Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
+Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
+Edmonton, Alberta, Canada
+Amherst, Massachusetts, United States
+Toronto, Ontario, Canada
+Windsor, Ontario, Canada
 Waterloo, Ontario, Canada
 Madison, Wisconsin, United States
 Toronto, Ontario, Canada
@@ -606,33 +735,42 @@ Philadelphia, Pennsylvania, United States
 Waterloo, Ontario, Canada
 Boston, Massachusetts, United States
 Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Markham, Ontario, Canada
 Waterloo, Ontario, Canada
 Manchester, England, United Kingdom
 Waterloo, Ontario, Canada
 Champaign, Illinois, United States
 Waterloo, Ontario, Canada
-Ottawa, Ontario, Canada
 Waterloo, Ontario, Canada
+Ottawa, Ontario, Canada
+Laguna Niguel, California, United States
+Waterloo Regional Municipality, ON, CA
 Cairo, Cairo Governorate, Egypt
 Toronto, Ontario, Canada
+Urbana, Illinois, United States
+Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Santa Monica, California, United States
 Toronto, Ontario, Canada
 Guelph, Ontario, Canada
 Toronto, Ontario, Canada
-Toronto, ON, CA
-Montreal, Quebec, Canada
-Saint Andrews, Scotland, GB
-Rabat, Rabat-Sale-Zemmour-Zaer, Morocco
 Waterloo, Ontario, Canada
+Montreal, Quebec, Canada
+Toronto, Ontario, Canada
+Rabat, Rabat-Sale-Zemmour-Zaer, Morocco
+Brentwood, Tennessee, United States
+Waterloo, Ontario, Canada
+Saint Andrews, Scotland, GB
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Mississauga, Ontario, Canada
 Toronto, Ontario, Canada
-Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Urbana, IL, US
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Palo Alto, California, United States
@@ -641,46 +779,65 @@ Kitchener, Ontario, Canada
 San Jose, California, United States
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
-Hamilton, Ontario, Canada
+Ashburn, Virginia, United States
+Rochester, New York, United States
+Winnipeg, Manitoba, Canada
 Maryland, United States
 Munich, Bavaria, Germany
 Montreal, Quebec, Canada
 San Francisco, California, United States
+Toronto, Ontario, Canada
 Mississauga, Ontario, Canada
 Waterloo, Ontario, Canada
 Hillsborough Township, New Jersey, United States
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Kingston, Ontario, Canada
 Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
 Hamilton, Ontario, Canada
-College Park, Maryland, United States
 College Park, Maryland, United States
 Waterloo, Ontario, Canada
 Syracuse, New York, United States
 London, Ontario, Canada
-Montreal, Quebec, Canada
+Boston, Massachusetts, United States
+Ann Arbor, Michigan, United States
+London, Ontario, Canada
 Waterloo, Ontario, Canada
-Amherst, MA, US
+Toronto, Ontario, Canada
+Manresa, CT, ES
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Ithaca, New York, United States
+California, United States
 Toronto, Ontario, Canada
+Kingston, Ontario, Canada
 Winnipeg, Manitoba, Canada
 Toronto, Ontario, Canada
+Kingston, Ontario, Canada
+Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 South Hadley, Massachusetts, United States
-Naperville, Illinois, United States
+Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
+Boston, Massachusetts, United States
+Montreal, Quebec, Canada
 Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Mississauga, Ontario, Canada
-West Lafayette, Indiana, United States
+Waterloo, Ontario, Canada
 Ottawa, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Ottawa, Ontario, Canada
+Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
@@ -688,22 +845,26 @@ Waterloo, Ontario, Canada
 Edmonton, Alberta, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
+Waterloo, Ontario, Canada
 Edmonton, Alberta, Canada
 Ottawa, Ontario, Canada
-Pittsburgh, Pennsylvania, United States
+Austin, Texas, United States
 Montreal, Quebec, Canada
 West Lafayette, Indiana, United States
-Laguna Niguel, California, United States
+State College, PA, US
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Los Altos, California, United States
 Toronto, Ontario, Canada
+Saint Andrews, Scotland, GB
 Philadelphia, Pennsylvania, United States
-Los Angeles, California, United States
+Waterloo, Ontario, Canada
 Newmarket, Ontario, Canada
+Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 Markham, Ontario, Canada
-Dallas, Texas, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Richmond, Virginia, United States
 Canada
@@ -718,10 +879,13 @@ Markham, Ontario, Canada
 Munich, Bavaria, Germany
 Philadelphia, Pennsylvania, United States
 Philadelphia, Pennsylvania, United States
+Chicago, Illinois, United States
+Hamilton, Ontario, Canada
 Waterloo, Ontario, Canada
 Calgary, Alberta, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
+Gothenburg, Sweden
 Waterloo, Ontario, Canada
 Montreal, Quebec, Canada
 Montreal, Quebec, Canada
@@ -729,27 +893,31 @@ West Lafayette, Indiana, United States
 Vancouver, British Columbia, Canada
 Waterloo, Ontario, Canada
 Jersey City, New Jersey, United States
-Orlando, Florida, United States
 Waterloo, Ontario, Canada
-New York, New York, United States
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Illinois, United States
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Toronto, Ontario, Canada
+London, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
-Oakville, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 San Francisco, California, United States
+Toronto, Ontario, Canada
 Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Toronto, Ontario, Canada
 Ajax, Ontario, Canada
 Montreal, Quebec, Canada
-Waterloo, Ontario, Canada
+Toronto, ON, CA
 San Francisco, California, United States
 Munich, Bavaria, Germany
 Waterloo, Ontario, Canada
@@ -759,6 +927,8 @@ Toronto, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Saint Louis, MO, US
+Markham, Ontario, Canada
+Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Herndon, Virginia, United States
 Toronto, Ontario, Canada
@@ -766,6 +936,7 @@ Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Los Altos, California, United States
 Waterloo, Ontario, Canada
+Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
 Waterloo, Ontario, Canada
@@ -773,7 +944,10 @@ New York, New York, United States
 Toronto, Ontario, Canada
 Montreal, Quebec, Canada
 Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
+Waterloo, Ontario, Canada
 Milton, Ontario, Canada
 Rochester, New York, United States
-Montreal, Quebec, Canada
+Waterloo, Ontario, Canada
+Windsor, Ontario, Canada
 Waterloo, Ontario, Canada
