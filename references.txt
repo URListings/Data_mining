@@ -1,9 +1,13 @@
 https://www.mapcustomizer.com/map/pennapps
-https://www.mapcustomizer.com/map/calhacks
-https://www.mapcustomizer.com/map/mhacks
-https://www.mapcustomizer.com/map/techcrunchHack
-https://www.mapcustomizer.com/map/hackthenorth
-https://www.mapcustomizer.com/map/yalehack
+https://www.mapcustomizer.com/map/calhacks_loc
+https://www.mapcustomizer.com/map/cornell_loc
+https://www.mapcustomizer.com/map/hackgt_loc
+https://www.mapcustomizer.com/map/hacknorth_loc
+https://www.mapcustomizer.com/map/hackru_loc
+https://www.mapcustomizer.com/map/mhacks_loc
+https://www.mapcustomizer.com/map/pennapps_loc
+https://www.mapcustomizer.com/map/techcrunch_loc
+https://www.mapcustomizer.com/map/yhack_loc
 
 https://www.mapcustomizer.com/map/HHWinners
 
