@@ -6,3 +6,10 @@ https://www.mapcustomizer.com/map/hackthenorth
 https://www.mapcustomizer.com/map/yalehack
 
 https://www.mapcustomizer.com/map/HHWinners
+
+
+
+Plot data:
+https://plot.ly/ -- Scatter
+https://datawrapper.de/ -- charts
+https://tagul.com/ -- tag cloud

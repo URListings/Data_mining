@@ -171,10 +171,90 @@ def tags_csv():
     a.writerows(tagdata)
  print 'Done....'
 
+def getWinnerTagsCount():
+ with open(filename) as data_file:    
+    data = json.load(data_file)
+ tagdata = {}
+ out = ''
+ for proj in data:
+  if proj['winner'] == False:
+    continue
+  tags = proj['tags']
+  if tags is not None: 
+   for f in tags:
+    if f in tagdata:
+      tagdata[f] += 1
+    else:
+      tagdata[f] = 1
+
+ for key in tagdata:
+   if tagdata[key] > 20:
+     out = out + key + ';' + str(tagdata[key]) + '\n'
+ with open(fileout, 'wb') as fp:
+    fp.write(out)
+ print 'Done....'
+
+def getAllTags():
+ with open(filename) as data_file:    
+    data = json.load(data_file)
+ tagdata = {}
+ out = ''
+ for proj in data:
+  tags = proj['tags']
+  if tags is not None: 
+   for f in tags:
+    if f in tagdata:
+      tagdata[f] += 1
+    else:
+      tagdata[f] = 1
+
+ for key in tagdata:
+   if tagdata[key] > 100:
+     out = out + key + ';' + str(tagdata[key]) + '\n'
+ with open(fileout, 'wb') as fp:
+    fp.write(out)
+ print 'Done....'
+
+
+def getScatterPlotData():
+ threshold = int(sys.argv[4])
+ with open(filename) as data_file:    
+    data = json.load(data_file)
+ tagdata = [['Tag','Project_count' ,'Win_count','Win:Proj']]
+ tagkey = {}
+ for proj in data:
+  tags = proj['tags']
+  if tags is not None: 
+   for f in tags:
+    if f in tagkey:
+       arr = tagkey[f]
+       arr[1] += 1
+       if proj['winner'] == True:
+         arr[2] += 1
+    else:
+      arr = []
+      arr.extend([f, 0, 0])
+      tagkey[f] = arr
+ for key in tagkey:
+   arr = tagkey[key]
+   if arr[1] > threshold:
+     arr.append(round(float(arr[2])/arr[1], 4))
+     tagdata.append(arr)
+ with open(fileout, 'wb') as fp:
+     a = csv.writer(fp, delimiter=',')
+     a.writerows(tagdata)
+ print 'Done....'
+
 
 if arg_type == '1':
  tags_csv()
 elif arg_type == '3':
  tags_with_userGroup()
+elif arg_type == '4':
+ getAllTags()
+elif arg_type == '5':
+ getWinnerTagsCount()
+elif arg_type == '6':
+ getScatterPlotData()
 else:
  tags_with_true()
