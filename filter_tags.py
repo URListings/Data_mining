@@ -33,7 +33,6 @@ def tags_with_true():
    if count > min_freq_count:
     tag_header.append(key)
  tag_header.sort()
- tag_header.append(winner)
  tagdata.append(tag_header)
  i = 0
  tagged_proj = 0
@@ -52,17 +51,17 @@ def tags_with_true():
     tag_dic[s] = 1
   for s in tag_header:
     if s in tag_dic:
-      row.append('True')
+      row.append('1')
       insert = 1
-    elif s == winner:
-      if proj['winner'] == True and insert == 1:
-        i += 1
-      row.append(str(proj['winner'])) 
     else:
-      row.append('?')
+      row.append('0')
   if insert == 1:
+   if proj['winner'] == True:
+      i += 1
+   #row.append(str(proj['winner']))
    tagged_proj_included += 1
    tagdata.append(row)
+ #tag_header.append(winner)
  print 'Project with tags:' + str(tagged_proj)
  print 'Projects included:' + str(tagged_proj_included)
  print 'Winners:' + str(i)
