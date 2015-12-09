@@ -171,6 +171,7 @@ def tags_csv():
  print 'Done....'
 
 def getWinnerTagsCount():
+ threshold = int(sys.argv[4])
  with open(filename) as data_file:    
     data = json.load(data_file)
  tagdata = {}
@@ -187,13 +188,14 @@ def getWinnerTagsCount():
       tagdata[f] = 1
 
  for key in tagdata:
-   if tagdata[key] > 20:
+   if tagdata[key] > threshold:
      out = out + key + ';' + str(tagdata[key]) + '\n'
  with open(fileout, 'wb') as fp:
     fp.write(out)
  print 'Done....'
 
 def getAllTags():
+ threshold = int(sys.argv[4])
  with open(filename) as data_file:    
     data = json.load(data_file)
  tagdata = {}
@@ -208,7 +210,7 @@ def getAllTags():
       tagdata[f] = 1
 
  for key in tagdata:
-   if tagdata[key] > 100:
+   if tagdata[key] > threshold:
      out = out + key + ';' + str(tagdata[key]) + '\n'
  with open(fileout, 'wb') as fp:
     fp.write(out)
