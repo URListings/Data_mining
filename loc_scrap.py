@@ -61,7 +61,7 @@ tagdata = [["state", "participant_count", "win_count", "win_ratio"]]
 for key in all_states:
   participants = all_states[key]
   winners = winner_by_states[key]
-  ratio = 0 if participants == 0 else float(winners)/participants
+  ratio = 0 if participants < 50 else float(winners)/participants
   row = [key, participants, winners, ratio]
   tagdata.append(row)
 
