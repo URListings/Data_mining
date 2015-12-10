@@ -9,6 +9,28 @@ arg_type = sys.argv[3]
 if not os.path.exists(os.path.dirname(fileout)):
     os.makedirs(os.path.dirname(fileout))
 
+parent = {"css3":"css","html5":"html","ajax":"javascript","angular.js":"javascript","backbone.js":"javascript","coffeescript":"javascript","d3.js":"javascript",
+"express.js":"javascript", "jquery":"javascript", "json":"javascript", "leaflet.js":"javascript", "meteor.js":"javascript", "node.js":"javascript", "node.js":"javascript", "socket.io":"javascript","facebook-graph":"facebook","django":"python","flask":"python","github":"git","iphone-sdk":"ios","swift":"ios","tizen-sdk":"tizen",
+"php5":"php","android-studio":"android","asp.net":".net","mysql":"sql","postgresql":"sql","sqlite":"sql","ruby-on-rails":"ruby","websockets":"web","bootstrap":"web", "c#":".net","visual-studio":".net", 
+"wordpress":"web"}
+
+
+parent1 = {"css3":"css","html5":"html","ajax":"javascript", "json":"javascript","facebook-graph":"facebook","github":"git","iphone-sdk":"ios","swift":"ios","tizen-sdk":"tizen",
+"php5":"php","android-studio":"android","asp.net":".net","mysql":"sql","postgresql":"sql","sqlite":"sql","ruby-on-rails":"ruby","websockets":"web","bootstrap":"web", "c#":".net","visual-studio":".net", 
+"wordpress":"web"}
+
+def filter_from_parent(tagsList ,parent):
+  tags_dic = {}
+  for val in tagsList:
+    if val in parent:
+       tags_dic[parent[val]] = 1
+    else:
+       tags_dic[val] = 1
+  tagsList = []
+  for key in tags_dic:
+    tagsList.append(key)
+  return tagsList
+
 def tags_with_true():
  winner = 'user_wins_comp'
  min_freq_count = int(sys.argv[4])
@@ -20,7 +42,8 @@ def tags_with_true():
  print 'Projects count:' + str(len(data))
  for proj in data:
   if proj['tags'] is None:
-    continue 
+    continue
+  proj['tags'] = filter_from_parent(proj['tags'], parent)
   for s in proj['tags']:
     if s not in tags_map:
      tags_map[s] = 1
@@ -84,7 +107,8 @@ def tags_with_userGroup():
  print 'Projects count:' + str(len(data))
  for proj in data:
   if proj['tags'] is None:
-    continue 
+    continue
+  proj['tags'] = filter_from_parent(proj['tags'], parent) 
   for s in proj['tags']:
     if s not in tags_map:
      tags_map[s] = 1
@@ -181,6 +205,7 @@ def getWinnerTagsCount():
     continue
   tags = proj['tags']
   if tags is not None: 
+   tags = filter_from_parent(proj['tags'], parent1)
    for f in tags:
     if f in tagdata:
       tagdata[f] += 1
@@ -203,6 +228,7 @@ def getAllTags():
  for proj in data:
   tags = proj['tags']
   if tags is not None: 
+   tags = filter_from_parent(proj['tags'], parent1)
    for f in tags:
     if f in tagdata:
       tagdata[f] += 1
@@ -225,7 +251,8 @@ def getScatterPlotData():
  tagkey = {}
  for proj in data:
   tags = proj['tags']
-  if tags is not None: 
+  if tags is not None:
+   tags = filter_from_parent(proj['tags'], parent1) 
    for f in tags:
     if f in tagkey:
        arr = tagkey[f]
