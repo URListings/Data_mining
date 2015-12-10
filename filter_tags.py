@@ -11,7 +11,7 @@ if not os.path.exists(os.path.dirname(fileout)):
 
 parent = {"css3":"css","html5":"html","ajax":"javascript","angular.js":"javascript","backbone.js":"javascript","coffeescript":"javascript","d3.js":"javascript",
 "express.js":"javascript", "jquery":"javascript", "json":"javascript", "leaflet.js":"javascript", "meteor.js":"javascript", "node.js":"javascript", "node.js":"javascript", "socket.io":"javascript","facebook-graph":"facebook","django":"python","flask":"python","github":"git","iphone-sdk":"ios","swift":"ios","tizen-sdk":"tizen",
-"php5":"php","android-studio":"android","asp.net":".net","mysql":"sql","postgresql":"sql","sqlite":"sql","ruby-on-rails":"ruby","websockets":"web","bootstrap":"web", "c#":".net","visual-studio":".net", 
+"php5":"php","android-studio":"android","asp.net":"web","mysql":"sql","postgresql":"sql","sqlite":"sql","ruby-on-rails":"ruby","websockets":"web","bootstrap":"web", "c#":".net","visual-studio":".net", 
 "wordpress":"web"}
 
 
