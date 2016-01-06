@@ -10,4 +10,4 @@ In this project we're analyzing the projects and participants in various hackath
 
 [Part 2](https://medium.com/@kanishktripathi/our-analysis-of-hackathon-projects-part-2-258f30dff038): Participants location analysis and trends
 
-Part 3: Projects analysis with user experience, classifer
+[Part 3](https://medium.com/@kanishktripathi/our-analysis-of-hackathon-projects-part-3-a94637c18b14#.1nostaw81): Projects analysis with user experience, classifer
